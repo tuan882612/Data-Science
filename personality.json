@@ -1,0 +1,86 @@
+{
+    "infp-t":{
+        "career":[
+            "artist",
+            "counselor",
+            "graphic designer",
+            "librarian",
+            "psychologist",
+            "physical therapist",
+            "social worker",
+            "writer"
+        ],
+        "trait":[
+            "creative",
+            "caring",
+            "driven",
+            "idealistic",
+            "hardworking",
+            "introverted"
+        ]
+    },
+    "enfp-t":{
+        "career":[
+            "psychologist",
+            "journalist",
+            "actor",
+            "tv anchor/reporter",
+            "nutritionist",
+            "nurse",
+            "social worker",
+            "politician",
+            "counselor"
+        ],
+        "trait":[
+            "warm",
+            "enthusiastic",
+            "spontaneous",
+            "inovative",
+            "creative",
+            "extroverted"
+        ]
+    },    
+    "estj-a":{
+        "career":[
+            "police officer",
+            "military",
+            "judge",
+            "politician",
+            "teacher",
+            "school administrator",
+            "business manager",
+            "accountant",
+            "engineer",
+            "banker"
+        ],
+        "trait":[
+            "realistic",
+            "leadership",
+            "logical",
+            "hardworking",
+            "extroverted",
+            "confident"
+        ]
+    },
+    "esfj-a":{
+        "career":[
+            "childcare",
+            "nursing",
+            "teaching",
+            "social work",
+            "counseling",
+            "physician",
+            "receptionist",
+            "bookkeeper",
+            "office manager"
+        ],
+        "trait":[
+            "caring",
+            "outgoing",
+            "sensitive",
+            "organized",
+            "practical",
+            "extroverted"
+        ]
+    }
+}
