@@ -1,4 +1,6 @@
 from datasets import load_dataset
+import pandas as pd, numpy as np
+import random
 import json
 
 def get_metaData(data):
@@ -23,68 +25,229 @@ def parse(data):
     return hash
     
 def parse_age(birth, death):
-    arr = []
-    arr2 = []
+    temp1 = []
+    temp2 = []
+
+    birth = birth.split()        
+    death = death.split()
+   
+    for i in range(len(birth)):
+        birth[i] = birth[i].split('-')
+        
+    for i in range(len(death)):
+        death[i] = death[i].split('-')    
     
-    for i in birth.split():
     
-        if len(i) == 4 and i[0].isnumeric():
-            arr2.append(i)
+    for i in birth:
+        for j in i:
             
-    for i in death.split():
+            if len(j) >= 4 and j[:4].isnumeric():
+                temp2.append(j[:4])
+
+    for i in death:
+        for j in i:
+            
+            if len(j) >= 4 and j[:4].isnumeric():
+                temp1.append(j[:4])
     
-        if len(i) == 4 and i[0].isnumeric():
-            arr.append(i)
-    
-    if len(arr) == 0 or len(arr2) == 0:
-        return
+    if len(temp1) == 0 or len(temp2) == 0:
+        return str(random.randint(18,40))
     
     else:
-        if len(arr) > 1:
-            for i in range(len(arr)):
-                arr[i] = int(arr[i])
+        if len(temp1) > 1:
+            for i in range(len(temp1)):
+                temp1[i] = int(temp1[i])
                 
-            death = str(max(arr))
+            death = str(max(temp1))
             
         else:
-            death = str(arr[0])
+            death = str(temp1[0])
             
-        if len(arr2) > 1:
-            for i in range(len(arr2)):
-                arr[i] = int(arr2[i])
+        if len(temp2) > 1:
+            for i in range(len(temp2)):
+                temp2[i] = int(temp2[i])
                 
-            birth = str(max(arr2))
+            birth = str(max(temp2))
             
         else:
-            birth = str(arr2[0])
+            birth = str(temp2[0])
+            
+        return(str(int(death)-int(birth)))
 
-        print(str(int(death)-int(birth)))
+def parse_birth_location(sample):
+    data = sample.split(',')
+    arr = []
+    
+    for i in range(len(data)):
+        data[i] = data[i].strip()
+        
+    for i in data:
+        
+        if ',' not in i and '-' not in i and len(i) != 0:
+            arr.append(i)
+            
+    return arr
 
-def get_input_text():
-    data = load_dataset("wiki_bio") #['input_text', 'target_text']
+def search_data():
+    data = json.load(open('Data-Science\data.json',encoding="utf8"))[:]
+    
+    state = json.load(open('Data-Science\state.json',encoding="utf8"))
+    attr = json.load(open('Data-Science\Attributes.json',encoding="utf8"))
+    location = json.load(open('Data-Science\location.json',encoding="utf8"))
+    traits = json.load(open('Data-Science\personality.json',encoding="utf8"))
+    
     count = 0
     
-    for i in zip(data['train']['input_text'][:],
-                 data['train']['target_text'][:]):
-        temp = parse(i[0])
+    for i in range(len(data)):
+        temp = data[i]['birth_place'].split(' ')
         
-        if len(temp) >= 5:
-            # print(temp['birth_date'],temp['death_date'])
-            # age = parse_age(temp['birth_date'],temp['death_date'])
-            # temp['target_text'] = i[1]
-            if 'occupation' in temp:
-                print(temp['occupation'])
+        for word in temp:
             
-    # with open('data.json', 'w', encoding='utf-8') as f:
-        
-    #     for i in zip(data['train']['input_text'],data['train']['target_text']):
-    #         temp = parse(i[0])
+            if word in ["usa", "u.s."]:
+                word = "united states"
             
-    #         if len(temp) >= 5:
-    #             temp['target_text'] = i[1]
-    #             json.dump(temp, f, ensure_ascii=False, indent=4)
+            if word in state:
+                
+                if state[word] in attr:
+                    # print(data[i]['name'], traits[attr[state[word]][1]])
+                    count += 1
+                    break
+                    
+            elif word in location:
+                
+                if word in attr:
+                    # print(data[i]['name'], traits[attr[word][1]])
+                    count += 1
+                    break
+                   
+    print(count)
 
+def build_locations():
+    data = json.load(open('Data-Science\data.json',encoding="utf8"))
+    hash = {}
+    
+    for sample in data:
+        place = parse(sample['birth_place'])
+
+        for i in place:
             
+            if i not in hash:
+                hash[i] = 1
+            else:
+                hash[i] += 1
+    
+    hash = dict(sorted(hash.items(), key= lambda x:x[1], reverse=True))
+    
+    # with open('states-countries.json', 'w', encoding='utf-8') as f:
+    #     json.dump(hash, f, ensure_ascii=False, indent=4)
+
+def build_dataset():
+    data = load_dataset("wiki_bio") #['input_text', 'target_text']
+    
+    # for i in zip(data['train']['input_text'][:],
+    #              data['train']['target_text'][:]):
+    #     temp = parse(i[0])
+        
+    #     if len(temp) >= 5:
+    #         age = parse_age(temp['birth_date'],temp['death_date'])
+    #         del temp['birth_date']
+    #         del temp['death_date']
+    #         temp['age'] = age
+    #         temp['target_text'] = i[1]
+            
+    #         print(temp)
+            
+    with open('temp.json', 'w', encoding='utf-8') as f:
+        
+        for i in zip(data['train']['input_text'][:],
+                    data['train']['target_text'][:]):
+            temp = parse(i[0])
+            
+            if len(temp) >= 5:
+                age = parse_age(temp['birth_date'],temp['death_date'])
+                del temp['birth_date']
+                del temp['death_date']
+                temp['age'] = age
+                temp['target_text'] = i[1]
+            
+                json.dump(temp, f, ensure_ascii=False, indent=4)
+
+def build_attributes():
+    df = pd.read_csv('Data-Science\DataScience\Data Sets\mbti-countries.csv')
+    
+    hash = {}
+    names = [df['Country'][i] for i in range(len(df))]
+
+    for i in range(len(df)):
+
+        header = list(df.loc[df['Country'] == names[i]])
+        data = list(df.loc[i])
+
+        extro = 0
+        intro = 0
+        
+        ehash = {}
+        ihash = {}
+        
+        for j in zip(header, data):
+            col = j[0]
+            num = j[1]
+
+            if col[0] == 'E':
+                extro += num
+                ehash[num] = col
+                
+            elif col[0] == 'I':
+                intro += num
+                ihash[num] = col
+                
+        if extro > intro:
+            hash[names[i].lower()] = ['extroverted', ehash[max(ehash.keys())].lower()]
+
+        else:
+            hash[names[i].lower()] = ['introverted', ihash[max(ihash.keys())].lower()]
     
 if __name__ == "__main__":
-    get_input_text()
+    # build_dataset()
+    # build_attributes()
+    # build_locations()
+    search_data()
+    
+    """
+    data
+    {
+        "birth_place"
+        "name"
+        "occupation":
+        "age":
+        "target_text":
+    }
+    
+    location
+    {
+        "country":[
+            "state(s)"
+        ]
+    }
+    
+    New_location
+    {
+        "state":"country"
+    }
+    
+    attribute ['estj-a': 3, 'esfj-a': 20, 'enfp-t': 60, 'infp-t': 75]
+    {
+        "country":[
+           "attribute"
+           "personality type"
+        ]
+    }
+    
+    personality
+    {
+        "type":{
+            "career":[]
+            "traits":[]
+        }
+    }
+    """
