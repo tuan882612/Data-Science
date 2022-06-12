@@ -93,34 +93,55 @@ def search_data():
     
     state = json.load(open('Data-Science\state.json',encoding="utf8"))
     attr = json.load(open('Data-Science\Attributes.json',encoding="utf8"))
+    us_attr = json.load(open('Data-Science\\us_attributes.json',encoding="utf8"))
     location = json.load(open('Data-Science\location.json',encoding="utf8"))
     traits = json.load(open('Data-Science\personality.json',encoding="utf8"))
     
-    count = 0
+    hash = {}
     
     for i in range(len(data)):
         temp = data[i]['birth_place'].split(' ')
+        temp = [i for i in temp if len(i)>=4]
+        personality = ""
         
         for word in temp:
             
             if word in ["usa", "u.s."]:
                 word = "united states"
             
-            if word in state:
+            if word in us_attr:
+                personality = us_attr[word]
+                
+            elif word in state:
                 
                 if state[word] in attr:
-                    # print(data[i]['name'], traits[attr[state[word]][1]])
-                    count += 1
+                    personality = attr[state[word]]
                     break
                     
             elif word in location:
                 
                 if word in attr:
-                    # print(data[i]['name'], traits[attr[word][1]])
-                    count += 1
+                    personality = attr[word]
                     break
-                   
-    print(count)
+        
+        if len(personality) == 0:
+            
+            for k in temp:
+                
+                for j in us_attr.keys():
+                    
+                    if k in j:
+                        personality = us_attr[j]
+                        
+                    else:
+                        if k not in hash:
+                            hash[k] = 1
+                            
+                        else:
+                            hash[k] += 1
+    print(hash)
+    # with open('error.json', 'w', encoding='utf-8') as f:
+    #     json.dump(hash, f, ensure_ascii=False, indent=4)
 
 def build_locations():
     data = json.load(open('Data-Science\data.json',encoding="utf8"))
@@ -172,6 +193,29 @@ def build_dataset():
             
                 json.dump(temp, f, ensure_ascii=False, indent=4)
 
+def build_us_attributes():
+    df = pd.read_csv("Data-Science\DataScience\Data Sets\load.csv")['state']
+    hash = {}
+
+    for i in range(6,len(df)+1,6):
+        data = list(df[i-6:i])
+        state = data[1].lower()
+        type = data[4].lower()
+        hash[state] = type+'-t'
+       
+    personality_types = {}
+    
+    for type in hash.values():
+        
+        if type not in personality_types:
+            personality_types[type] = 1
+            
+        else:
+            personality_types[type] += 1
+            
+    with open('us_attributes.json', 'w', encoding='utf-8') as f:
+        json.dump(hash, f, ensure_ascii=False, indent=4)
+    
 def build_attributes():
     df = pd.read_csv('Data-Science\DataScience\Data Sets\mbti-countries.csv')
     
@@ -202,18 +246,25 @@ def build_attributes():
                 ihash[num] = col
                 
         if extro > intro:
-            hash[names[i].lower()] = ['extroverted', ehash[max(ehash.keys())].lower()]
+            hash[names[i].lower()] = ehash[max(ehash.keys())].lower()
 
         else:
-            hash[names[i].lower()] = ['introverted', ihash[max(ihash.keys())].lower()]
+            hash[names[i].lower()] = ihash[max(ihash.keys())].lower()
+            
+    with open('attributes2.json', 'w', encoding='utf-8') as f:
+        json.dump(hash, f, ensure_ascii=False, indent=4)
     
 if __name__ == "__main__":
     # build_dataset()
     # build_attributes()
+    # build_us_attributes()
     # build_locations()
     search_data()
     
     """
+    
+    dataset json format and data distribute
+    
     data
     {
         "birth_place"
@@ -223,19 +274,25 @@ if __name__ == "__main__":
         "target_text":
     }
     
-    location
+    location -> old format
     {
         "country":[
-            "state(s)"
+            "state"
         ]
     }
     
-    New_location
+    location
     {
         "state":"country"
     }
     
-    attribute ['estj-a': 3, 'esfj-a': 20, 'enfp-t': 60, 'infp-t': 75]
+    distribution for attribute dataset ->
+    [
+        'estj-a': 3,    'esfj-a': 20,   'enfp-t': 60,
+        'infp-t': 75
+    ] 
+    
+    attribute
     {
         "country":[
            "attribute"
@@ -243,11 +300,25 @@ if __name__ == "__main__":
         ]
     }
     
+    distribution for us_attributes dataset ->
+    [
+        'esfp-t': 3,    'intp-t': 3,    'entj-t': 3, 
+        1'estj-t': 5,    'entp-t': 1,    'istp-t': 7,
+        'enfj-t': 1,    'isfj-t': 6,    'isfp-t': 2,
+        'istj-t': 6,    1'esfj-t': 8,    1'infp-t': 1, 
+        'estp-t': 4
+    ]
+    
+    us_attribues
+    {
+        "state":"type"
+    }
+    
     personality
     {
         "type":{
             "career":[]
-            "traits":[]
+            "personalitys":[]
         }
     }
     """

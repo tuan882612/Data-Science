@@ -21,7 +21,7 @@ def main():
              
             for k in temp:
                 
-                if k in j and k not in exclude and len(k)>2:
+                if k in j and len(k)>3:
                     arr.add(k)
                     
             if len(arr) > 1:
