@@ -1,634 +1,160 @@
 {
-    "afghanistan": [
-        "extroverted",
-        "estj-a"
-    ],
-    "albania": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "algeria": [
-        "introverted",
-        "infp-t"
-    ],
-    "andorra": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "angola": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "antigua and barbuda": [
-        "introverted",
-        "infp-t"
-    ],
-    "argentina": [
-        "introverted",
-        "infp-t"
-    ],
-    "armenia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "australia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "austria": [
-        "introverted",
-        "infp-t"
-    ],
-    "azerbaijan": [
-        "extroverted",
-        "estj-a"
-    ],
-    "bahamas": [
-        "introverted",
-        "infp-t"
-    ],
-    "bahrain": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "bangladesh": [
-        "introverted",
-        "infp-t"
-    ],
-    "barbados": [
-        "introverted",
-        "infp-t"
-    ],
-    "belarus": [
-        "introverted",
-        "infp-t"
-    ],
-    "belgium": [
-        "introverted",
-        "infp-t"
-    ],
-    "belize": [
-        "introverted",
-        "infp-t"
-    ],
-    "bhutan": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "bosnia and herzegovina": [
-        "introverted",
-        "infp-t"
-    ],
-    "botswana": [
-        "introverted",
-        "infp-t"
-    ],
-    "brazil": [
-        "introverted",
-        "infp-t"
-    ],
-    "brunei": [
-        "introverted",
-        "infp-t"
-    ],
-    "bulgaria": [
-        "introverted",
-        "infp-t"
-    ],
-    "burkina faso": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "cambodia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "cameroon": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "canada": [
-        "introverted",
-        "infp-t"
-    ],
-    "chile": [
-        "introverted",
-        "infp-t"
-    ],
-    "china": [
-        "introverted",
-        "infp-t"
-    ],
-    "colombia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "congo": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "costa rica": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "croatia": [
-        "introverted",
-        "infp-t"
-    ],
-    "cuba": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "cyprus": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "czech republic": [
-        "introverted",
-        "infp-t"
-    ],
-    "congo (kinshasa)": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "denmark": [
-        "introverted",
-        "infp-t"
-    ],
-    "djibouti": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "dominica": [
-        "introverted",
-        "infp-t"
-    ],
-    "dominican republic": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "ecuador": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "egypt": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "el salvador": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "estonia": [
-        "introverted",
-        "infp-t"
-    ],
-    "ethiopia": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "faroe islands": [
-        "introverted",
-        "infp-t"
-    ],
-    "fiji": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "finland": [
-        "introverted",
-        "infp-t"
-    ],
-    "france": [
-        "introverted",
-        "infp-t"
-    ],
-    "georgia": [
-        "introverted",
-        "infp-t"
-    ],
-    "germany": [
-        "introverted",
-        "infp-t"
-    ],
-    "ghana": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "greece": [
-        "introverted",
-        "infp-t"
-    ],
-    "grenada": [
-        "introverted",
-        "infp-t"
-    ],
-    "guatemala": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "guinea": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "guyana": [
-        "introverted",
-        "infp-t"
-    ],
-    "haiti": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "honduras": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "hungary": [
-        "introverted",
-        "infp-t"
-    ],
-    "iceland": [
-        "introverted",
-        "infp-t"
-    ],
-    "india": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "indonesia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "iraq": [
-        "introverted",
-        "infp-t"
-    ],
-    "ireland": [
-        "introverted",
-        "infp-t"
-    ],
-    "israel": [
-        "introverted",
-        "infp-t"
-    ],
-    "italy": [
-        "introverted",
-        "infp-t"
-    ],
-    "jamaica": [
-        "introverted",
-        "infp-t"
-    ],
-    "japan": [
-        "introverted",
-        "infp-t"
-    ],
-    "jordan": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "kazakhstan": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "kenya": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "kuwait": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "kyrgyzstan": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "laos": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "latvia": [
-        "introverted",
-        "infp-t"
-    ],
-    "lebanon": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "lesotho": [
-        "introverted",
-        "infp-t"
-    ],
-    "libya": [
-        "introverted",
-        "infp-t"
-    ],
-    "lithuania": [
-        "introverted",
-        "infp-t"
-    ],
-    "luxembourg": [
-        "introverted",
-        "infp-t"
-    ],
-    "madagascar": [
-        "introverted",
-        "infp-t"
-    ],
-    "malawi": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "malaysia": [
-        "introverted",
-        "infp-t"
-    ],
-    "maldives": [
-        "introverted",
-        "infp-t"
-    ],
-    "mali": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "malta": [
-        "introverted",
-        "infp-t"
-    ],
-    "mauritius": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "mexico": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "monaco": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "mongolia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "montenegro": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "morocco": [
-        "introverted",
-        "infp-t"
-    ],
-    "mozambique": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "myanmar": [
-        "introverted",
-        "infp-t"
-    ],
-    "namibia": [
-        "introverted",
-        "infp-t"
-    ],
-    "nepal": [
-        "introverted",
-        "infp-t"
-    ],
-    "netherlands": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "new zealand": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "nicaragua": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "niger": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "nigeria": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "macedonia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "norway": [
-        "introverted",
-        "infp-t"
-    ],
-    "oman": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "pakistan": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "panama": [
-        "introverted",
-        "infp-t"
-    ],
-    "papua new guinea": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "paraguay": [
-        "introverted",
-        "infp-t"
-    ],
-    "peru": [
-        "introverted",
-        "infp-t"
-    ],
-    "philippines": [
-        "introverted",
-        "infp-t"
-    ],
-    "poland": [
-        "introverted",
-        "infp-t"
-    ],
-    "portugal": [
-        "introverted",
-        "infp-t"
-    ],
-    "qatar": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "south korea": [
-        "introverted",
-        "infp-t"
-    ],
-    "moldova": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "romania": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "russia": [
-        "introverted",
-        "infp-t"
-    ],
-    "rwanda": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "saint kitts and nevis": [
-        "introverted",
-        "infp-t"
-    ],
-    "saint lucia": [
-        "introverted",
-        "infp-t"
-    ],
-    "saint vincent and the grenadines": [
-        "introverted",
-        "infp-t"
-    ],
-    "saudi arabia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "senegal": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "serbia": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "seychelles": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "singapore": [
-        "introverted",
-        "infp-t"
-    ],
-    "slovakia": [
-        "introverted",
-        "infp-t"
-    ],
-    "slovenia": [
-        "introverted",
-        "infp-t"
-    ],
-    "somalia": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "south africa": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "spain": [
-        "introverted",
-        "infp-t"
-    ],
-    "sri lanka": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "sudan": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "suriname": [
-        "introverted",
-        "infp-t"
-    ],
-    "sweden": [
-        "introverted",
-        "infp-t"
-    ],
-    "switzerland": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "syria": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "tajikistan": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "thailand": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "trinidad and tobago": [
-        "introverted",
-        "infp-t"
-    ],
-    "tunisia": [
-        "introverted",
-        "infp-t"
-    ],
-    "turkey": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "uganda": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "ukraine": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "united arab emirates": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "united kingdom": [
-        "introverted",
-        "infp-t"
-    ],
-    "tanzania": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "united states": [
-        "introverted",
-        "infp-t"
-    ],
-    "uruguay": [
-        "introverted",
-        "infp-t"
-    ],
-    "uzbekistan": [
-        "extroverted",
-        "estj-a"
-    ],
-    "vanuatu": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "vietnam": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "yemen": [
-        "extroverted",
-        "enfp-t"
-    ],
-    "zambia": [
-        "extroverted",
-        "esfj-a"
-    ],
-    "zimbabwe": [
-        "extroverted",
-        "esfj-a"
-    ]
+    "afghanistan": "estj-a",
+    "albania": "enfp-t",
+    "algeria": "infp-t",
+    "andorra": "enfp-t",
+    "angola": "esfj-a",
+    "antigua and barbuda": "infp-t",
+    "argentina": "infp-t",
+    "armenia": "enfp-t",
+    "australia": "enfp-t",
+    "austria": "infp-t",
+    "azerbaijan": "estj-a",
+    "bahamas": "infp-t",
+    "bahrain": "enfp-t",
+    "bangladesh": "infp-t",
+    "barbados": "infp-t",
+    "belarus": "infp-t",
+    "belgium": "infp-t",
+    "belize": "infp-t",
+    "bhutan": "enfp-t",
+    "bosnia and herzegovina": "infp-t",
+    "botswana": "infp-t",
+    "brazil": "infp-t",
+    "brunei": "infp-t",
+    "bulgaria": "infp-t",
+    "burkina faso": "enfp-t",
+    "cambodia": "enfp-t",
+    "cameroon": "esfj-a",
+    "canada": "infp-t",
+    "chile": "infp-t",
+    "china": "infp-t",
+    "colombia": "enfp-t",
+    "congo": "esfj-a",
+    "costa rica": "enfp-t",
+    "croatia": "infp-t",
+    "cuba": "enfp-t",
+    "cyprus": "enfp-t",
+    "czech republic": "infp-t",
+    "congo (kinshasa)": "esfj-a",
+    "denmark": "infp-t",
+    "djibouti": "esfj-a",
+    "dominica": "infp-t",
+    "dominican republic": "enfp-t",
+    "ecuador": "enfp-t",
+    "egypt": "enfp-t",
+    "el salvador": "enfp-t",
+    "estonia": "infp-t",
+    "ethiopia": "esfj-a",
+    "faroe islands": "infp-t",
+    "fiji": "enfp-t",
+    "finland": "infp-t",
+    "france": "infp-t",
+    "georgia": "infp-t",
+    "germany": "infp-t",
+    "ghana": "esfj-a",
+    "greece": "infp-t",
+    "grenada": "infp-t",
+    "guatemala": "enfp-t",
+    "guinea": "enfp-t",
+    "guyana": "infp-t",
+    "haiti": "enfp-t",
+    "honduras": "enfp-t",
+    "hungary": "infp-t",
+    "iceland": "infp-t",
+    "india": "enfp-t",
+    "indonesia": "enfp-t",
+    "iraq": "infp-t",
+    "ireland": "infp-t",
+    "israel": "infp-t",
+    "italy": "infp-t",
+    "jamaica": "infp-t",
+    "japan": "infp-t",
+    "jordan": "enfp-t",
+    "kazakhstan": "enfp-t",
+    "kenya": "esfj-a",
+    "kuwait": "enfp-t",
+    "kyrgyzstan": "esfj-a",
+    "laos": "enfp-t",
+    "latvia": "infp-t",
+    "lebanon": "enfp-t",
+    "lesotho": "infp-t",
+    "libya": "infp-t",
+    "lithuania": "infp-t",
+    "luxembourg": "infp-t",
+    "madagascar": "infp-t",
+    "malawi": "esfj-a",
+    "malaysia": "infp-t",
+    "maldives": "infp-t",
+    "mali": "esfj-a",
+    "malta": "infp-t",
+    "mauritius": "enfp-t",
+    "mexico": "enfp-t",
+    "monaco": "enfp-t",
+    "mongolia": "enfp-t",
+    "montenegro": "enfp-t",
+    "morocco": "infp-t",
+    "mozambique": "enfp-t",
+    "myanmar": "infp-t",
+    "namibia": "infp-t",
+    "nepal": "infp-t",
+    "netherlands": "enfp-t",
+    "new zealand": "enfp-t",
+    "nicaragua": "esfj-a",
+    "niger": "esfj-a",
+    "nigeria": "esfj-a",
+    "macedonia": "enfp-t",
+    "norway": "infp-t",
+    "oman": "enfp-t",
+    "pakistan": "enfp-t",
+    "panama": "infp-t",
+    "papua new guinea": "enfp-t",
+    "paraguay": "infp-t",
+    "peru": "infp-t",
+    "philippines": "infp-t",
+    "poland": "infp-t",
+    "portugal": "infp-t",
+    "qatar": "enfp-t",
+    "south korea": "infp-t",
+    "moldova": "enfp-t",
+    "romania": "enfp-t",
+    "russia": "infp-t",
+    "rwanda": "esfj-a",
+    "saint kitts and nevis": "infp-t",
+    "saint lucia": "infp-t",
+    "saint vincent and the grenadines": "infp-t",
+    "saudi arabia": "enfp-t",
+    "senegal": "enfp-t",
+    "serbia": "enfp-t",
+    "seychelles": "enfp-t",
+    "singapore": "infp-t",
+    "slovakia": "infp-t",
+    "slovenia": "infp-t",
+    "somalia": "esfj-a",
+    "south africa": "enfp-t",
+    "spain": "infp-t",
+    "sri lanka": "enfp-t",
+    "sudan": "enfp-t",
+    "suriname": "infp-t",
+    "sweden": "infp-t",
+    "switzerland": "enfp-t",
+    "syria": "enfp-t",
+    "tajikistan": "esfj-a",
+    "thailand": "enfp-t",
+    "trinidad and tobago": "infp-t",
+    "tunisia": "infp-t",
+    "turkey": "enfp-t",
+    "uganda": "esfj-a",
+    "ukraine": "enfp-t",
+    "united arab emirates": "enfp-t",
+    "united kingdom": "infp-t",
+    "tanzania": "enfp-t",
+    "united states": "infp-t",
+    "uruguay": "infp-t",
+    "uzbekistan": "estj-a",
+    "vanuatu": "enfp-t",
+    "vietnam": "enfp-t",
+    "yemen": "enfp-t",
+    "zambia": "esfj-a",
+    "zimbabwe": "esfj-a"
 }
