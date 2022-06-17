@@ -88,61 +88,6 @@ def parse_birth_location(sample):
             
     return arr
 
-def search_data():
-    data = json.load(open('Data-Science\data.json',encoding="utf8"))[:]
-    
-    state = json.load(open('Data-Science\state.json',encoding="utf8"))
-    attr = json.load(open('Data-Science\Attributes.json',encoding="utf8"))
-    us_attr = json.load(open('Data-Science\\us_attributes.json',encoding="utf8"))
-    location = json.load(open('Data-Science\location.json',encoding="utf8"))
-    traits = json.load(open('Data-Science\personality.json',encoding="utf8"))
-    
-    hash = {}
-    
-    for i in range(len(data)):
-        temp = data[i]['birth_place'].split(' ')
-        temp = [i for i in temp if len(i)>=4]
-        personality = ""
-        
-        for word in temp:
-            
-            if word in ["usa", "u.s."]:
-                word = "united states"
-            
-            if word in us_attr:
-                personality = us_attr[word]
-                
-            elif word in state:
-                
-                if state[word] in attr:
-                    personality = attr[state[word]]
-                    break
-                    
-            elif word in location:
-                
-                if word in attr:
-                    personality = attr[word]
-                    break
-        
-        if len(personality) == 0:
-            
-            for k in temp:
-                
-                for j in us_attr.keys():
-                    
-                    if k in j:
-                        personality = us_attr[j]
-                        
-                    else:
-                        if k not in hash:
-                            hash[k] = 1
-                            
-                        else:
-                            hash[k] += 1
-    print(hash)
-    # with open('error.json', 'w', encoding='utf-8') as f:
-    #     json.dump(hash, f, ensure_ascii=False, indent=4)
-
 def build_locations():
     data = json.load(open('Data-Science\data.json',encoding="utf8"))
     hash = {}
@@ -215,7 +160,37 @@ def build_us_attributes():
             
     with open('us_attributes.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
+
+def build_career_attr():
+    df = pd.read_csv("./Data Sets/load.csv")
+    arr = [
+        "artist",
+        "composer or musician",
+        "chef",
+        "designer",
+        "forest ranger",
+        "nurse",
+        "naturalist",
+        "pediatrician",
+        "psychologist",
+        "social worker",
+        "teacher",
+        "veterinarian"
+        ]
     
+    hash = {}
+
+    for i in list(df['item']) + arr:
+        i = i.lower()
+        if i not in hash:
+            hash[i] = 1
+            
+        else:
+            hash[i] += 1
+            
+    with open('./format.json', 'w', encoding='utf-8') as f:
+        json.dump(list(sorted(hash.keys())), f, ensure_ascii=False, indent=4)
+
 def build_attributes():
     df = pd.read_csv('Data-Science\DataScience\Data Sets\mbti-countries.csv')
     
@@ -253,11 +228,67 @@ def build_attributes():
             
     with open('attributes2.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
+
+def search_data():
+    data = json.load(open('Data-Science\data.json',encoding="utf8"))[:]
+    
+    state = json.load(open('Data-Science\state.json',encoding="utf8"))
+    attr = json.load(open('Data-Science\Attributes.json',encoding="utf8"))
+    us_attr = json.load(open('Data-Science\\us_attributes.json',encoding="utf8"))
+    location = json.load(open('Data-Science\location.json',encoding="utf8"))
+    traits = json.load(open('Data-Science\personality.json',encoding="utf8"))
+    
+    hash = {}
+    
+    for i in range(len(data)):
+        temp = data[i]['birth_place'].split(' ')
+        temp = [i for i in temp if len(i)>=4]
+        personality = ""
+        
+        for word in temp:
+            
+            if word in ["usa", "u.s."]:
+                word = "united states"
+            
+            if word in us_attr:
+                personality = us_attr[word]
+                
+            elif word in state:
+                
+                if state[word] in attr:
+                    personality = attr[state[word]]
+                    break
+                    
+            elif word in location:
+                
+                if word in attr:
+                    personality = attr[word]
+                    break
+        
+        if len(personality) == 0:
+            
+            for k in temp:
+                
+                for j in us_attr.keys():
+                    
+                    if k in j:
+                        personality = us_attr[j]
+                        
+                    else:
+                        if k not in hash:
+                            hash[k] = 1
+                            
+                        else:
+                            hash[k] += 1
+    print(hash)
+    # with open('error.json', 'w', encoding='utf-8') as f:
+    #     json.dump(hash, f, ensure_ascii=False, indent=4)
     
 if __name__ == "__main__":
     # build_dataset()
     # build_attributes()
     # build_us_attributes()
+    # build_career_attr()
     # build_locations()
     search_data()
     
