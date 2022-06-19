@@ -131,6 +131,7 @@ def build_dataset():
             
             if len(temp) >= 5:
                 age = parse_age(temp['birth_date'],temp['death_date'])
+                
                 del temp['birth_date']
                 del temp['death_date']
                 temp['age'] = age
@@ -162,20 +163,18 @@ def build_us_attributes():
         json.dump(hash, f, ensure_ascii=False, indent=4)
 
 def build_career_attr():
-    df = pd.read_csv("./Data Sets/load.csv")
+    df = pd.read_csv("Data-Science\DataScience\Data Sets\load.csv")
     arr = [
-        "artist",
-        "composer or musician",
-        "chef",
-        "designer",
-        "forest ranger",
-        "nurse",
-        "naturalist",
-        "pediatrician",
-        "psychologist",
-        "social worker",
-        "teacher",
-        "veterinarian"
+    "artist",
+    "actor",
+    "counselor",
+    "social worker",
+    "athletic coach",
+    "child care provider",
+    "musician",
+    "psychologist",
+    "human resources specialist",
+    "fashion designer"
         ]
     
     hash = {}
@@ -229,11 +228,67 @@ def build_attributes():
     with open('attributes2.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
 
+
+def build_dataset2():
+    data = json.load(open(
+        'Data-Science\states_occupations_no_income.json'
+        ,encoding="utf8"))
+    
+    hash = {}
+    var = []
+    
+    for i in range(len(data)):
+        state = data[i]
+        hash[state['state']] = state['occupation']
+        var.append((state['state'],len(state['occupation'])))
+        
+    with open('Data-Science\\data2.json', 'w', encoding='utf-8') as f:
+        json.dump(hash, f, ensure_ascii=False, indent=4)
+        
+    # count = {}
+    
+    # for name, lent in var:
+    #     arr = list(hash[name])
+        
+    #     for i in range(lent):
+    #         item = arr[i]
+            
+    #         if item not in count:
+    #             count[item] = 1
+                
+    #         else:
+    #             count[item] += 1
+                
+    #     print(max(count.values()))
+    #     count.clear()
+
+def build_dataset3():
+    data = json.load(open(
+        'Data-Science\median_age_occupations.json'
+        ,encoding="utf8"))[1:]
+    
+    """    
+    headers = ['occupation',
+               'age_16_19', 'age_20_24',
+               'age_25_34', 'age_35_44',
+               'age_45_54', 'age_55_64',
+               'age_65', 
+               'median_age']
+    """
+    hash = {}
+    
+    for i in range(len(data)):
+        item = list(data[i].values())
+        hash[item[0]] = item[1:]
+        
+    with open('Data-Science\data3.json', 'w', encoding='utf-8') as f:
+        json.dump(hash, f, ensure_ascii=False, indent=4)
+    
 def search_data():
     data = json.load(open('Data-Science\data.json',encoding="utf8"))[:]
     
-    state = json.load(open('Data-Science\state.json',encoding="utf8"))
-    attr = json.load(open('Data-Science\Attributes.json',encoding="utf8"))
+    state = json.load(open('Data-Science\location2.json',encoding="utf8"))
+    attr = json.load(open('Data-Science\\attributes.json',encoding="utf8"))
     us_attr = json.load(open('Data-Science\\us_attributes.json',encoding="utf8"))
     location = json.load(open('Data-Science\location.json',encoding="utf8"))
     traits = json.load(open('Data-Science\personality.json',encoding="utf8"))
@@ -283,23 +338,64 @@ def search_data():
     print(hash)
     # with open('error.json', 'w', encoding='utf-8') as f:
     #     json.dump(hash, f, ensure_ascii=False, indent=4)
+
+def search_data2():
+    data = json.load(open(
+        'Data-Science\data2.json'
+        ,encoding="utf8"))
     
+    meta = json.load(open(
+        'Data-Science\data3.json'
+        ,encoding="utf8"))
+    
+    # values to use
+    state = 'Alabama'
+    occuppation = 'Project Management Specialists'
+    
+    for i in data[state]:
+        
+        if i == occuppation and i in meta:
+            print("found")
+
+            
 if __name__ == "__main__":
     # build_dataset()
+    # build_dataset2()
+    # build_dataset3()
     # build_attributes()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
-    search_data()
+    # search_data()
+    search_data2()
+    
+    
     
     """
-    
     dataset json format and data distribute
+    
+    states_occupations_no_income
+    {
+        "state":,
+        "occupations":[]
+    }
+    
+    median_age_occupations
+    [
+        {
+            "occupation":"Management, business, and financial operations occupations",
+            "age_16_19":"100","age_20_24":"1,052",
+            "age_25_34":"5,726","age_35_44":"6,783",
+            "age_45_54":"6,603","age_55_64":"5,411",
+            "age_65":"2,189",
+            "median_age":"45.5"
+        }
+    ]
     
     data
     {
-        "birth_place"
-        "name"
+        "birth_place":
+        "name":
         "occupation":
         "age":
         "target_text":
