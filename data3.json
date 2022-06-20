@@ -1,5 +1,5 @@
 {
-    "Management,  professional, and related occupations": [
+    "management,  professional, and related occupations": [
         "420",
         "3,267",
         "15,222",
@@ -9,7 +9,7 @@
         "4,579",
         "43.8"
     ],
-    "Management, business, and financial operations occupations": [
+    "management, business, and financial operations occupations": [
         "100",
         "1,052",
         "5,726",
@@ -19,7 +19,7 @@
         "2,189",
         "45.5"
     ],
-    "Management occupations": [
+    "management occupations": [
         "74",
         "573",
         "3,413",
@@ -29,7 +29,7 @@
         "1,630",
         "46.5"
     ],
-    "Chief executives": [
+    "chief executives": [
         "1",
         "4",
         "157",
@@ -39,7 +39,7 @@
         "204",
         "51.6"
     ],
-    "General and operations managers": [
+    "general and operations managers": [
         "2",
         "30",
         "258",
@@ -49,7 +49,7 @@
         "47",
         "43.4"
     ],
-    "Legislators": [
+    "legislators": [
         "0",
         "1",
         "3",
@@ -59,7 +59,7 @@
         "6",
         "-"
     ],
-    "Advertising and promotions managers": [
+    "advertising and promotions managers": [
         "0",
         "7",
         "34",
@@ -69,7 +69,7 @@
         "2",
         "34.2"
     ],
-    "Marketing managers": [
+    "marketing managers": [
         "1",
         "27",
         "189",
@@ -79,7 +79,7 @@
         "23",
         "39.7"
     ],
-    "Sales managers": [
+    "sales managers": [
         "2",
         "9",
         "94",
@@ -89,7 +89,7 @@
         "26",
         "46.2"
     ],
-    "Public relations and fundraising managers": [
+    "public relations and fundraising managers": [
         "0",
         "5",
         "16",
@@ -99,7 +99,7 @@
         "5",
         "44.4"
     ],
-    "Administrative services managers": [
+    "administrative services managers": [
         "0",
         "1",
         "9",
@@ -109,7 +109,7 @@
         "4",
         "47.1"
     ],
-    "Facilities managers": [
+    "facilities managers": [
         "1",
         "0",
         "18",
@@ -119,7 +119,7 @@
         "10",
         "50.2"
     ],
-    "Computer and information systems managers": [
+    "computer and information systems managers": [
         "2",
         "9",
         "113",
@@ -129,7 +129,7 @@
         "21",
         "45.7"
     ],
-    "Financial managers": [
+    "financial managers": [
         "2",
         "37",
         "281",
@@ -139,7 +139,7 @@
         "70",
         "44.8"
     ],
-    "Compensation and benefits managers": [
+    "compensation and benefits managers": [
         "0",
         "0",
         "4",
@@ -149,7 +149,7 @@
         "0",
         "-"
     ],
-    "Human resources managers, Human Resources Specialists": [
+    "human resources managers, human resources specialists": [
         "2",
         "3",
         "45",
@@ -159,7 +159,7 @@
         "17",
         "45.8"
     ],
-    "Training and development managers": [
+    "training and development managers": [
         "1",
         "1",
         "17",
@@ -169,7 +169,7 @@
         "2",
         "43.8"
     ],
-    "Industrial production managers": [
+    "industrial production managers": [
         "0",
         "7",
         "31",
@@ -179,7 +179,7 @@
         "14",
         "46.9"
     ],
-    "Purchasing managers": [
+    "purchasing managers": [
         "0",
         "1",
         "57",
@@ -189,7 +189,7 @@
         "13",
         "46.7"
     ],
-    "Transportation, storage, and distribution managers": [
+    "transportation, storage, and distribution managers": [
         "3",
         "14",
         "61",
@@ -199,7 +199,7 @@
         "16",
         "45.2"
     ],
-    "Farmers, ranchers, and other agricultural managers, Farm Labor Contractors": [
+    "farmers, ranchers, and other agricultural managers, farm labor contractors": [
         "3",
         "27",
         "106",
@@ -209,7 +209,7 @@
         "281",
         "56.0"
     ],
-    "Construction managers": [
+    "construction managers": [
         "2",
         "29",
         "205",
@@ -219,7 +219,7 @@
         "69",
         "45.7"
     ],
-    "Education and childcare administrators, Preschool and Daycare, Education administrators, Kindergarten through Secondary, Education Administrators, Postsecondary, Education Administrators, All Other": [
+    "education and childcare administrators, preschool and daycare, education administrators, kindergarten through secondary, education administrators, postsecondary, education administrators, all other": [
         "1",
         "27",
         "137",
@@ -229,7 +229,7 @@
         "62",
         "47.0"
     ],
-    "Architectural and engineering managers": [
+    "architectural and engineering managers": [
         "0",
         "2",
         "23",
@@ -239,7 +239,7 @@
         "6",
         "46.4"
     ],
-    "Food service managers": [
+    "food service managers": [
         "28",
         "152",
         "268",
@@ -249,7 +249,7 @@
         "57",
         "40.0"
     ],
-    "Funeral home managers": [
+    "funeral home managers": [
         "0",
         "0",
         "0",
@@ -259,7 +259,7 @@
         "4",
         "-"
     ],
-    "Entertainment and recreation managers, Except Gambling": [
+    "entertainment and recreation managers, except gambling": [
         "1",
         "2",
         "5",
@@ -269,7 +269,7 @@
         "4",
         "-"
     ],
-    "Lodging managers": [
+    "lodging managers": [
         "0",
         "4",
         "27",
@@ -279,7 +279,7 @@
         "11",
         "46.1"
     ],
-    "Medical and health services managers": [
+    "medical and health services managers": [
         "0",
         "14",
         "146",
@@ -289,7 +289,7 @@
         "44",
         "47.2"
     ],
-    "Natural sciences managers": [
+    "natural sciences managers": [
         "0",
         "0",
         "3",
@@ -299,7 +299,7 @@
         "0",
         "-"
     ],
-    "Postmasters and mail superintendents": [
+    "postmasters and mail superintendents": [
         "0",
         "0",
         "4",
@@ -309,7 +309,7 @@
         "0",
         "-"
     ],
-    "Property, real estate, and community association managers": [
+    "property, real estate, and community association managers": [
         "1",
         "24",
         "135",
@@ -319,7 +319,7 @@
         "111",
         "48.7"
     ],
-    "Social and community service managers": [
+    "social and community service managers": [
         "0",
         "22",
         "73",
@@ -329,7 +329,7 @@
         "28",
         "45.9"
     ],
-    "Emergency management directors": [
+    "emergency management directors": [
         "0",
         "1",
         "3",
@@ -339,7 +339,7 @@
         "0",
         "-"
     ],
-    "Personal service managers, all other": [
+    "personal service managers, all other": [
         "0",
         "0",
         "0",
@@ -349,7 +349,7 @@
         "0",
         "-"
     ],
-    "Managers, all other": [
+    "managers, all other": [
         "19",
         "113",
         "892",
@@ -359,7 +359,7 @@
         "469",
         "46.8"
     ],
-    "Business and financial operations occupations": [
+    "business and financial operations occupations": [
         "26",
         "479",
         "2,312",
@@ -369,7 +369,7 @@
         "559",
         "43.1"
     ],
-    "Agents and business managers of artists, performers, and athletes": [
+    "agents and business managers of artists, performers, and athletes": [
         "0",
         "2",
         "8",
@@ -379,7 +379,7 @@
         "3",
         "-"
     ],
-    "Buyers and purchasing agents, farm products": [
+    "buyers and purchasing agents, farm products": [
         "0",
         "1",
         "5",
@@ -389,7 +389,7 @@
         "2",
         "-"
     ],
-    "Wholesale and retail buyers, except farm products": [
+    "wholesale and retail buyers, except farm products": [
         "2",
         "9",
         "39",
@@ -399,7 +399,7 @@
         "10",
         "44.6"
     ],
-    "Purchasing agents, except wholesale, retail, and farm products": [
+    "purchasing agents, except wholesale, retail, and farm products": [
         "0",
         "14",
         "56",
@@ -409,7 +409,7 @@
         "13",
         "46.3"
     ],
-    "Claims adjusters, examiners, and investigators, appraisers": [
+    "claims adjusters, examiners, and investigators, appraisers": [
         "0",
         "16",
         "79",
@@ -419,7 +419,7 @@
         "8",
         "44.9"
     ],
-    "Compliance officers": [
+    "compliance officers": [
         "0",
         "6",
         "53",
@@ -429,7 +429,7 @@
         "15",
         "47.6"
     ],
-    "Cost estimators": [
+    "cost estimators": [
         "0",
         "2",
         "27",
@@ -439,7 +439,7 @@
         "13",
         "47.2"
     ],
-    "Human resources workers": [
+    "human resources workers": [
         "2",
         "59",
         "267",
@@ -449,7 +449,7 @@
         "29",
         "40.5"
     ],
-    "Compensation, benefits, and job analysis specialists": [
+    "compensation, benefits, and job analysis specialists": [
         "0",
         "0",
         "12",
@@ -459,7 +459,7 @@
         "3",
         "45.2"
     ],
-    "Training and development specialists": [
+    "training and development specialists": [
         "0",
         "7",
         "38",
@@ -469,7 +469,7 @@
         "7",
         "43.3"
     ],
-    "Logisticians": [
+    "logisticians": [
         "0",
         "9",
         "29",
@@ -479,7 +479,7 @@
         "5",
         "45.0"
     ],
-    "Project management specialists": [
+    "project management specialists": [
         "2",
         "19",
         "197",
@@ -489,7 +489,7 @@
         "34",
         "43.4"
     ],
-    "Management analysts": [
+    "management analysts": [
         "3",
         "41",
         "231",
@@ -499,7 +499,7 @@
         "105",
         "44.8"
     ],
-    "Meeting, convention, and event planners": [
+    "meeting, convention, and event planners": [
         "3",
         "7",
         "36",
@@ -509,7 +509,7 @@
         "8",
         "40.1"
     ],
-    "Fundraisers": [
+    "fundraisers": [
         "0",
         "4",
         "20",
@@ -519,7 +519,7 @@
         "8",
         "42.7"
     ],
-    "Market research analysts and marketing specialists": [
+    "market research analysts and marketing specialists": [
         "3",
         "51",
         "150",
@@ -529,7 +529,7 @@
         "15",
         "35.1"
     ],
-    "Business operations specialists, all other": [
+    "business operations specialists, all other": [
         "6",
         "39",
         "170",
@@ -539,7 +539,7 @@
         "33",
         "41.0"
     ],
-    "Accountants and auditors": [
+    "accountants and auditors": [
         "1",
         "88",
         "428",
@@ -549,7 +549,7 @@
         "108",
         "43.4"
     ],
-    "Property appraisers and assessors": [
+    "property appraisers and assessors": [
         "0",
         "5",
         "13",
@@ -559,7 +559,7 @@
         "15",
         "50.0"
     ],
-    "Budget analysts": [
+    "budget analysts": [
         "0",
         "0",
         "15",
@@ -569,7 +569,7 @@
         "2",
         "48.5"
     ],
-    "Credit analysts": [
+    "credit analysts": [
         "0",
         "4",
         "7",
@@ -579,7 +579,7 @@
         "0",
         "-"
     ],
-    "Financial and investment analysts and Financial Risk Specialists": [
+    "financial and investment analysts and financial risk specialists": [
         "1",
         "29",
         "112",
@@ -589,7 +589,7 @@
         "13",
         "39.9"
     ],
-    "Personal financial advisors": [
+    "personal financial advisors": [
         "2",
         "30",
         "124",
@@ -599,7 +599,7 @@
         "51",
         "44.2"
     ],
-    "Insurance underwriters, Insurance Appraisers, Auto Damage": [
+    "insurance underwriters, insurance appraisers, auto damage": [
         "0",
         "7",
         "23",
@@ -609,7 +609,7 @@
         "6",
         "46.8"
     ],
-    "Financial examiners": [
+    "financial examiners": [
         "0",
         "0",
         "1",
@@ -619,7 +619,7 @@
         "1",
         "-"
     ],
-    "Credit counselors and loan officers": [
+    "credit counselors and loan officers": [
         "1",
         "25",
         "125",
@@ -629,7 +629,7 @@
         "23",
         "42.4"
     ],
-    "Tax examiners and collectors, and revenue agents": [
+    "tax examiners and collectors, and revenue agents": [
         "0",
         "2",
         "8",
@@ -639,7 +639,7 @@
         "7",
         "48.0"
     ],
-    "Tax preparers": [
+    "tax preparers": [
         "0",
         "3",
         "26",
@@ -649,7 +649,7 @@
         "23",
         "48.9"
     ],
-    "Financial specialists, all other": [
+    "financial specialists, all other": [
         "0",
         "2",
         "12",
@@ -659,7 +659,7 @@
         "1",
         "45.2"
     ],
-    "Professional and related occupations": [
+    "professional and related occupations": [
         "320",
         "2,215",
         "9,496",
@@ -669,7 +669,7 @@
         "2,390",
         "42.6"
     ],
-    "Computer and mathematical occupations": [
+    "computer and mathematical occupations": [
         "28",
         "347",
         "1,693",
@@ -679,7 +679,7 @@
         "181",
         "40.7"
     ],
-    "Computer and information research scientists": [
+    "computer and information research scientists": [
         "0",
         "2",
         "20",
@@ -689,7 +689,7 @@
         "1",
         "-"
     ],
-    "Computer systems analysts": [
+    "computer systems analysts": [
         "2",
         "17",
         "125",
@@ -699,7 +699,7 @@
         "18",
         "42.3"
     ],
-    "Information security analysts": [
+    "information security analysts": [
         "2",
         "9",
         "30",
@@ -709,7 +709,7 @@
         "13",
         "42.9"
     ],
-    "Computer programmers": [
+    "computer programmers": [
         "5",
         "19",
         "108",
@@ -719,7 +719,7 @@
         "20",
         "43.4"
     ],
-    "Software developers": [
+    "software developers": [
         "4",
         "122",
         "700",
@@ -729,7 +729,7 @@
         "40",
         "38.6"
     ],
-    "Software quality assurance analysts and testers": [
+    "software quality assurance analysts and testers": [
         "0",
         "2",
         "15",
@@ -739,7 +739,7 @@
         "5",
         "42.7"
     ],
-    "Web developers": [
+    "web developers": [
         "1",
         "3",
         "36",
@@ -749,7 +749,7 @@
         "1",
         "38.5"
     ],
-    "Web and digital interface designers": [
+    "web and digital interface designers": [
         "1",
         "8",
         "19",
@@ -759,7 +759,7 @@
         "4",
         "37.1"
     ],
-    "Computer support specialists": [
+    "computer support specialists": [
         "6",
         "62",
         "180",
@@ -769,7 +769,7 @@
         "23",
         "41.1"
     ],
-    "Database administrators and database architects, Data Scientists": [
+    "database administrators and database architects, data scientists": [
         "0",
         "1",
         "31",
@@ -779,7 +779,7 @@
         "1",
         "45.7"
     ],
-    "Network and computer systems administrators": [
+    "network and computer systems administrators": [
         "1",
         "5",
         "49",
@@ -789,7 +789,7 @@
         "8",
         "44.1"
     ],
-    "Computer network architects and Computer Network Support Specialists": [
+    "computer network architects and computer network support specialists": [
         "0",
         "0",
         "14",
@@ -799,7 +799,7 @@
         "2",
         "45.0"
     ],
-    "Computer User Support Specialists, and Computer Occupations, All Other": [
+    "computer user support specialists, and computer occupations, all other": [
         "6",
         "68",
         "204",
@@ -809,7 +809,7 @@
         "30",
         "42.2"
     ],
-    "Actuaries": [
+    "actuaries": [
         "0",
         "2",
         "14",
@@ -819,7 +819,7 @@
         "0",
         "-"
     ],
-    "Mathematicians": [
+    "mathematicians": [
         "0",
         "0",
         "0",
@@ -829,7 +829,7 @@
         "0",
         "-"
     ],
-    "Operations research analysts": [
+    "operations research analysts": [
         "0",
         "6",
         "35",
@@ -839,7 +839,7 @@
         "5",
         "42.6"
     ],
-    "Statisticians": [
+    "statisticians": [
         "0",
         "1",
         "16",
@@ -849,7 +849,7 @@
         "1",
         "-"
     ],
-    "Mathematical Science Occupations, All Other": [
+    "mathematical science occupations, all other": [
         "0",
         "19",
         "96",
@@ -859,7 +859,7 @@
         "9",
         "37.0"
     ],
-    "Architecture and engineering occupations": [
+    "architecture and engineering occupations": [
         "9",
         "197",
         "910",
@@ -869,7 +869,7 @@
         "173",
         "42.0"
     ],
-    "Architects, except landscape and naval": [
+    "architects, except landscape and naval": [
         "0",
         "4",
         "49",
@@ -879,7 +879,7 @@
         "21",
         "46.3"
     ],
-    "Landscape architects": [
+    "landscape architects": [
         "0",
         "1",
         "7",
@@ -889,7 +889,7 @@
         "2",
         "-"
     ],
-    "Surveyors, Cartographers and Photogrammetrists": [
+    "surveyors, cartographers and photogrammetrists": [
         "0",
         "1",
         "7",
@@ -899,7 +899,7 @@
         "2",
         "-"
     ],
-    "Aerospace Engineers, Aerospace Engineering and Operations Technologists and Technicians": [
+    "aerospace engineers, aerospace engineering and operations technologists and technicians": [
         "0",
         "9",
         "39",
@@ -909,7 +909,7 @@
         "6",
         "41.9"
     ],
-    "Agricultural engineers": [
+    "agricultural engineers": [
         "0",
         "0",
         "2",
@@ -919,7 +919,7 @@
         "0",
         "-"
     ],
-    "Bioengineers and biomedical engineers Biochemists and Biophysicists Microbiologists Zoologists and Wildlife Biologists Biological Scientists, All Other": [
+    "bioengineers and biomedical engineers biochemists and biophysicists microbiologists zoologists and wildlife biologists biological scientists, all other": [
         "0",
         "3",
         "5",
@@ -929,7 +929,7 @@
         "0",
         "-"
     ],
-    "Chemical engineers": [
+    "chemical engineers": [
         "0",
         "7",
         "17",
@@ -939,7 +939,7 @@
         "4",
         "45.1"
     ],
-    "Civil engineers, Civil Engineering Technologists and Technicians": [
+    "civil engineers, civil engineering technologists and technicians": [
         "0",
         "35",
         "138",
@@ -949,7 +949,7 @@
         "24",
         "39.7"
     ],
-    "Computer hardware engineers": [
+    "computer hardware engineers": [
         "0",
         "1",
         "36",
@@ -959,7 +959,7 @@
         "5",
         "38.2"
     ],
-    "Electrical engineers and electronics engineers, except computer": [
+    "electrical engineers and electronics engineers, except computer": [
         "0",
         "9",
         "80",
@@ -969,7 +969,7 @@
         "13",
         "43.7"
     ],
-    "Environmental engineers, Environmental Engineering Technologists and Technicians": [
+    "environmental engineers, environmental engineering technologists and technicians": [
         "0",
         "2",
         "7",
@@ -979,7 +979,7 @@
         "2",
         "-"
     ],
-    "Industrial engineers, including Health and Safety Engineers, Except Mining Safety Engineers and Inspectors, Industrial Engineering Technologists and Technicians": [
+    "industrial engineers, including health and safety engineers, except mining safety engineers and inspectors, industrial engineering technologists and technicians": [
         "0",
         "11",
         "66",
@@ -989,7 +989,7 @@
         "7",
         "41.5"
     ],
-    "Marine engineers and naval architects": [
+    "marine engineers and naval architects": [
         "0",
         "1",
         "4",
@@ -999,7 +999,7 @@
         "0",
         "-"
     ],
-    "Materials engineers": [
+    "materials engineers": [
         "1",
         "4",
         "13",
@@ -1009,7 +1009,7 @@
         "2",
         "-"
     ],
-    "Mechanical engineers, Mechanical Engineering Technologists and Technicians": [
+    "mechanical engineers, mechanical engineering technologists and technicians": [
         "0",
         "31",
         "110",
@@ -1019,7 +1019,7 @@
         "12",
         "40.0"
     ],
-    "Mining and geological engineers, including mining safety engineers": [
+    "mining and geological engineers, including mining safety engineers": [
         "0",
         "0",
         "2",
@@ -1029,7 +1029,7 @@
         "0",
         "-"
     ],
-    "Nuclear engineers": [
+    "nuclear engineers": [
         "0",
         "0",
         "0",
@@ -1039,7 +1039,7 @@
         "1",
         "-"
     ],
-    "Petroleum engineers": [
+    "petroleum engineers": [
         "0",
         "0",
         "4",
@@ -1049,7 +1049,7 @@
         "1",
         "-"
     ],
-    "Engineers, all other": [
+    "engineers, all other": [
         "0",
         "35",
         "200",
@@ -1059,7 +1059,7 @@
         "37",
         "41.8"
     ],
-    "Architectural and civil drafters, Mechanical Drafters, Drafters, All Other": [
+    "architectural and civil drafters, mechanical drafters, drafters, all other": [
         "0",
         "1",
         "11",
@@ -1069,7 +1069,7 @@
         "4",
         "-"
     ],
-    "Electrical and Electronics Drafters": [
+    "electrical and electronics drafters": [
         "0",
         "5",
         "23",
@@ -1079,7 +1079,7 @@
         "4",
         "41.5"
     ],
-    "Electro-Mechanical and Mechatronics Technologists and Technicians": [
+    "electro-mechanical and mechatronics technologists and technicians": [
         "2",
         "5",
         "8",
@@ -1089,7 +1089,7 @@
         "9",
         "49.0"
     ],
-    "Engineering Technologists and Technicians, Except Drafters, All Other, Calibration Technologists and Technicians": [
+    "engineering technologists and technicians, except drafters, all other, calibration technologists and technicians": [
         "3",
         "26",
         "66",
@@ -1099,7 +1099,7 @@
         "11",
         "43.3"
     ],
-    "Surveying and mapping technicians": [
+    "surveying and mapping technicians": [
         "0",
         "5",
         "17",
@@ -1109,7 +1109,7 @@
         "5",
         "39.9"
     ],
-    "Life, physical, and social science occupations": [
+    "life, physical, and social science occupations": [
         "9",
         "119",
         "501",
@@ -1119,7 +1119,7 @@
         "106",
         "41.0"
     ],
-    "Agricultural and food scientists, Food Scientists and Technologists": [
+    "agricultural and food scientists, food scientists and technologists": [
         "0",
         "3",
         "15",
@@ -1129,7 +1129,7 @@
         "1",
         "-"
     ],
-    "Biological scientists": [
+    "biological scientists": [
         "0",
         "4",
         "28",
@@ -1139,7 +1139,7 @@
         "6",
         "42.6"
     ],
-    "Conservation scientists and foresters": [
+    "conservation scientists and foresters": [
         "0",
         "1",
         "8",
@@ -1149,7 +1149,7 @@
         "1",
         "-"
     ],
-    "Medical Scientists, Except Epidemiologists": [
+    "medical scientists, except epidemiologists": [
         "0",
         "4",
         "31",
@@ -1159,7 +1159,7 @@
         "8",
         "43.4"
     ],
-    "Life scientists, all other, Epidemiologists": [
+    "life scientists, all other, epidemiologists": [
         "0",
         "0",
         "6",
@@ -1169,7 +1169,7 @@
         "0",
         "-"
     ],
-    "Astronomers and physicists": [
+    "astronomers and physicists": [
         "0",
         "0",
         "7",
@@ -1179,7 +1179,7 @@
         "4",
         "-"
     ],
-    "Atmospheric and space scientists": [
+    "atmospheric and space scientists": [
         "0",
         "1",
         "1",
@@ -1189,7 +1189,7 @@
         "0",
         "-"
     ],
-    "Chemists and materials scientists": [
+    "chemists and materials scientists": [
         "0",
         "5",
         "28",
@@ -1199,7 +1199,7 @@
         "8",
         "43.0"
     ],
-    "Environmental scientists and specialists, including health": [
+    "environmental scientists and specialists, including health": [
         "0",
         "1",
         "10",
@@ -1209,7 +1209,7 @@
         "2",
         "-"
     ],
-    "Geoscientists and hydrologists, except geographers Geoscientists, Except Hydrologists and Geographers": [
+    "geoscientists and hydrologists, except geographers geoscientists, except hydrologists and geographers": [
         "0",
         "0",
         "14",
@@ -1219,7 +1219,7 @@
         "0",
         "-"
     ],
-    "Physical scientists, all other": [
+    "physical scientists, all other": [
         "0",
         "21",
         "119",
@@ -1229,7 +1229,7 @@
         "16",
         "39.9"
     ],
-    "Economists": [
+    "economists": [
         "0",
         "1",
         "5",
@@ -1239,7 +1239,7 @@
         "3",
         "-"
     ],
-    "Survey researchers": [
+    "survey researchers": [
         "0",
         "0",
         "0",
@@ -1249,7 +1249,7 @@
         "0",
         "-"
     ],
-    "Clinical and counseling psychologists": [
+    "clinical and counseling psychologists": [
         "0",
         "0",
         "2",
@@ -1259,7 +1259,7 @@
         "2",
         "-"
     ],
-    "School psychologists": [
+    "school psychologists": [
         "0",
         "1",
         "22",
@@ -1269,7 +1269,7 @@
         "3",
         "38.3"
     ],
-    "Psychologists, All Other Industrial-Organizational Psychologists": [
+    "psychologists, all other industrial-organizational psychologists": [
         "0",
         "3",
         "30",
@@ -1279,7 +1279,7 @@
         "27",
         "48.6"
     ],
-    "Sociologists": [
+    "sociologists": [
         "0",
         "0",
         "0",
@@ -1289,7 +1289,7 @@
         "0",
         "-"
     ],
-    "Urban and regional planners": [
+    "urban and regional planners": [
         "0",
         "2",
         "5",
@@ -1299,7 +1299,7 @@
         "2",
         "-"
     ],
-    "Miscellaneous social scientists and related workers": [
+    "miscellaneous social scientists and related workers": [
         "0",
         "3",
         "19",
@@ -1309,7 +1309,7 @@
         "2",
         "39.6"
     ],
-    "Agricultural and food science technicians": [
+    "agricultural and food science technicians": [
         "0",
         "2",
         "12",
@@ -1319,7 +1319,7 @@
         "3",
         "-"
     ],
-    "Biological technicians": [
+    "biological technicians": [
         "1",
         "2",
         "7",
@@ -1329,7 +1329,7 @@
         "1",
         "-"
     ],
-    "Chemical technicians": [
+    "chemical technicians": [
         "0",
         "7",
         "16",
@@ -1339,7 +1339,7 @@
         "2",
         "-"
     ],
-    "Environmental science and geoscience technicians": [
+    "environmental science and geoscience technicians": [
         "0",
         "0",
         "8",
@@ -1349,7 +1349,7 @@
         "0",
         "-"
     ],
-    "Nuclear technicians": [
+    "nuclear technicians": [
         "0",
         "0",
         "1",
@@ -1359,7 +1359,7 @@
         "0",
         "-"
     ],
-    "Social science research assistants": [
+    "social science research assistants": [
         "0",
         "2",
         "2",
@@ -1369,7 +1369,7 @@
         "0",
         "-"
     ],
-    "Other life, physical, and social science technicians": [
+    "other life, physical, and social science technicians": [
         "6",
         "47",
         "91",
@@ -1379,7 +1379,7 @@
         "11",
         "34.6"
     ],
-    "Occupational health and safety specialists and technicians": [
+    "occupational health and safety specialists and technicians": [
         "2",
         "7",
         "17",
@@ -1389,7 +1389,7 @@
         "3",
         "44.0"
     ],
-    "Community and social service occupations": [
+    "community and social service occupations": [
         "14",
         "140",
         "662",
@@ -1399,7 +1399,7 @@
         "244",
         "44.2"
     ],
-    "Substance abuse and behavioral disorder counselors": [
+    "substance abuse and behavioral disorder counselors": [
         "0",
         "8",
         "54",
@@ -1409,7 +1409,7 @@
         "9",
         "35.1"
     ],
-    "Educational, guidance, and career counselors and advisors": [
+    "educational, guidance, and career counselors and advisors": [
         "2",
         "22",
         "87",
@@ -1419,7 +1419,7 @@
         "19",
         "42.5"
     ],
-    "Marriage and family therapists": [
+    "marriage and family therapists": [
         "0",
         "1",
         "9",
@@ -1429,7 +1429,7 @@
         "3",
         "-"
     ],
-    "Mental health counselors": [
+    "mental health counselors": [
         "0",
         "7",
         "57",
@@ -1439,7 +1439,7 @@
         "16",
         "42.7"
     ],
-    "Rehabilitation counselors": [
+    "rehabilitation counselors": [
         "0",
         "0",
         "2",
@@ -1449,7 +1449,7 @@
         "1",
         "-"
     ],
-    "Counselors, all other": [
+    "counselors, all other": [
         "6",
         "22",
         "61",
@@ -1459,7 +1459,7 @@
         "25",
         "43.4"
     ],
-    "Child, family, and school social workers": [
+    "child, family, and school social workers": [
         "1",
         "2",
         "12",
@@ -1469,7 +1469,7 @@
         "2",
         "43.9"
     ],
-    "Healthcare social workers": [
+    "healthcare social workers": [
         "0",
         "2",
         "17",
@@ -1479,7 +1479,7 @@
         "9",
         "44.7"
     ],
-    "Mental health and substance abuse social workers": [
+    "mental health and substance abuse social workers": [
         "0",
         "0",
         "5",
@@ -1489,7 +1489,7 @@
         "4",
         "-"
     ],
-    "Social workers, all other": [
+    "social workers, all other": [
         "0",
         "35",
         "178",
@@ -1499,7 +1499,7 @@
         "29",
         "42.8"
     ],
-    "Probation officers and correctional treatment specialists": [
+    "probation officers and correctional treatment specialists": [
         "0",
         "1",
         "17",
@@ -1509,7 +1509,7 @@
         "3",
         "45.9"
     ],
-    "Social and human service assistants": [
+    "social and human service assistants": [
         "3",
         "10",
         "46",
@@ -1519,7 +1519,7 @@
         "14",
         "43.9"
     ],
-    "Other community and social service specialists": [
+    "other community and social service specialists": [
         "1",
         "13",
         "26",
@@ -1529,7 +1529,7 @@
         "6",
         "39.7"
     ],
-    "Clergy": [
+    "clergy": [
         "0",
         "7",
         "55",
@@ -1539,7 +1539,7 @@
         "79",
         "50.6"
     ],
-    "Directors, religious activities and education": [
+    "directors, religious activities and education": [
         "0",
         "2",
         "13",
@@ -1549,7 +1549,7 @@
         "4",
         "46.7"
     ],
-    "Religious workers, all other": [
+    "religious workers, all other": [
         "0",
         "10",
         "22",
@@ -1559,7 +1559,7 @@
         "20",
         "52.0"
     ],
-    "Legal occupations": [
+    "legal occupations": [
         "5",
         "46",
         "368",
@@ -1569,7 +1569,7 @@
         "207",
         "46.4"
     ],
-    "Lawyers": [
+    "lawyers": [
         "1",
         "1",
         "204",
@@ -1579,7 +1579,7 @@
         "137",
         "46.5"
     ],
-    "Judicial law clerks": [
+    "judicial law clerks": [
         "0",
         "0",
         "14",
@@ -1589,7 +1589,7 @@
         "2",
         "-"
     ],
-    "Judges, magistrates, and other judicial workers": [
+    "judges, magistrates, and other judicial workers": [
         "0",
         "4",
         "5",
@@ -1599,7 +1599,7 @@
         "15",
         "53.1"
     ],
-    "Paralegals and legal assistants": [
+    "paralegals and legal assistants": [
         "3",
         "31",
         "98",
@@ -1609,7 +1609,7 @@
         "30",
         "45.0"
     ],
-    "Title examiners, abstractors, and searchers": [
+    "title examiners, abstractors, and searchers": [
         "1",
         "3",
         "25",
@@ -1619,7 +1619,7 @@
         "9",
         "48.3"
     ],
-    "Legal support workers, all other": [
+    "legal support workers, all other": [
         "1",
         "6",
         "22",
@@ -1629,7 +1629,7 @@
         "13",
         "45.0"
     ],
-    "Education, training, and library occupations": [
+    "education, training, and library occupations": [
         "120",
         "610",
         "1,989",
@@ -1639,7 +1639,7 @@
         "596",
         "43.2"
     ],
-    "Postsecondary teachers": [
+    "postsecondary teachers": [
         "1",
         "24",
         "167",
@@ -1649,7 +1649,7 @@
         "166",
         "49.4"
     ],
-    "Preschool and kindergarten teachers": [
+    "preschool and kindergarten teachers": [
         "16",
         "87",
         "164",
@@ -1659,7 +1659,7 @@
         "22",
         "38.5"
     ],
-    "Elementary and middle school teachers": [
+    "elementary and middle school teachers": [
         "8",
         "132",
         "757",
@@ -1669,7 +1669,7 @@
         "144",
         "43.2"
     ],
-    "Secondary school teachers": [
+    "secondary school teachers": [
         "2",
         "32",
         "229",
@@ -1679,7 +1679,7 @@
         "33",
         "43.0"
     ],
-    "Special education teachers": [
+    "special education teachers": [
         "0",
         "8",
         "82",
@@ -1689,7 +1689,7 @@
         "15",
         "44.0"
     ],
-    "Tutors": [
+    "tutors": [
         "19",
         "53",
         "35",
@@ -1699,7 +1699,7 @@
         "17",
         "28.7"
     ],
-    "Other teachers and instructors": [
+    "other teachers and instructors": [
         "24",
         "68",
         "139",
@@ -1709,7 +1709,7 @@
         "81",
         "43.1"
     ],
-    "Archivists, curators, and museum technicians": [
+    "archivists, curators, and museum technicians": [
         "2",
         "5",
         "18",
@@ -1719,7 +1719,7 @@
         "9",
         "45.0"
     ],
-    "Librarians and media collections specialists": [
+    "librarians and media collections specialists": [
         "0",
         "3",
         "29",
@@ -1729,7 +1729,7 @@
         "20",
         "49.9"
     ],
-    "Library technicians": [
+    "library technicians": [
         "2",
         "1",
         "5",
@@ -1739,7 +1739,7 @@
         "6",
         "-"
     ],
-    "Teaching assistants": [
+    "teaching assistants": [
         "43",
         "190",
         "337",
@@ -1749,7 +1749,7 @@
         "71",
         "39.1"
     ],
-    "Other educational instruction and library workers": [
+    "other educational instruction and library workers": [
         "1",
         "6",
         "26",
@@ -1759,7 +1759,7 @@
         "14",
         "45.6"
     ],
-    "Arts, design, entertainment, sports, and media occupations": [
+    "arts, design, entertainment, sports, and media occupations": [
         "82",
         "236",
         "858",
@@ -1769,7 +1769,7 @@
         "281",
         "41.4"
     ],
-    "Artists and related workers": [
+    "artists and related workers": [
         "3",
         "17",
         "84",
@@ -1779,7 +1779,7 @@
         "31",
         "43.3"
     ],
-    "Commercial and industrial designers": [
+    "commercial and industrial designers": [
         "0",
         "1",
         "2",
@@ -1789,7 +1789,7 @@
         "0",
         "-"
     ],
-    "Fashion designers": [
+    "fashion designers": [
         "0",
         "4",
         "14",
@@ -1799,7 +1799,7 @@
         "0",
         "-"
     ],
-    "Floral designers": [
+    "floral designers": [
         "2",
         "5",
         "6",
@@ -1809,7 +1809,7 @@
         "3",
         "49.7"
     ],
-    "Graphic designers": [
+    "graphic designers": [
         "3",
         "22",
         "78",
@@ -1819,7 +1819,7 @@
         "11",
         "39.9"
     ],
-    "Interior designers": [
+    "interior designers": [
         "0",
         "4",
         "35",
@@ -1829,7 +1829,7 @@
         "15",
         "44.8"
     ],
-    "Merchandise displayers and window trimmers": [
+    "merchandise displayers and window trimmers": [
         "2",
         "5",
         "7",
@@ -1839,7 +1839,7 @@
         "2",
         "-"
     ],
-    "Other designers": [
+    "other designers": [
         "0",
         "21",
         "120",
@@ -1849,7 +1849,7 @@
         "33",
         "41.1"
     ],
-    "Actors": [
+    "actors": [
         "2",
         "4",
         "13",
@@ -1859,7 +1859,7 @@
         "8",
         "-"
     ],
-    "Producers and directors": [
+    "producers and directors": [
         "1",
         "13",
         "49",
@@ -1869,7 +1869,7 @@
         "16",
         "41.3"
     ],
-    "Athletes and sports competitors": [
+    "athletes and sports competitors": [
         "1",
         "4",
         "13",
@@ -1879,7 +1879,7 @@
         "6",
         "-"
     ],
-    "Coaches and scouts": [
+    "coaches and scouts": [
         "37",
         "27",
         "57",
@@ -1889,7 +1889,7 @@
         "13",
         "34.6"
     ],
-    "Umpires, referees, and other sports officials": [
+    "umpires, referees, and other sports officials": [
         "8",
         "3",
         "0",
@@ -1899,7 +1899,7 @@
         "4",
         "-"
     ],
-    "Dancers and choreographers": [
+    "dancers and choreographers": [
         "1",
         "5",
         "2",
@@ -1909,7 +1909,7 @@
         "0",
         "-"
     ],
-    "Music directors and composers": [
+    "music directors and composers": [
         "0",
         "2",
         "14",
@@ -1919,7 +1919,7 @@
         "7",
         "42.7"
     ],
-    "Musicians and singers": [
+    "musicians and singers": [
         "3",
         "11",
         "28",
@@ -1929,7 +1929,7 @@
         "28",
         "44.2"
     ],
-    "Disc jockeys, except radio": [
+    "disc jockeys, except radio": [
         "0",
         "1",
         "0",
@@ -1939,7 +1939,7 @@
         "0",
         "-"
     ],
-    "Entertainers and performers, sports and related workers, all other": [
+    "entertainers and performers, sports and related workers, all other": [
         "1",
         "4",
         "14",
@@ -1949,7 +1949,7 @@
         "5",
         "-"
     ],
-    "Broadcast announcers and radio disc jockeys": [
+    "broadcast announcers and radio disc jockeys": [
         "0",
         "1",
         "1",
@@ -1959,7 +1959,7 @@
         "2",
         "-"
     ],
-    "News analysts, reporters, and journalists": [
+    "news analysts, reporters, and journalists": [
         "0",
         "11",
         "28",
@@ -1969,7 +1969,7 @@
         "8",
         "34.9"
     ],
-    "Public relations specialists and Public Relations Managers and Labor Relations Specialists": [
+    "public relations specialists and public relations managers and labor relations specialists": [
         "0",
         "5",
         "35",
@@ -1979,7 +1979,7 @@
         "5",
         "41.9"
     ],
-    "Editors": [
+    "editors": [
         "2",
         "5",
         "30",
@@ -1989,7 +1989,7 @@
         "13",
         "45.4"
     ],
-    "Technical writers": [
+    "technical writers": [
         "0",
         "5",
         "13",
@@ -1999,7 +1999,7 @@
         "5",
         "49.5"
     ],
-    "Writers and authors": [
+    "writers and authors": [
         "0",
         "8",
         "72",
@@ -2009,7 +2009,7 @@
         "33",
         "44.8"
     ],
-    "Interpreters and translators": [
+    "interpreters and translators": [
         "4",
         "5",
         "14",
@@ -2019,7 +2019,7 @@
         "11",
         "45.2"
     ],
-    "Court reporters and simultaneous captioners": [
+    "court reporters and simultaneous captioners": [
         "0",
         "0",
         "3",
@@ -2029,7 +2029,7 @@
         "4",
         "-"
     ],
-    "Media and communication workers, all other": [
+    "media and communication workers, all other": [
         "1",
         "3",
         "8",
@@ -2039,7 +2039,7 @@
         "0",
         "-"
     ],
-    "Broadcast, sound, and lighting technicians": [
+    "broadcast, sound, and lighting technicians": [
         "4",
         "7",
         "23",
@@ -2049,7 +2049,7 @@
         "4",
         "39.9"
     ],
-    "Photographers": [
+    "photographers": [
         "3",
         "17",
         "60",
@@ -2059,7 +2059,7 @@
         "11",
         "39.6"
     ],
-    "Television, video, and film camera operators and editors": [
+    "television, video, and film camera operators and editors": [
         "2",
         "16",
         "34",
@@ -2069,7 +2069,7 @@
         "4",
         "36.2"
     ],
-    "Media and communication equipment workers, all other": [
+    "media and communication equipment workers, all other": [
         "0",
         "0",
         "0",
@@ -2079,7 +2079,7 @@
         "0",
         "-"
     ],
-    "Healthcare practitioners and technical occupations": [
+    "healthcare practitioners and technical occupations": [
         "52",
         "522",
         "2,515",
@@ -2089,7 +2089,7 @@
         "602",
         "42.7"
     ],
-    "Chiropractors": [
+    "chiropractors": [
         "0",
         "0",
         "14",
@@ -2099,7 +2099,7 @@
         "8",
         "49.4"
     ],
-    "Dentists": [
+    "dentists": [
         "0",
         "0",
         "34",
@@ -2109,7 +2109,7 @@
         "21",
         "46.6"
     ],
-    "Dietitians and nutritionists": [
+    "dietitians and nutritionists": [
         "0",
         "4",
         "30",
@@ -2119,7 +2119,7 @@
         "6",
         "43.9"
     ],
-    "Optometrists": [
+    "optometrists": [
         "0",
         "0",
         "7",
@@ -2129,7 +2129,7 @@
         "1",
         "-"
     ],
-    "Pharmacists": [
+    "pharmacists": [
         "0",
         "10",
         "106",
@@ -2139,7 +2139,7 @@
         "19",
         "41.4"
     ],
-    "Emergency medicine physicians": [
+    "emergency medicine physicians": [
         "0",
         "0",
         "2",
@@ -2149,7 +2149,7 @@
         "2",
         "-"
     ],
-    "Radiologists": [
+    "radiologists": [
         "0",
         "0",
         "5",
@@ -2159,7 +2159,7 @@
         "4",
         "-"
     ],
-    "Other physicians": [
+    "other physicians": [
         "0",
         "1",
         "206",
@@ -2169,7 +2169,7 @@
         "104",
         "46.2"
     ],
-    "Surgeons": [
+    "surgeons": [
         "0",
         "0",
         "8",
@@ -2179,7 +2179,7 @@
         "6",
         "46.7"
     ],
-    "Physician assistants": [
+    "physician assistants": [
         "0",
         "2",
         "63",
@@ -2189,7 +2189,7 @@
         "8",
         "39.4"
     ],
-    "Podiatrists": [
+    "podiatrists": [
         "0",
         "0",
         "1",
@@ -2199,7 +2199,7 @@
         "1",
         "-"
     ],
-    "Audiologists": [
+    "audiologists": [
         "0",
         "0",
         "7",
@@ -2209,7 +2209,7 @@
         "2",
         "-"
     ],
-    "Occupational therapists": [
+    "occupational therapists": [
         "0",
         "1",
         "54",
@@ -2219,7 +2219,7 @@
         "6",
         "41.8"
     ],
-    "Physical therapists": [
+    "physical therapists": [
         "1",
         "7",
         "86",
@@ -2229,7 +2229,7 @@
         "10",
         "41.2"
     ],
-    "Radiation therapists": [
+    "radiation therapists": [
         "0",
         "0",
         "3",
@@ -2239,7 +2239,7 @@
         "1",
         "-"
     ],
-    "Recreational therapists": [
+    "recreational therapists": [
         "0",
         "3",
         "5",
@@ -2249,7 +2249,7 @@
         "1",
         "-"
     ],
-    "Respiratory therapists": [
+    "respiratory therapists": [
         "0",
         "6",
         "23",
@@ -2259,7 +2259,7 @@
         "5",
         "47.7"
     ],
-    "Speech-language pathologists": [
+    "speech-language pathologists": [
         "0",
         "9",
         "65",
@@ -2269,7 +2269,7 @@
         "8",
         "41.1"
     ],
-    "Exercise physiologists": [
+    "exercise physiologists": [
         "0",
         "1",
         "3",
@@ -2279,7 +2279,7 @@
         "1",
         "-"
     ],
-    "Therapists, all other": [
+    "therapists, all other": [
         "0",
         "12",
         "85",
@@ -2289,7 +2289,7 @@
         "17",
         "39.6"
     ],
-    "Veterinarians": [
+    "veterinarians": [
         "0",
         "0",
         "25",
@@ -2299,7 +2299,7 @@
         "14",
         "45.2"
     ],
-    "Registered nurses": [
+    "registered nurses": [
         "5",
         "162",
         "824",
@@ -2309,7 +2309,7 @@
         "184",
         "43.1"
     ],
-    "Nurse anesthetists": [
+    "nurse anesthetists": [
         "0",
         "0",
         "6",
@@ -2319,7 +2319,7 @@
         "2",
         "-"
     ],
-    "Nurse midwives": [
+    "nurse midwives": [
         "0",
         "0",
         "2",
@@ -2329,7 +2329,7 @@
         "0",
         "-"
     ],
-    "Nurse practitioners": [
+    "nurse practitioners": [
         "0",
         "0",
         "46",
@@ -2339,7 +2339,7 @@
         "7",
         "43.5"
     ],
-    "Acupuncturists": [
+    "acupuncturists": [
         "0",
         "0",
         "1",
@@ -2349,7 +2349,7 @@
         "8",
         "-"
     ],
-    "Healthcare diagnosing or treating practitioners, all other": [
+    "healthcare diagnosing or treating practitioners, all other": [
         "0",
         "0",
         "2",
@@ -2359,7 +2359,7 @@
         "1",
         "-"
     ],
-    "Clinical laboratory technologists and technicians": [
+    "clinical laboratory technologists and technicians": [
         "4",
         "38",
         "104",
@@ -2369,7 +2369,7 @@
         "21",
         "40.5"
     ],
-    "Dental hygienists": [
+    "dental hygienists": [
         "0",
         "7",
         "48",
@@ -2379,7 +2379,7 @@
         "11",
         "44.8"
     ],
-    "Cardiovascular technologists and technicians": [
+    "cardiovascular technologists and technicians": [
         "2",
         "5",
         "13",
@@ -2389,7 +2389,7 @@
         "3",
         "47.2"
     ],
-    "Diagnostic medical sonographers": [
+    "diagnostic medical sonographers": [
         "0",
         "4",
         "20",
@@ -2399,7 +2399,7 @@
         "2",
         "42.0"
     ],
-    "Radiologic technologists and technicians": [
+    "radiologic technologists and technicians": [
         "0",
         "8",
         "57",
@@ -2409,7 +2409,7 @@
         "10",
         "43.4"
     ],
-    "Magnetic resonance imaging technologists": [
+    "magnetic resonance imaging technologists": [
         "0",
         "1",
         "7",
@@ -2419,7 +2419,7 @@
         "3",
         "-"
     ],
-    "Nuclear medicine technologists and medical dosimetrists": [
+    "nuclear medicine technologists and medical dosimetrists": [
         "0",
         "1",
         "7",
@@ -2429,7 +2429,7 @@
         "1",
         "-"
     ],
-    "Emergency medical technicians": [
+    "emergency medical technicians": [
         "5",
         "36",
         "51",
@@ -2439,7 +2439,7 @@
         "2",
         "30.8"
     ],
-    "Paramedics": [
+    "paramedics": [
         "0",
         "5",
         "32",
@@ -2449,7 +2449,7 @@
         "4",
         "38.5"
     ],
-    "Pharmacy technicians": [
+    "pharmacy technicians": [
         "11",
         "51",
         "107",
@@ -2459,7 +2459,7 @@
         "11",
         "36.1"
     ],
-    "Psychiatric technicians": [
+    "psychiatric technicians": [
         "1",
         "21",
         "21",
@@ -2469,7 +2469,7 @@
         "3",
         "30.7"
     ],
-    "Surgical technologists": [
+    "surgical technologists": [
         "1",
         "8",
         "33",
@@ -2479,7 +2479,7 @@
         "3",
         "39.8"
     ],
-    "Veterinary technologists and technicians": [
+    "veterinary technologists and technicians": [
         "2",
         "32",
         "46",
@@ -2489,7 +2489,7 @@
         "3",
         "31.8"
     ],
-    "Dietetic technicians and ophthalmic medical technicians": [
+    "dietetic technicians and ophthalmic medical technicians": [
         "9",
         "11",
         "11",
@@ -2499,7 +2499,7 @@
         "5",
         "35.0"
     ],
-    "Licensed practical and licensed vocational nurses": [
+    "licensed practical and licensed vocational nurses": [
         "6",
         "45",
         "121",
@@ -2509,7 +2509,7 @@
         "29",
         "43.8"
     ],
-    "Medical records specialists": [
+    "medical records specialists": [
         "3",
         "9",
         "41",
@@ -2519,7 +2519,7 @@
         "16",
         "46.3"
     ],
-    "Opticians, dispensing": [
+    "opticians, dispensing": [
         "0",
         "4",
         "11",
@@ -2529,7 +2529,7 @@
         "4",
         "45.2"
     ],
-    "Miscellaneous health technologists and technicians": [
+    "miscellaneous health technologists and technicians": [
         "2",
         "9",
         "44",
@@ -2539,7 +2539,7 @@
         "15",
         "45.4"
     ],
-    "Other healthcare practitioners and technical occupations": [
+    "other healthcare practitioners and technical occupations": [
         "0",
         "7",
         "31",
@@ -2549,7 +2549,7 @@
         "9",
         "42.6"
     ],
-    "Service occupations": [
+    "service occupations": [
         "2,159",
         "3,374",
         "5,314",
@@ -2559,7 +2559,7 @@
         "1,420",
         "38.3"
     ],
-    "Healthcare support occupations": [
+    "healthcare support occupations": [
         "125",
         "666",
         "1,133",
@@ -2569,7 +2569,7 @@
         "324",
         "40.8"
     ],
-    "Home health aides": [
+    "home health aides": [
         "10",
         "47",
         "86",
@@ -2579,7 +2579,7 @@
         "50",
         "47.2"
     ],
-    "Personal care aides": [
+    "personal care aides": [
         "35",
         "149",
         "272",
@@ -2589,7 +2589,7 @@
         "158",
         "45.0"
     ],
-    "Nursing assistants": [
+    "nursing assistants": [
         "51",
         "197",
         "285",
@@ -2599,7 +2599,7 @@
         "59",
         "39.2"
     ],
-    "Orderlies and psychiatric aides": [
+    "orderlies and psychiatric aides": [
         "1",
         "14",
         "16",
@@ -2609,7 +2609,7 @@
         "5",
         "34.5"
     ],
-    "Occupational therapy assistants and aides": [
+    "occupational therapy assistants and aides": [
         "0",
         "7",
         "17",
@@ -2619,7 +2619,7 @@
         "0",
         "-"
     ],
-    "Physical therapist assistants and aides": [
+    "physical therapist assistants and aides": [
         "1",
         "11",
         "20",
@@ -2629,7 +2629,7 @@
         "1",
         "39.7"
     ],
-    "Massage therapists": [
+    "massage therapists": [
         "0",
         "11",
         "47",
@@ -2639,7 +2639,7 @@
         "12",
         "43.5"
     ],
-    "Dental assistants": [
+    "dental assistants": [
         "7",
         "55",
         "106",
@@ -2649,7 +2649,7 @@
         "10",
         "34.4"
     ],
-    "Medical assistants": [
+    "medical assistants": [
         "5",
         "85",
         "182",
@@ -2659,7 +2659,7 @@
         "11",
         "36.4"
     ],
-    "Medical transcriptionists": [
+    "medical transcriptionists": [
         "0",
         "15",
         "10",
@@ -2669,7 +2669,7 @@
         "3",
         "-"
     ],
-    "Pharmacy aides": [
+    "pharmacy aides": [
         "1",
         "8",
         "11",
@@ -2679,7 +2679,7 @@
         "1",
         "-"
     ],
-    "Veterinary assistants and laboratory animal caretakers": [
+    "veterinary assistants and laboratory animal caretakers": [
         "9",
         "28",
         "23",
@@ -2689,7 +2689,7 @@
         "2",
         "26.7"
     ],
-    "Phlebotomists": [
+    "phlebotomists": [
         "0",
         "22",
         "29",
@@ -2699,7 +2699,7 @@
         "4",
         "37.5"
     ],
-    "Other healthcare support workers": [
+    "other healthcare support workers": [
         "3",
         "18",
         "29",
@@ -2709,7 +2709,7 @@
         "8",
         "43.7"
     ],
-    "Protective service occupations": [
+    "protective service occupations": [
         "101",
         "241",
         "786",
@@ -2719,7 +2719,7 @@
         "171",
         "41.0"
     ],
-    "First-line supervisors of correctional officers": [
+    "first-line supervisors of correctional officers": [
         "0",
         "0",
         "7",
@@ -2729,7 +2729,7 @@
         "0",
         "-"
     ],
-    "First-line supervisors of police and detectives": [
+    "first-line supervisors of police and detectives": [
         "0",
         "0",
         "12",
@@ -2739,7 +2739,7 @@
         "2",
         "45.1"
     ],
-    "First-line supervisors of firefighting and prevention workers": [
+    "first-line supervisors of firefighting and prevention workers": [
         "0",
         "0",
         "1",
@@ -2749,7 +2749,7 @@
         "1",
         "-"
     ],
-    "First-line supervisors of security workers": [
+    "first-line supervisors of security workers": [
         "0",
         "1",
         "10",
@@ -2759,7 +2759,7 @@
         "5",
         "46.0"
     ],
-    "First-line supervisors of protective service workers, all other": [
+    "first-line supervisors of protective service workers, all other": [
         "0",
         "0",
         "2",
@@ -2769,7 +2769,7 @@
         "1",
         "-"
     ],
-    "Firefighters": [
+    "firefighters": [
         "2",
         "21",
         "88",
@@ -2779,7 +2779,7 @@
         "5",
         "39.7"
     ],
-    "Fire inspectors": [
+    "fire inspectors": [
         "0",
         "2",
         "3",
@@ -2789,7 +2789,7 @@
         "2",
         "-"
     ],
-    "Bailiffs": [
+    "bailiffs": [
         "0",
         "1",
         "0",
@@ -2799,7 +2799,7 @@
         "4",
         "-"
     ],
-    "Correctional officers and jailers": [
+    "correctional officers and jailers": [
         "2",
         "35",
         "96",
@@ -2809,7 +2809,7 @@
         "3",
         "38.2"
     ],
-    "Detectives and criminal investigators": [
+    "detectives and criminal investigators": [
         "0",
         "1",
         "35",
@@ -2819,7 +2819,7 @@
         "6",
         "43.1"
     ],
-    "Fish and game wardens": [
+    "fish and game wardens": [
         "0",
         "1",
         "3",
@@ -2829,7 +2829,7 @@
         "0",
         "-"
     ],
-    "Parking enforcement workers": [
+    "parking enforcement workers": [
         "0",
         "1",
         "5",
@@ -2839,7 +2839,7 @@
         "1",
         "-"
     ],
-    "Police officers": [
+    "police officers": [
         "2",
         "37",
         "237",
@@ -2849,7 +2849,7 @@
         "23",
         "40.5"
     ],
-    "Animal control workers": [
+    "animal control workers": [
         "0",
         "0",
         "1",
@@ -2859,7 +2859,7 @@
         "0",
         "-"
     ],
-    "Private detectives and investigators": [
+    "private detectives and investigators": [
         "0",
         "4",
         "26",
@@ -2869,7 +2869,7 @@
         "7",
         "43.6"
     ],
-    "Security guards and gambling surveillance officers": [
+    "security guards and gambling surveillance officers": [
         "18",
         "113",
         "227",
@@ -2879,7 +2879,7 @@
         "80",
         "41.0"
     ],
-    "Crossing guards and flaggers": [
+    "crossing guards and flaggers": [
         "1",
         "2",
         "5",
@@ -2889,7 +2889,7 @@
         "19",
         "57.6"
     ],
-    "Transportation security screeners": [
+    "transportation security screeners": [
         "0",
         "3",
         "15",
@@ -2899,7 +2899,7 @@
         "1",
         "-"
     ],
-    "School bus monitors": [
+    "school bus monitors": [
         "2",
         "1",
         "5",
@@ -2909,7 +2909,7 @@
         "8",
         "-"
     ],
-    "Other protective service workers": [
+    "other protective service workers": [
         "74",
         "18",
         "9",
@@ -2919,7 +2919,7 @@
         "3",
         "21.2"
     ],
-    "Food preparation and serving related occupations": [
+    "food preparation and serving related occupations": [
         "1,505",
         "1,477",
         "1,560",
@@ -2929,7 +2929,7 @@
         "236",
         "29.2"
     ],
-    "Chefs and head cooks": [
+    "chefs and head cooks": [
         "5",
         "25",
         "108",
@@ -2939,7 +2939,7 @@
         "13",
         "41.5"
     ],
-    "First-line supervisors of food preparation and serving workers": [
+    "first-line supervisors of food preparation and serving workers": [
         "41",
         "97",
         "138",
@@ -2949,7 +2949,7 @@
         "10",
         "31.8"
     ],
-    "Cooks": [
+    "cooks": [
         "294",
         "267",
         "394",
@@ -2959,7 +2959,7 @@
         "74",
         "34.9"
     ],
-    "Food preparation workers": [
+    "food preparation workers": [
         "191",
         "152",
         "146",
@@ -2969,7 +2969,7 @@
         "40",
         "31.0"
     ],
-    "Bartenders": [
+    "bartenders": [
         "4",
         "66",
         "140",
@@ -2979,7 +2979,7 @@
         "13",
         "32.1"
     ],
-    "Fast food and counter workers": [
+    "fast food and counter workers": [
         "309",
         "207",
         "130",
@@ -2989,7 +2989,7 @@
         "12",
         "22.3"
     ],
-    "Waiters and waitresses": [
+    "waiters and waitresses": [
         "340",
         "490",
         "378",
@@ -2999,7 +2999,7 @@
         "34",
         "25.3"
     ],
-    "Food servers, nonrestaurant": [
+    "food servers, nonrestaurant": [
         "28",
         "29",
         "36",
@@ -3009,7 +3009,7 @@
         "7",
         "32.3"
     ],
-    "Dining room and cafeteria attendants and bartender helpers": [
+    "dining room and cafeteria attendants and bartender helpers": [
         "83",
         "36",
         "35",
@@ -3019,7 +3019,7 @@
         "11",
         "26.4"
     ],
-    "Dishwashers": [
+    "dishwashers": [
         "56",
         "42",
         "34",
@@ -3029,7 +3029,7 @@
         "14",
         "30.8"
     ],
-    "Hosts and hostesses, restaurant, lounge, and coffee shop": [
+    "hosts and hostesses, restaurant, lounge, and coffee shop": [
         "151",
         "66",
         "22",
@@ -3039,7 +3039,7 @@
         "7",
         "21.4"
     ],
-    "Food preparation and serving related workers, all other": [
+    "food preparation and serving related workers, all other": [
         "2",
         "0",
         "0",
@@ -3049,7 +3049,7 @@
         "0",
         "-"
     ],
-    "Building and grounds cleaning and maintenance occupations": [
+    "building and grounds cleaning and maintenance occupations": [
         "214",
         "443",
         "989",
@@ -3059,7 +3059,7 @@
         "445",
         "44.6"
     ],
-    "First-line supervisors of housekeeping and janitorial workers": [
+    "first-line supervisors of housekeeping and janitorial workers": [
         "0",
         "5",
         "47",
@@ -3069,7 +3069,7 @@
         "26",
         "50.3"
     ],
-    "First-line supervisors of landscaping, lawn service, and groundskeeping workers": [
+    "first-line supervisors of landscaping, lawn service, and groundskeeping workers": [
         "1",
         "9",
         "49",
@@ -3079,7 +3079,7 @@
         "16",
         "46.8"
     ],
-    "Janitors and building cleaners": [
+    "janitors and building cleaners": [
         "81",
         "170",
         "352",
@@ -3089,7 +3089,7 @@
         "218",
         "46.4"
     ],
-    "Maids and housekeeping cleaners": [
+    "maids and housekeeping cleaners": [
         "38",
         "78",
         "228",
@@ -3099,7 +3099,7 @@
         "87",
         "45.5"
     ],
-    "Pest control workers": [
+    "pest control workers": [
         "4",
         "17",
         "28",
@@ -3109,7 +3109,7 @@
         "7",
         "39.8"
     ],
-    "Landscaping and groundskeeping workers": [
+    "landscaping and groundskeeping workers": [
         "86",
         "147",
         "255",
@@ -3119,7 +3119,7 @@
         "84",
         "39.6"
     ],
-    "Tree trimmers and pruners": [
+    "tree trimmers and pruners": [
         "3",
         "14",
         "28",
@@ -3129,7 +3129,7 @@
         "7",
         "37.4"
     ],
-    "Other grounds maintenance workers": [
+    "other grounds maintenance workers": [
         "1",
         "2",
         "4",
@@ -3139,7 +3139,7 @@
         "0",
         "-"
     ],
-    "Personal care and service occupations": [
+    "personal care and service occupations": [
         "214",
         "546",
         "847",
@@ -3149,7 +3149,7 @@
         "244",
         "38.6"
     ],
-    "Supervisors of personal care and service workers": [
+    "supervisors of personal care and service workers": [
         "1",
         "16",
         "57",
@@ -3159,7 +3159,7 @@
         "24",
         "42.0"
     ],
-    "Animal trainers": [
+    "animal trainers": [
         "2",
         "9",
         "15",
@@ -3169,7 +3169,7 @@
         "2",
         "37.3"
     ],
-    "Animal caretakers": [
+    "animal caretakers": [
         "21",
         "63",
         "87",
@@ -3179,7 +3179,7 @@
         "8",
         "30.2"
     ],
-    "Gambling services workers, Gambling Managers": [
+    "gambling services workers, gambling managers": [
         "0",
         "6",
         "13",
@@ -3189,7 +3189,7 @@
         "3",
         "44.2"
     ],
-    "Ushers, lobby attendants, and ticket takers": [
+    "ushers, lobby attendants, and ticket takers": [
         "7",
         "7",
         "6",
@@ -3199,7 +3199,7 @@
         "5",
         "-"
     ],
-    "Other entertainment attendants and related workers": [
+    "other entertainment attendants and related workers": [
         "48",
         "59",
         "24",
@@ -3209,7 +3209,7 @@
         "20",
         "23.8"
     ],
-    "Embalmers, crematory operators, and funeral attendants": [
+    "embalmers, crematory operators, and funeral attendants": [
         "0",
         "1",
         "3",
@@ -3219,7 +3219,7 @@
         "1",
         "-"
     ],
-    "Morticians, undertakers, and funeral arrangers": [
+    "morticians, undertakers, and funeral arrangers": [
         "0",
         "1",
         "2",
@@ -3229,7 +3229,7 @@
         "3",
         "-"
     ],
-    "Barbers": [
+    "barbers": [
         "1",
         "7",
         "30",
@@ -3239,7 +3239,7 @@
         "5",
         "40.8"
     ],
-    "Hairdressers, hairstylists, and cosmetologists": [
+    "hairdressers, hairstylists, and cosmetologists": [
         "7",
         "74",
         "178",
@@ -3249,7 +3249,7 @@
         "55",
         "41.4"
     ],
-    "Manicurists and pedicurists": [
+    "manicurists and pedicurists": [
         "6",
         "17",
         "54",
@@ -3259,7 +3259,7 @@
         "8",
         "41.6"
     ],
-    "Skincare specialists": [
+    "skincare specialists": [
         "1",
         "9",
         "33",
@@ -3269,7 +3269,7 @@
         "2",
         "37.8"
     ],
-    "Other personal appearance workers": [
+    "other personal appearance workers": [
         "2",
         "6",
         "5",
@@ -3279,7 +3279,7 @@
         "1",
         "-"
     ],
-    "Baggage porters, bellhops, and concierges": [
+    "baggage porters, bellhops, and concierges": [
         "3",
         "14",
         "19",
@@ -3289,7 +3289,7 @@
         "5",
         "41.3"
     ],
-    "Tour and travel guides": [
+    "tour and travel guides": [
         "3",
         "9",
         "7",
@@ -3299,7 +3299,7 @@
         "9",
         "-"
     ],
-    "Childcare workers": [
+    "childcare workers": [
         "80",
         "173",
         "191",
@@ -3309,7 +3309,7 @@
         "62",
         "37.7"
     ],
-    "Exercise trainers and group fitness instructors": [
+    "exercise trainers and group fitness instructors": [
         "4",
         "19",
         "76",
@@ -3319,7 +3319,7 @@
         "12",
         "37.7"
     ],
-    "Recreation workers": [
+    "recreation workers": [
         "24",
         "28",
         "25",
@@ -3329,7 +3329,7 @@
         "8",
         "32.4"
     ],
-    "Residential advisors": [
+    "residential advisors": [
         "0",
         "9",
         "5",
@@ -3339,7 +3339,7 @@
         "0",
         "-"
     ],
-    "Personal care and service workers, all other": [
+    "personal care and service workers, all other": [
         "3",
         "19",
         "17",
@@ -3349,7 +3349,7 @@
         "12",
         "43.0"
     ],
-    "Sales and office occupations": [
+    "sales and office occupations": [
         "1,495",
         "3,442",
         "6,539",
@@ -3359,7 +3359,7 @@
         "2,242",
         "41.5"
     ],
-    "Sales and related occupations": [
+    "sales and related occupations": [
         "1,010",
         "1,739",
         "2,912",
@@ -3369,7 +3369,7 @@
         "1,181",
         "40.9"
     ],
-    "First-line supervisors of retail sales workers": [
+    "first-line supervisors of retail sales workers": [
         "28",
         "223",
         "738",
@@ -3379,7 +3379,7 @@
         "222",
         "43.3"
     ],
-    "First-line supervisors of non-retail sales workers": [
+    "first-line supervisors of non-retail sales workers": [
         "10",
         "50",
         "213",
@@ -3389,7 +3389,7 @@
         "109",
         "46.3"
     ],
-    "Cashiers": [
+    "cashiers": [
         "665",
         "632",
         "420",
@@ -3399,7 +3399,7 @@
         "141",
         "25.3"
     ],
-    "Counter and rental clerks": [
+    "counter and rental clerks": [
         "6",
         "9",
         "19",
@@ -3409,7 +3409,7 @@
         "5",
         "40.0"
     ],
-    "Parts salespersons": [
+    "parts salespersons": [
         "6",
         "16",
         "22",
@@ -3419,7 +3419,7 @@
         "15",
         "44.0"
     ],
-    "Retail salespersons": [
+    "retail salespersons": [
         "250",
         "538",
         "572",
@@ -3429,7 +3429,7 @@
         "242",
         "35.8"
     ],
-    "Advertising sales agents": [
+    "advertising sales agents": [
         "0",
         "6",
         "32",
@@ -3439,7 +3439,7 @@
         "8",
         "40.9"
     ],
-    "Insurance sales agents": [
+    "insurance sales agents": [
         "2",
         "36",
         "120",
@@ -3449,7 +3449,7 @@
         "62",
         "45.7"
     ],
-    "Securities, commodities, and financial services sales agents": [
+    "securities, commodities, and financial services sales agents": [
         "1",
         "17",
         "60",
@@ -3459,7 +3459,7 @@
         "16",
         "42.7"
     ],
-    "Travel agents": [
+    "travel agents": [
         "0",
         "3",
         "10",
@@ -3469,7 +3469,7 @@
         "12",
         "52.1"
     ],
-    "Sales representatives of services, except advertising, insurance, financial services, and travel": [
+    "sales representatives of services, except advertising, insurance, financial services, and travel": [
         "6",
         "34",
         "154",
@@ -3479,7 +3479,7 @@
         "23",
         "41.8"
     ],
-    "Sales representatives, wholesale and manufacturing": [
+    "sales representatives, wholesale and manufacturing": [
         "6",
         "50",
         "241",
@@ -3489,7 +3489,7 @@
         "87",
         "45.9"
     ],
-    "Models, demonstrators, and product promoters": [
+    "models, demonstrators, and product promoters": [
         "1",
         "3",
         "7",
@@ -3499,7 +3499,7 @@
         "6",
         "-"
     ],
-    "Real estate brokers and sales agents": [
+    "real estate brokers and sales agents": [
         "1",
         "42",
         "180",
@@ -3509,7 +3509,7 @@
         "182",
         "49.1"
     ],
-    "Sales engineers": [
+    "sales engineers": [
         "0",
         "2",
         "5",
@@ -3519,7 +3519,7 @@
         "7",
         "-"
     ],
-    "Telemarketers": [
+    "telemarketers": [
         "1",
         "7",
         "8",
@@ -3529,7 +3529,7 @@
         "1",
         "-"
     ],
-    "Door-to-door sales workers, news and street vendors, and related workers": [
+    "door-to-door sales workers, news and street vendors, and related workers": [
         "1",
         "10",
         "15",
@@ -3539,7 +3539,7 @@
         "10",
         "45.1"
     ],
-    "Sales and related workers, all other": [
+    "sales and related workers, all other": [
         "26",
         "61",
         "99",
@@ -3549,7 +3549,7 @@
         "34",
         "38.2"
     ],
-    "Office and administrative support occupations": [
+    "office and administrative support occupations": [
         "485",
         "1,703",
         "3,627",
@@ -3559,7 +3559,7 @@
         "1,060",
         "42.1"
     ],
-    "First-line supervisors of office and administrative support workers": [
+    "first-line supervisors of office and administrative support workers": [
         "4",
         "32",
         "227",
@@ -3569,7 +3569,7 @@
         "81",
         "47.8"
     ],
-    "Switchboard operators, including answering service": [
+    "switchboard operators, including answering service": [
         "0",
         "0",
         "3",
@@ -3579,7 +3579,7 @@
         "0",
         "-"
     ],
-    "Telephone operators": [
+    "telephone operators": [
         "2",
         "4",
         "4",
@@ -3589,7 +3589,7 @@
         "3",
         "-"
     ],
-    "Communications equipment operators, all other": [
+    "communications equipment operators, all other": [
         "0",
         "0",
         "2",
@@ -3599,7 +3599,7 @@
         "0",
         "-"
     ],
-    "Bill and account collectors": [
+    "bill and account collectors": [
         "1",
         "12",
         "25",
@@ -3609,7 +3609,7 @@
         "9",
         "42.2"
     ],
-    "Billing and posting clerks": [
+    "billing and posting clerks": [
         "2",
         "34",
         "107",
@@ -3619,7 +3619,7 @@
         "26",
         "44.3"
     ],
-    "Bookkeeping, accounting, and auditing clerks": [
+    "bookkeeping, accounting, and auditing clerks": [
         "11",
         "56",
         "170",
@@ -3629,7 +3629,7 @@
         "149",
         "50.0"
     ],
-    "Gambling cage workers": [
+    "gambling cage workers": [
         "0",
         "1",
         "3",
@@ -3639,7 +3639,7 @@
         "1",
         "-"
     ],
-    "Payroll and timekeeping clerks": [
+    "payroll and timekeeping clerks": [
         "0",
         "4",
         "33",
@@ -3649,7 +3649,7 @@
         "11",
         "44.4"
     ],
-    "Procurement clerks": [
+    "procurement clerks": [
         "0",
         "1",
         "8",
@@ -3659,7 +3659,7 @@
         "1",
         "-"
     ],
-    "Tellers": [
+    "tellers": [
         "6",
         "43",
         "67",
@@ -3669,7 +3669,7 @@
         "6",
         "33.6"
     ],
-    "Financial clerks, all other": [
+    "financial clerks, all other": [
         "2",
         "9",
         "26",
@@ -3679,7 +3679,7 @@
         "4",
         "39.8"
     ],
-    "Brokerage clerks": [
+    "brokerage clerks": [
         "0",
         "0",
         "1",
@@ -3689,7 +3689,7 @@
         "0",
         "-"
     ],
-    "Correspondence clerks": [
+    "correspondence clerks": [
         "0",
         "1",
         "2",
@@ -3699,7 +3699,7 @@
         "0",
         "-"
     ],
-    "Court, municipal, and license clerks": [
+    "court, municipal, and license clerks": [
         "0",
         "3",
         "19",
@@ -3709,7 +3709,7 @@
         "6",
         "44.7"
     ],
-    "Credit authorizers, checkers, and clerks": [
+    "credit authorizers, checkers, and clerks": [
         "1",
         "2",
         "13",
@@ -3719,7 +3719,7 @@
         "2",
         "-"
     ],
-    "Customer service representatives": [
+    "customer service representatives": [
         "217",
         "418",
         "672",
@@ -3729,7 +3729,7 @@
         "107",
         "34.6"
     ],
-    "Eligibility interviewers, government programs": [
+    "eligibility interviewers, government programs": [
         "0",
         "0",
         "11",
@@ -3739,7 +3739,7 @@
         "3",
         "44.2"
     ],
-    "File Clerks": [
+    "file clerks": [
         "8",
         "12",
         "35",
@@ -3749,7 +3749,7 @@
         "13",
         "43.8"
     ],
-    "Hotel, motel, and resort desk clerks": [
+    "hotel, motel, and resort desk clerks": [
         "7",
         "31",
         "34",
@@ -3759,7 +3759,7 @@
         "6",
         "32.0"
     ],
-    "Interviewers, except eligibility and loan": [
+    "interviewers, except eligibility and loan": [
         "7",
         "35",
         "56",
@@ -3769,7 +3769,7 @@
         "13",
         "38.0"
     ],
-    "Library assistants, clerical": [
+    "library assistants, clerical": [
         "6",
         "13",
         "15",
@@ -3779,7 +3779,7 @@
         "10",
         "48.2"
     ],
-    "Loan interviewers and clerks": [
+    "loan interviewers and clerks": [
         "0",
         "6",
         "51",
@@ -3789,7 +3789,7 @@
         "5",
         "41.2"
     ],
-    "New accounts clerks": [
+    "new accounts clerks": [
         "0",
         "0",
         "3",
@@ -3799,7 +3799,7 @@
         "1",
         "-"
     ],
-    "Order clerks": [
+    "order clerks": [
         "4",
         "13",
         "32",
@@ -3809,7 +3809,7 @@
         "7",
         "39.6"
     ],
-    "Human resources assistants, except payroll and timekeeping": [
+    "human resources assistants, except payroll and timekeeping": [
         "1",
         "1",
         "7",
@@ -3819,7 +3819,7 @@
         "2",
         "-"
     ],
-    "Receptionists and information clerks": [
+    "receptionists and information clerks": [
         "58",
         "232",
         "307",
@@ -3829,7 +3829,7 @@
         "73",
         "36.3"
     ],
-    "Reservation and transportation ticket agents and travel clerks": [
+    "reservation and transportation ticket agents and travel clerks": [
         "3",
         "10",
         "22",
@@ -3839,7 +3839,7 @@
         "5",
         "41.7"
     ],
-    "Information and record clerks, all other": [
+    "information and record clerks, all other": [
         "1",
         "13",
         "27",
@@ -3849,7 +3849,7 @@
         "9",
         "40.9"
     ],
-    "Cargo and freight agents": [
+    "cargo and freight agents": [
         "0",
         "0",
         "5",
@@ -3859,7 +3859,7 @@
         "1",
         "-"
     ],
-    "Couriers and messengers": [
+    "couriers and messengers": [
         "41",
         "152",
         "231",
@@ -3869,7 +3869,7 @@
         "32",
         "35.3"
     ],
-    "Public safety telecommunicators": [
+    "public safety telecommunicators": [
         "0",
         "7",
         "34",
@@ -3879,7 +3879,7 @@
         "3",
         "39.9"
     ],
-    "Dispatchers, except police, fire, and ambulance": [
+    "dispatchers, except police, fire, and ambulance": [
         "2",
         "16",
         "47",
@@ -3889,7 +3889,7 @@
         "9",
         "42.7"
     ],
-    "Meter readers, utilities": [
+    "meter readers, utilities": [
         "0",
         "3",
         "4",
@@ -3899,7 +3899,7 @@
         "1",
         "-"
     ],
-    "Postal service clerks": [
+    "postal service clerks": [
         "0",
         "5",
         "22",
@@ -3909,7 +3909,7 @@
         "10",
         "46.7"
     ],
-    "Postal service mail carriers": [
+    "postal service mail carriers": [
         "2",
         "12",
         "52",
@@ -3919,7 +3919,7 @@
         "8",
         "44.4"
     ],
-    "Postal service mail sorters, processors, and processing machine operators": [
+    "postal service mail sorters, processors, and processing machine operators": [
         "0",
         "5",
         "19",
@@ -3929,7 +3929,7 @@
         "8",
         "46.1"
     ],
-    "Production, planning, and expediting clerks": [
+    "production, planning, and expediting clerks": [
         "1",
         "12",
         "61",
@@ -3939,7 +3939,7 @@
         "13",
         "41.4"
     ],
-    "Shipping, receiving, and inventory clerks": [
+    "shipping, receiving, and inventory clerks": [
         "16",
         "96",
         "140",
@@ -3949,7 +3949,7 @@
         "32",
         "39.8"
     ],
-    "Weighers, measurers, checkers, and samplers, recordkeeping": [
+    "weighers, measurers, checkers, and samplers, recordkeeping": [
         "1",
         "7",
         "11",
@@ -3959,7 +3959,7 @@
         "2",
         "-"
     ],
-    "Executive secretaries and executive administrative assistants": [
+    "executive secretaries and executive administrative assistants": [
         "0",
         "13",
         "45",
@@ -3969,7 +3969,7 @@
         "15",
         "48.5"
     ],
-    "Legal secretaries and administrative assistants": [
+    "legal secretaries and administrative assistants": [
         "1",
         "2",
         "8",
@@ -3979,7 +3979,7 @@
         "3",
         "-"
     ],
-    "Medical secretaries and administrative assistants": [
+    "medical secretaries and administrative assistants": [
         "2",
         "3",
         "9",
@@ -3989,7 +3989,7 @@
         "6",
         "50.3"
     ],
-    "Secretaries and administrative assistants, except legal, medical, and executive": [
+    "secretaries and administrative assistants, except legal, medical, and executive": [
         "22",
         "125",
         "352",
@@ -3999,7 +3999,7 @@
         "193",
         "48.5"
     ],
-    "Data entry keyers": [
+    "data entry keyers": [
         "6",
         "37",
         "59",
@@ -4009,7 +4009,7 @@
         "12",
         "37.4"
     ],
-    "Word processors and typists": [
+    "word processors and typists": [
         "0",
         "2",
         "4",
@@ -4019,7 +4019,7 @@
         "8",
         "-"
     ],
-    "Desktop publishers": [
+    "desktop publishers": [
         "0",
         "0",
         "1",
@@ -4029,7 +4029,7 @@
         "0",
         "-"
     ],
-    "Insurance claims and policy processing clerks": [
+    "insurance claims and policy processing clerks": [
         "4",
         "20",
         "78",
@@ -4039,7 +4039,7 @@
         "11",
         "40.6"
     ],
-    "Mail clerks and mail machine operators, except postal service": [
+    "mail clerks and mail machine operators, except postal service": [
         "3",
         "8",
         "13",
@@ -4049,7 +4049,7 @@
         "4",
         "40.1"
     ],
-    "Office clerks, general": [
+    "office clerks, general": [
         "40",
         "141",
         "252",
@@ -4059,7 +4059,7 @@
         "109",
         "42.8"
     ],
-    "Office machine operators, except computer": [
+    "office machine operators, except computer": [
         "4",
         "6",
         "8",
@@ -4069,7 +4069,7 @@
         "1",
         "-"
     ],
-    "Proofreaders and copy markers": [
+    "proofreaders and copy markers": [
         "0",
         "0",
         "2",
@@ -4079,7 +4079,7 @@
         "1",
         "-"
     ],
-    "Statistical assistants": [
+    "statistical assistants": [
         "0",
         "1",
         "11",
@@ -4089,7 +4089,7 @@
         "1",
         "-"
     ],
-    "Office and administrative support workers, all other": [
+    "office and administrative support workers, all other": [
         "2",
         "44",
         "179",
@@ -4099,7 +4099,7 @@
         "27",
         "41.1"
     ],
-    "Natural resources, construction, and maintenance occupations": [
+    "natural resources, construction, and maintenance occupations": [
         "367",
         "1,239",
         "3,246",
@@ -4109,7 +4109,7 @@
         "714",
         "41.6"
     ],
-    "Farming, fishing, and forestry occupations": [
+    "farming, fishing, and forestry occupations": [
         "60",
         "122",
         "222",
@@ -4119,7 +4119,7 @@
         "92",
         "41.4"
     ],
-    "First-line supervisors of farming, fishing, and forestry workers": [
+    "first-line supervisors of farming, fishing, and forestry workers": [
         "0",
         "1",
         "10",
@@ -4129,7 +4129,7 @@
         "6",
         "-"
     ],
-    "Agricultural inspectors": [
+    "agricultural inspectors": [
         "0",
         "1",
         "3",
@@ -4139,7 +4139,7 @@
         "0",
         "-"
     ],
-    "Animal breeders Animal Scientists": [
+    "animal breeders animal scientists": [
         "0",
         "0",
         "5",
@@ -4149,7 +4149,7 @@
         "2",
         "-"
     ],
-    "Graders and sorters, agricultural products": [
+    "graders and sorters, agricultural products": [
         "0",
         "8",
         "13",
@@ -4159,7 +4159,7 @@
         "1",
         "40.0"
     ],
-    "Miscellaneous agricultural workers": [
+    "miscellaneous agricultural workers": [
         "57",
         "100",
         "170",
@@ -4169,7 +4169,7 @@
         "71",
         "40.8"
     ],
-    "Fishing and hunting workers": [
+    "fishing and hunting workers": [
         "2",
         "0",
         "5",
@@ -4179,7 +4179,7 @@
         "6",
         "-"
     ],
-    "Forest and conservation workers": [
+    "forest and conservation workers": [
         "0",
         "5",
         "5",
@@ -4189,7 +4189,7 @@
         "1",
         "-"
     ],
-    "Logging workers": [
+    "logging workers": [
         "1",
         "6",
         "11",
@@ -4199,7 +4199,7 @@
         "5",
         "43.8"
     ],
-    "Construction and extraction occupations": [
+    "construction and extraction occupations": [
         "207",
         "722",
         "1,904",
@@ -4209,7 +4209,7 @@
         "358",
         "40.9"
     ],
-    "First-line supervisors of construction trades and extraction workers": [
+    "first-line supervisors of construction trades and extraction workers": [
         "3",
         "20",
         "126",
@@ -4219,7 +4219,7 @@
         "33",
         "44.6"
     ],
-    "Boilermakers": [
+    "boilermakers": [
         "0",
         "0",
         "4",
@@ -4229,7 +4229,7 @@
         "0",
         "-"
     ],
-    "Brickmasons, blockmasons, and stonemasons": [
+    "brickmasons, blockmasons, and stonemasons": [
         "3",
         "11",
         "16",
@@ -4239,7 +4239,7 @@
         "8",
         "42.2"
     ],
-    "Carpenters": [
+    "carpenters": [
         "30",
         "113",
         "281",
@@ -4249,7 +4249,7 @@
         "64",
         "40.8"
     ],
-    "Carpet, floor, and tile installers and finishers": [
+    "carpet, floor, and tile installers and finishers": [
         "4",
         "12",
         "33",
@@ -4259,7 +4259,7 @@
         "7",
         "41.2"
     ],
-    "Cement masons, concrete finishers, and terrazzo workers": [
+    "cement masons, concrete finishers, and terrazzo workers": [
         "2",
         "4",
         "17",
@@ -4269,7 +4269,7 @@
         "0",
         "40.1"
     ],
-    "Construction laborers": [
+    "construction laborers": [
         "93",
         "237",
         "479",
@@ -4279,7 +4279,7 @@
         "92",
         "39.8"
     ],
-    "Construction equipment operators": [
+    "construction equipment operators": [
         "2",
         "27",
         "83",
@@ -4289,7 +4289,7 @@
         "12",
         "43.1"
     ],
-    "Drywall installers, ceiling tile installers, and tapers": [
+    "drywall installers, ceiling tile installers, and tapers": [
         "3",
         "9",
         "43",
@@ -4299,7 +4299,7 @@
         "3",
         "39.2"
     ],
-    "Electricians": [
+    "electricians": [
         "17",
         "77",
         "195",
@@ -4309,7 +4309,7 @@
         "45",
         "41.4"
     ],
-    "Glaziers": [
+    "glaziers": [
         "1",
         "6",
         "17",
@@ -4319,7 +4319,7 @@
         "2",
         "35.0"
     ],
-    "Insulation workers": [
+    "insulation workers": [
         "2",
         "2",
         "13",
@@ -4329,7 +4329,7 @@
         "2",
         "-"
     ],
-    "Painters and paperhangers": [
+    "painters and paperhangers": [
         "11",
         "34",
         "143",
@@ -4339,7 +4339,7 @@
         "20",
         "41.5"
     ],
-    "Pipelayers": [
+    "pipelayers": [
         "1",
         "2",
         "14",
@@ -4349,7 +4349,7 @@
         "2",
         "-"
     ],
-    "Plumbers, pipefitters, and steamfitters": [
+    "plumbers, pipefitters, and steamfitters": [
         "5",
         "52",
         "166",
@@ -4359,7 +4359,7 @@
         "24",
         "40.6"
     ],
-    "Plasterers and stucco masons": [
+    "plasterers and stucco masons": [
         "0",
         "5",
         "5",
@@ -4369,7 +4369,7 @@
         "1",
         "-"
     ],
-    "Reinforcing iron and rebar workers": [
+    "reinforcing iron and rebar workers": [
         "0",
         "1",
         "3",
@@ -4379,7 +4379,7 @@
         "0",
         "-"
     ],
-    "Roofers": [
+    "roofers": [
         "6",
         "26",
         "67",
@@ -4389,7 +4389,7 @@
         "3",
         "36.7"
     ],
-    "Sheet metal workers": [
+    "sheet metal workers": [
         "5",
         "12",
         "37",
@@ -4399,7 +4399,7 @@
         "4",
         "38.8"
     ],
-    "Structural iron and steel workers": [
+    "structural iron and steel workers": [
         "0",
         "5",
         "11",
@@ -4409,7 +4409,7 @@
         "1",
         "-"
     ],
-    "Solar photovoltaic installers": [
+    "solar photovoltaic installers": [
         "0",
         "3",
         "10",
@@ -4419,7 +4419,7 @@
         "0",
         "-"
     ],
-    "Helpers, construction trades": [
+    "helpers, construction trades": [
         "10",
         "21",
         "21",
@@ -4429,7 +4429,7 @@
         "1",
         "27.8"
     ],
-    "Construction and building inspectors": [
+    "construction and building inspectors": [
         "0",
         "6",
         "16",
@@ -4439,7 +4439,7 @@
         "13",
         "50.3"
     ],
-    "Elevator and escalator installers and repairers": [
+    "elevator and escalator installers and repairers": [
         "0",
         "0",
         "8",
@@ -4449,7 +4449,7 @@
         "0",
         "-"
     ],
-    "Fence erectors": [
+    "fence erectors": [
         "4",
         "8",
         "11",
@@ -4459,7 +4459,7 @@
         "1",
         "-"
     ],
-    "Hazardous materials removal workers": [
+    "hazardous materials removal workers": [
         "1",
         "4",
         "9",
@@ -4469,7 +4469,7 @@
         "2",
         "-"
     ],
-    "Highway maintenance workers": [
+    "highway maintenance workers": [
         "0",
         "5",
         "22",
@@ -4479,7 +4479,7 @@
         "9",
         "46.4"
     ],
-    "Rail-track laying and maintenance equipment operators": [
+    "rail-track laying and maintenance equipment operators": [
         "1",
         "0",
         "3",
@@ -4489,7 +4489,7 @@
         "0",
         "-"
     ],
-    "Septic tank servicers and sewer pipe cleaners": [
+    "septic tank servicers and sewer pipe cleaners": [
         "0",
         "1",
         "4",
@@ -4499,7 +4499,7 @@
         "1",
         "-"
     ],
-    "Miscellaneous construction and related workers": [
+    "miscellaneous construction and related workers": [
         "1",
         "3",
         "5",
@@ -4509,7 +4509,7 @@
         "2",
         "-"
     ],
-    "Derrick, rotary drill, and service unit operators, oil and gas": [
+    "derrick, rotary drill, and service unit operators, oil and gas": [
         "0",
         "2",
         "3",
@@ -4519,7 +4519,7 @@
         "0",
         "-"
     ],
-    "Excavating and loading machine and dragline operators, surface mining": [
+    "excavating and loading machine and dragline operators, surface mining": [
         "1",
         "0",
         "1",
@@ -4529,7 +4529,7 @@
         "0",
         "-"
     ],
-    "Earth drillers, except oil and gas": [
+    "earth drillers, except oil and gas": [
         "1",
         "0",
         "8",
@@ -4539,7 +4539,7 @@
         "3",
         "-"
     ],
-    "Explosives workers, ordnance handling experts, and blasters": [
+    "explosives workers, ordnance handling experts, and blasters": [
         "0",
         "0",
         "2",
@@ -4549,7 +4549,7 @@
         "0",
         "-"
     ],
-    "Underground mining machine operators": [
+    "underground mining machine operators": [
         "0",
         "2",
         "10",
@@ -4559,7 +4559,7 @@
         "1",
         "-"
     ],
-    "Roustabouts, oil and gas": [
+    "roustabouts, oil and gas": [
         "0",
         "0",
         "2",
@@ -4569,7 +4569,7 @@
         "0",
         "-"
     ],
-    "Other extraction workers": [
+    "other extraction workers": [
         "2",
         "8",
         "17",
@@ -4579,7 +4579,7 @@
         "0",
         "36.4"
     ],
-    "Installation, maintenance, and repair occupations": [
+    "installation, maintenance, and repair occupations": [
         "100",
         "396",
         "1,120",
@@ -4589,7 +4589,7 @@
         "265",
         "42.9"
     ],
-    "First-line supervisors of mechanics, installers, and repairers": [
+    "first-line supervisors of mechanics, installers, and repairers": [
         "0",
         "3",
         "34",
@@ -4599,7 +4599,7 @@
         "14",
         "49.6"
     ],
-    "Computer, automated teller, and office machine repairers": [
+    "computer, automated teller, and office machine repairers": [
         "1",
         "12",
         "44",
@@ -4609,7 +4609,7 @@
         "12",
         "41.1"
     ],
-    "Radio and telecommunications equipment installers and repairers": [
+    "radio and telecommunications equipment installers and repairers": [
         "5",
         "16",
         "28",
@@ -4619,7 +4619,7 @@
         "8",
         "43.2"
     ],
-    "Avionics technicians": [
+    "avionics technicians": [
         "0",
         "0",
         "1",
@@ -4629,7 +4629,7 @@
         "0",
         "-"
     ],
-    "Electric motor, power tool, and related repairers": [
+    "electric motor, power tool, and related repairers": [
         "0",
         "0",
         "6",
@@ -4639,7 +4639,7 @@
         "0",
         "-"
     ],
-    "Electrical and electronics installers and repairers, transportation equipment": [
+    "electrical and electronics installers and repairers, transportation equipment": [
         "0",
         "0",
         "0",
@@ -4649,7 +4649,7 @@
         "0",
         "-"
     ],
-    "Electrical and electronics repairers, industrial and utility, Electrical and Electronic Engineering Technologists and Technicians": [
+    "electrical and electronics repairers, industrial and utility, electrical and electronic engineering technologists and technicians": [
         "0",
         "0",
         "5",
@@ -4659,7 +4659,7 @@
         "0",
         "-"
     ],
-    "Electronic equipment installers and repairers, motor vehicles": [
+    "electronic equipment installers and repairers, motor vehicles": [
         "0",
         "2",
         "4",
@@ -4669,7 +4669,7 @@
         "0",
         "-"
     ],
-    "Audiovisual equipment installers and repairers": [
+    "audiovisual equipment installers and repairers": [
         "0",
         "1",
         "7",
@@ -4679,7 +4679,7 @@
         "0",
         "-"
     ],
-    "Security and fire alarm systems installers": [
+    "security and fire alarm systems installers": [
         "1",
         "7",
         "21",
@@ -4689,7 +4689,7 @@
         "5",
         "39.8"
     ],
-    "Aircraft mechanics and service technicians": [
+    "aircraft mechanics and service technicians": [
         "1",
         "6",
         "37",
@@ -4699,7 +4699,7 @@
         "4",
         "46.0"
     ],
-    "Automotive body and related repairers": [
+    "automotive body and related repairers": [
         "4",
         "15",
         "22",
@@ -4709,7 +4709,7 @@
         "10",
         "47.4"
     ],
-    "Automotive glass installers and repairers": [
+    "automotive glass installers and repairers": [
         "1",
         "2",
         "12",
@@ -4719,7 +4719,7 @@
         "1",
         "-"
     ],
-    "Automotive service technicians and mechanics": [
+    "automotive service technicians and mechanics": [
         "33",
         "98",
         "219",
@@ -4729,7 +4729,7 @@
         "42",
         "40.1"
     ],
-    "Bus and truck mechanics and diesel engine specialists": [
+    "bus and truck mechanics and diesel engine specialists": [
         "12",
         "33",
         "96",
@@ -4739,7 +4739,7 @@
         "19",
         "40.2"
     ],
-    "Heavy vehicle and mobile equipment service technicians and mechanics": [
+    "heavy vehicle and mobile equipment service technicians and mechanics": [
         "3",
         "21",
         "60",
@@ -4749,7 +4749,7 @@
         "10",
         "41.9"
     ],
-    "Small engine mechanics": [
+    "small engine mechanics": [
         "3",
         "3",
         "8",
@@ -4759,7 +4759,7 @@
         "2",
         "-"
     ],
-    "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers": [
+    "miscellaneous vehicle and mobile equipment mechanics, installers, and repairers": [
         "8",
         "16",
         "20",
@@ -4769,7 +4769,7 @@
         "0",
         "33.2"
     ],
-    "Control and valve installers and repairers": [
+    "control and valve installers and repairers": [
         "0",
         "0",
         "4",
@@ -4779,7 +4779,7 @@
         "0",
         "-"
     ],
-    "Heating, air conditioning, and refrigeration mechanics and installers": [
+    "heating, air conditioning, and refrigeration mechanics and installers": [
         "6",
         "41",
         "99",
@@ -4789,7 +4789,7 @@
         "21",
         "41.9"
     ],
-    "Home appliance repairers": [
+    "home appliance repairers": [
         "1",
         "6",
         "7",
@@ -4799,7 +4799,7 @@
         "5",
         "-"
     ],
-    "Industrial and refractory machinery mechanics": [
+    "industrial and refractory machinery mechanics": [
         "3",
         "16",
         "96",
@@ -4809,7 +4809,7 @@
         "27",
         "46.9"
     ],
-    "Maintenance and repair workers, general": [
+    "maintenance and repair workers, general": [
         "9",
         "33",
         "116",
@@ -4819,7 +4819,7 @@
         "47",
         "46.4"
     ],
-    "Maintenance workers, machinery": [
+    "maintenance workers, machinery": [
         "0",
         "5",
         "4",
@@ -4829,7 +4829,7 @@
         "2",
         "-"
     ],
-    "Millwrights": [
+    "millwrights": [
         "0",
         "1",
         "7",
@@ -4839,7 +4839,7 @@
         "1",
         "-"
     ],
-    "Electrical power-line installers and repairers": [
+    "electrical power-line installers and repairers": [
         "1",
         "15",
         "45",
@@ -4849,7 +4849,7 @@
         "1",
         "37.4"
     ],
-    "Telecommunications line installers and repairers": [
+    "telecommunications line installers and repairers": [
         "0",
         "10",
         "37",
@@ -4859,7 +4859,7 @@
         "7",
         "40.4"
     ],
-    "Precision instrument and equipment repairers": [
+    "precision instrument and equipment repairers": [
         "0",
         "4",
         "19",
@@ -4869,7 +4869,7 @@
         "6",
         "44.2"
     ],
-    "Wind turbine service technicians": [
+    "wind turbine service technicians": [
         "0",
         "1",
         "6",
@@ -4879,7 +4879,7 @@
         "0",
         "-"
     ],
-    "Coin, vending, and amusement machine servicers and repairers": [
+    "coin, vending, and amusement machine servicers and repairers": [
         "0",
         "4",
         "3",
@@ -4889,7 +4889,7 @@
         "2",
         "-"
     ],
-    "Commercial divers": [
+    "commercial divers": [
         "0",
         "0",
         "1",
@@ -4899,7 +4899,7 @@
         "0",
         "-"
     ],
-    "Locksmiths and safe repairers": [
+    "locksmiths and safe repairers": [
         "0",
         "1",
         "6",
@@ -4909,7 +4909,7 @@
         "4",
         "-"
     ],
-    "Manufactured building and mobile home installers": [
+    "manufactured building and mobile home installers": [
         "0",
         "0",
         "0",
@@ -4919,7 +4919,7 @@
         "0",
         "-"
     ],
-    "Riggers": [
+    "riggers": [
         "0",
         "0",
         "0",
@@ -4929,7 +4929,7 @@
         "2",
         "-"
     ],
-    "Helpers--installation, maintenance, and repair workers": [
+    "helpers--installation, maintenance, and repair workers": [
         "3",
         "2",
         "3",
@@ -4939,7 +4939,7 @@
         "1",
         "-"
     ],
-    "Other installation, maintenance, and repair workers": [
+    "other installation, maintenance, and repair workers": [
         "5",
         "19",
         "42",
@@ -4949,7 +4949,7 @@
         "8",
         "42.4"
     ],
-    "Production, transportation, and material moving occupations": [
+    "production, transportation, and material moving occupations": [
         "825",
         "2,087",
         "4,257",
@@ -4959,7 +4959,7 @@
         "1,172",
         "42.0"
     ],
-    "Production occupations": [
+    "production occupations": [
         "206",
         "710",
         "1,772",
@@ -4969,7 +4969,7 @@
         "383",
         "43.0"
     ],
-    "First-line supervisors of production and operating workers": [
+    "first-line supervisors of production and operating workers": [
         "1",
         "22",
         "156",
@@ -4979,7 +4979,7 @@
         "41",
         "45.9"
     ],
-    "Aircraft structure, surfaces, rigging, and systems assemblers": [
+    "aircraft structure, surfaces, rigging, and systems assemblers": [
         "0",
         "1",
         "0",
@@ -4989,7 +4989,7 @@
         "0",
         "-"
     ],
-    "Electrical, electronics, and electromechanical assemblers": [
+    "electrical, electronics, and electromechanical assemblers": [
         "1",
         "6",
         "27",
@@ -4999,7 +4999,7 @@
         "7",
         "46.8"
     ],
-    "Engine and other machine assemblers": [
+    "engine and other machine assemblers": [
         "0",
         "1",
         "1",
@@ -5009,7 +5009,7 @@
         "1",
         "-"
     ],
-    "Structural metal fabricators and fitters": [
+    "structural metal fabricators and fitters": [
         "1",
         "0",
         "1",
@@ -5019,7 +5019,7 @@
         "1",
         "-"
     ],
-    "Other assemblers and fabricators": [
+    "other assemblers and fabricators": [
         "34",
         "106",
         "228",
@@ -5029,7 +5029,7 @@
         "41",
         "41.5"
     ],
-    "Bakers": [
+    "bakers": [
         "11",
         "30",
         "46",
@@ -5039,7 +5039,7 @@
         "15",
         "41.7"
     ],
-    "Butchers and other meat, poultry, and fish processing workers": [
+    "butchers and other meat, poultry, and fish processing workers": [
         "12",
         "31",
         "58",
@@ -5049,7 +5049,7 @@
         "13",
         "40.6"
     ],
-    "Food and tobacco roasting, baking, and drying machine operators and tenders": [
+    "food and tobacco roasting, baking, and drying machine operators and tenders": [
         "1",
         "1",
         "2",
@@ -5059,7 +5059,7 @@
         "0",
         "-"
     ],
-    "Food batchmakers": [
+    "food batchmakers": [
         "11",
         "16",
         "17",
@@ -5069,7 +5069,7 @@
         "3",
         "36.6"
     ],
-    "Food cooking machine operators and tenders": [
+    "food cooking machine operators and tenders": [
         "1",
         "3",
         "2",
@@ -5079,7 +5079,7 @@
         "0",
         "-"
     ],
-    "Food processing workers, all other": [
+    "food processing workers, all other": [
         "5",
         "14",
         "35",
@@ -5089,7 +5089,7 @@
         "5",
         "41.5"
     ],
-    "Computer numerically controlled tool operators and programmers": [
+    "computer numerically controlled tool operators and programmers": [
         "1",
         "5",
         "24",
@@ -5099,7 +5099,7 @@
         "1",
         "44.0"
     ],
-    "Forming machine setters, operators, and tenders, metal and plastic": [
+    "forming machine setters, operators, and tenders, metal and plastic": [
         "1",
         "3",
         "6",
@@ -5109,7 +5109,7 @@
         "1",
         "-"
     ],
-    "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic": [
+    "cutting, punching, and press machine setters, operators, and tenders, metal and plastic": [
         "0",
         "3",
         "23",
@@ -5119,7 +5119,7 @@
         "3",
         "42.7"
     ],
-    "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic": [
+    "grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic": [
         "0",
         "10",
         "4",
@@ -5129,7 +5129,7 @@
         "2",
         "-"
     ],
-    "Other machine tool setters, operators, and tenders, metal and plastic": [
+    "other machine tool setters, operators, and tenders, metal and plastic": [
         "0",
         "0",
         "2",
@@ -5139,7 +5139,7 @@
         "1",
         "-"
     ],
-    "Machinists": [
+    "machinists": [
         "3",
         "29",
         "68",
@@ -5149,7 +5149,7 @@
         "17",
         "44.4"
     ],
-    "Metal furnace operators, tenders, pourers, and casters": [
+    "metal furnace operators, tenders, pourers, and casters": [
         "1",
         "1",
         "9",
@@ -5159,7 +5159,7 @@
         "0",
         "-"
     ],
-    "Model makers and patternmakers, metal and plastic": [
+    "model makers and patternmakers, metal and plastic": [
         "0",
         "1",
         "0",
@@ -5169,7 +5169,7 @@
         "0",
         "-"
     ],
-    "Molders and molding machine setters, operators, and tenders, metal and plastic": [
+    "molders and molding machine setters, operators, and tenders, metal and plastic": [
         "0",
         "1",
         "4",
@@ -5179,7 +5179,7 @@
         "1",
         "-"
     ],
-    "Tool and die makers": [
+    "tool and die makers": [
         "4",
         "1",
         "4",
@@ -5189,7 +5189,7 @@
         "4",
         "-"
     ],
-    "Welding, soldering, and brazing workers": [
+    "welding, soldering, and brazing workers": [
         "19",
         "76",
         "128",
@@ -5199,7 +5199,7 @@
         "14",
         "40.0"
     ],
-    "Other metal workers and plastic workers": [
+    "other metal workers and plastic workers": [
         "6",
         "29",
         "70",
@@ -5209,7 +5209,7 @@
         "10",
         "43.7"
     ],
-    "Prepress technicians and workers": [
+    "prepress technicians and workers": [
         "0",
         "0",
         "6",
@@ -5219,7 +5219,7 @@
         "1",
         "-"
     ],
-    "Printing press operators": [
+    "printing press operators": [
         "3",
         "10",
         "26",
@@ -5229,7 +5229,7 @@
         "7",
         "44.7"
     ],
-    "Print binding and finishing workers": [
+    "print binding and finishing workers": [
         "0",
         "0",
         "0",
@@ -5239,7 +5239,7 @@
         "0",
         "-"
     ],
-    "Laundry and dry-cleaning workers": [
+    "laundry and dry-cleaning workers": [
         "3",
         "3",
         "16",
@@ -5249,7 +5249,7 @@
         "12",
         "50.4"
     ],
-    "Pressers, textile, garment, and related materials": [
+    "pressers, textile, garment, and related materials": [
         "0",
         "1",
         "2",
@@ -5259,7 +5259,7 @@
         "2",
         "-"
     ],
-    "Sewing machine operators": [
+    "sewing machine operators": [
         "1",
         "5",
         "17",
@@ -5269,7 +5269,7 @@
         "10",
         "47.3"
     ],
-    "Shoe and leather workers": [
+    "shoe and leather workers": [
         "0",
         "0",
         "6",
@@ -5279,7 +5279,7 @@
         "1",
         "-"
     ],
-    "Tailors, dressmakers, and sewers": [
+    "tailors, dressmakers, and sewers": [
         "0",
         "1",
         "12",
@@ -5289,7 +5289,7 @@
         "13",
         "54.1"
     ],
-    "Textile machine setters, operators, and tenders": [
+    "textile machine setters, operators, and tenders": [
         "0",
         "0",
         "4",
@@ -5299,7 +5299,7 @@
         "0",
         "-"
     ],
-    "Upholsterers": [
+    "upholsterers": [
         "0",
         "1",
         "4",
@@ -5309,7 +5309,7 @@
         "1",
         "-"
     ],
-    "Other textile, apparel, and furnishings workers": [
+    "other textile, apparel, and furnishings workers": [
         "1",
         "0",
         "2",
@@ -5319,7 +5319,7 @@
         "1",
         "-"
     ],
-    "Cabinetmakers and bench carpenters": [
+    "cabinetmakers and bench carpenters": [
         "2",
         "8",
         "10",
@@ -5329,7 +5329,7 @@
         "4",
         "45.2"
     ],
-    "Furniture finishers": [
+    "furniture finishers": [
         "0",
         "1",
         "3",
@@ -5339,7 +5339,7 @@
         "1",
         "-"
     ],
-    "Sawing machine setters, operators, and tenders, wood": [
+    "sawing machine setters, operators, and tenders, wood": [
         "3",
         "1",
         "6",
@@ -5349,7 +5349,7 @@
         "3",
         "-"
     ],
-    "Woodworking machine setters, operators, and tenders, except sawing": [
+    "woodworking machine setters, operators, and tenders, except sawing": [
         "1",
         "1",
         "2",
@@ -5359,7 +5359,7 @@
         "0",
         "-"
     ],
-    "Other woodworkers": [
+    "other woodworkers": [
         "1",
         "2",
         "5",
@@ -5369,7 +5369,7 @@
         "3",
         "-"
     ],
-    "Power plant operators, distributors, and dispatchers": [
+    "power plant operators, distributors, and dispatchers": [
         "0",
         "1",
         "7",
@@ -5379,7 +5379,7 @@
         "1",
         "-"
     ],
-    "Stationary engineers and boiler operators": [
+    "stationary engineers and boiler operators": [
         "0",
         "2",
         "10",
@@ -5389,7 +5389,7 @@
         "5",
         "52.7"
     ],
-    "Water and wastewater treatment plant and system operators Soil and Plant Scientists": [
+    "water and wastewater treatment plant and system operators soil and plant scientists": [
         "2",
         "7",
         "16",
@@ -5399,7 +5399,7 @@
         "5",
         "45.6"
     ],
-    "Miscellaneous plant and system operators": [
+    "miscellaneous plant and system operators": [
         "0",
         "1",
         "10",
@@ -5409,7 +5409,7 @@
         "1",
         "-"
     ],
-    "Chemical processing machine setters, operators, and tenders": [
+    "chemical processing machine setters, operators, and tenders": [
         "3",
         "2",
         "21",
@@ -5419,7 +5419,7 @@
         "2",
         "42.8"
     ],
-    "Crushing, grinding, polishing, mixing, and blending workers": [
+    "crushing, grinding, polishing, mixing, and blending workers": [
         "2",
         "10",
         "16",
@@ -5429,7 +5429,7 @@
         "3",
         "41.1"
     ],
-    "Cutting workers": [
+    "cutting workers": [
         "1",
         "6",
         "11",
@@ -5439,7 +5439,7 @@
         "2",
         "45.5"
     ],
-    "Extruding, forming, pressing, and compacting machine setters, operators, and tenders": [
+    "extruding, forming, pressing, and compacting machine setters, operators, and tenders": [
         "0",
         "1",
         "6",
@@ -5449,7 +5449,7 @@
         "1",
         "-"
     ],
-    "Furnace, kiln, oven, drier, and kettle operators and tenders": [
+    "furnace, kiln, oven, drier, and kettle operators and tenders": [
         "0",
         "1",
         "3",
@@ -5459,7 +5459,7 @@
         "1",
         "-"
     ],
-    "Inspectors, testers, sorters, samplers, and weighers": [
+    "inspectors, testers, sorters, samplers, and weighers": [
         "20",
         "71",
         "204",
@@ -5469,7 +5469,7 @@
         "42",
         "42.2"
     ],
-    "Jewelers and precious stone and metal workers": [
+    "jewelers and precious stone and metal workers": [
         "0",
         "3",
         "10",
@@ -5479,7 +5479,7 @@
         "6",
         "50.5"
     ],
-    "Dental and ophthalmic laboratory technicians and medical appliance technicians": [
+    "dental and ophthalmic laboratory technicians and medical appliance technicians": [
         "1",
         "9",
         "18",
@@ -5489,7 +5489,7 @@
         "4",
         "39.9"
     ],
-    "Packaging and filling machine operators and tenders": [
+    "packaging and filling machine operators and tenders": [
         "9",
         "35",
         "49",
@@ -5499,7 +5499,7 @@
         "8",
         "41.4"
     ],
-    "Painting workers": [
+    "painting workers": [
         "1",
         "13",
         "38",
@@ -5509,7 +5509,7 @@
         "5",
         "41.1"
     ],
-    "Photographic process workers and processing machine operators": [
+    "photographic process workers and processing machine operators": [
         "0",
         "1",
         "4",
@@ -5519,7 +5519,7 @@
         "0",
         "-"
     ],
-    "Adhesive bonding machine operators and tenders": [
+    "adhesive bonding machine operators and tenders": [
         "0",
         "0",
         "4",
@@ -5529,7 +5529,7 @@
         "0",
         "-"
     ],
-    "Etchers and engravers": [
+    "etchers and engravers": [
         "0",
         "0",
         "0",
@@ -5539,7 +5539,7 @@
         "0",
         "-"
     ],
-    "Molders, shapers, and casters, except metal and plastic": [
+    "molders, shapers, and casters, except metal and plastic": [
         "0",
         "2",
         "6",
@@ -5549,7 +5549,7 @@
         "1",
         "-"
     ],
-    "Paper goods machine setters, operators, and tenders": [
+    "paper goods machine setters, operators, and tenders": [
         "0",
         "2",
         "5",
@@ -5559,7 +5559,7 @@
         "1",
         "-"
     ],
-    "Tire builders": [
+    "tire builders": [
         "0",
         "0",
         "1",
@@ -5569,7 +5569,7 @@
         "1",
         "-"
     ],
-    "Helpers--production workers": [
+    "helpers--production workers": [
         "8",
         "12",
         "6",
@@ -5579,7 +5579,7 @@
         "4",
         "35.6"
     ],
-    "Other production equipment operators and tenders": [
+    "other production equipment operators and tenders": [
         "0",
         "2",
         "1",
@@ -5589,7 +5589,7 @@
         "0",
         "-"
     ],
-    "Other production workers": [
+    "other production workers": [
         "30",
         "105",
         "291",
@@ -5599,7 +5599,7 @@
         "49",
         "41.4"
     ],
-    "Transportation and material moving occupations": [
+    "transportation and material moving occupations": [
         "619",
         "1,377",
         "2,486",
@@ -5609,7 +5609,7 @@
         "789",
         "41.2"
     ],
-    "Supervisors of transportation and material moving workers": [
+    "supervisors of transportation and material moving workers": [
         "3",
         "22",
         "94",
@@ -5619,7 +5619,7 @@
         "13",
         "44.5"
     ],
-    "Aircraft pilots and flight engineers": [
+    "aircraft pilots and flight engineers": [
         "2",
         "5",
         "28",
@@ -5629,7 +5629,7 @@
         "7",
         "45.7"
     ],
-    "Air traffic controllers and airfield operations specialists": [
+    "air traffic controllers and airfield operations specialists": [
         "0",
         "0",
         "8",
@@ -5639,7 +5639,7 @@
         "2",
         "-"
     ],
-    "Flight attendants": [
+    "flight attendants": [
         "0",
         "4",
         "26",
@@ -5649,7 +5649,7 @@
         "9",
         "47.8"
     ],
-    "Ambulance drivers and attendants, except emergency medical technicians": [
+    "ambulance drivers and attendants, except emergency medical technicians": [
         "0",
         "5",
         "1",
@@ -5659,7 +5659,7 @@
         "0",
         "-"
     ],
-    "Bus drivers, school": [
+    "bus drivers, school": [
         "1",
         "5",
         "22",
@@ -5669,7 +5669,7 @@
         "59",
         "55.6"
     ],
-    "Bus drivers, transit and intercity": [
+    "bus drivers, transit and intercity": [
         "1",
         "2",
         "31",
@@ -5679,7 +5679,7 @@
         "42",
         "53.3"
     ],
-    "Driver/sales workers and truck drivers": [
+    "driver/sales workers and truck drivers": [
         "74",
         "218",
         "658",
@@ -5689,7 +5689,7 @@
         "286",
         "46.3"
     ],
-    "Shuttle drivers and chauffeurs": [
+    "shuttle drivers and chauffeurs": [
         "0",
         "1",
         "7",
@@ -5699,7 +5699,7 @@
         "18",
         "56.2"
     ],
-    "Taxi drivers": [
+    "taxi drivers": [
         "3",
         "19",
         "85",
@@ -5709,7 +5709,7 @@
         "32",
         "44.1"
     ],
-    "Motor vehicle operators, all other": [
+    "motor vehicle operators, all other": [
         "2",
         "8",
         "23",
@@ -5719,7 +5719,7 @@
         "40",
         "53.3"
     ],
-    "Locomotive engineers and operators": [
+    "locomotive engineers and operators": [
         "0",
         "0",
         "5",
@@ -5729,7 +5729,7 @@
         "2",
         "-"
     ],
-    "Railroad conductors and yardmasters": [
+    "railroad conductors and yardmasters": [
         "0",
         "0",
         "6",
@@ -5739,7 +5739,7 @@
         "1",
         "-"
     ],
-    "Other rail transportation workers": [
+    "other rail transportation workers": [
         "0",
         "0",
         "5",
@@ -5749,7 +5749,7 @@
         "1",
         "-"
     ],
-    "Sailors and marine oilers": [
+    "sailors and marine oilers": [
         "1",
         "3",
         "9",
@@ -5759,7 +5759,7 @@
         "2",
         "-"
     ],
-    "Ship and boat captains and operators": [
+    "ship and boat captains and operators": [
         "0",
         "4",
         "6",
@@ -5769,7 +5769,7 @@
         "2",
         "-"
     ],
-    "Ship engineers": [
+    "ship engineers": [
         "0",
         "0",
         "0",
@@ -5779,7 +5779,7 @@
         "0",
         "-"
     ],
-    "Parking attendants": [
+    "parking attendants": [
         "8",
         "11",
         "14",
@@ -5789,7 +5789,7 @@
         "4",
         "38.2"
     ],
-    "Transportation service attendants": [
+    "transportation service attendants": [
         "14",
         "24",
         "18",
@@ -5799,7 +5799,7 @@
         "4",
         "28.0"
     ],
-    "Transportation inspectors": [
+    "transportation inspectors": [
         "0",
         "1",
         "3",
@@ -5809,7 +5809,7 @@
         "2",
         "-"
     ],
-    "Passenger attendants": [
+    "passenger attendants": [
         "1",
         "3",
         "1",
@@ -5819,7 +5819,7 @@
         "6",
         "-"
     ],
-    "Other transportation workers": [
+    "other transportation workers": [
         "1",
         "3",
         "8",
@@ -5829,7 +5829,7 @@
         "1",
         "-"
     ],
-    "Crane and tower operators": [
+    "crane and tower operators": [
         "1",
         "3",
         "9",
@@ -5839,7 +5839,7 @@
         "2",
         "46.1"
     ],
-    "Conveyor, dredge, and hoist and winch operators": [
+    "conveyor, dredge, and hoist and winch operators": [
         "1",
         "2",
         "12",
@@ -5849,7 +5849,7 @@
         "4",
         "-"
     ],
-    "Industrial truck and tractor operators": [
+    "industrial truck and tractor operators": [
         "9",
         "56",
         "182",
@@ -5859,7 +5859,7 @@
         "22",
         "40.9"
     ],
-    "Cleaners of vehicles and equipment": [
+    "cleaners of vehicles and equipment": [
         "39",
         "49",
         "72",
@@ -5869,7 +5869,7 @@
         "15",
         "33.7"
     ],
-    "Laborers and freight, stock, and material movers, hand": [
+    "laborers and freight, stock, and material movers, hand": [
         "165",
         "389",
         "562",
@@ -5879,7 +5879,7 @@
         "88",
         "35.0"
     ],
-    "Machine feeders and offbearers": [
+    "machine feeders and offbearers": [
         "2",
         "9",
         "3",
@@ -5889,7 +5889,7 @@
         "2",
         "-"
     ],
-    "Packers and packagers, hand": [
+    "packers and packagers, hand": [
         "81",
         "154",
         "185",
@@ -5899,7 +5899,7 @@
         "34",
         "32.0"
     ],
-    "Stockers and order fillers": [
+    "stockers and order fillers": [
         "205",
         "357",
         "365",
@@ -5909,7 +5909,7 @@
         "77",
         "31.9"
     ],
-    "Pumping station operators": [
+    "pumping station operators": [
         "0",
         "0",
         "3",
@@ -5919,7 +5919,7 @@
         "2",
         "-"
     ],
-    "Refuse and recyclable material collectors": [
+    "refuse and recyclable material collectors": [
         "4",
         "9",
         "21",
@@ -5929,7 +5929,7 @@
         "6",
         "40.9"
     ],
-    "Other material moving workers": [
+    "other material moving workers": [
         "2",
         "11",
         "16",
