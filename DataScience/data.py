@@ -239,7 +239,7 @@ def build_dataset2():
     
     for i in range(len(data)):
         state = data[i]
-        hash[state['state']] = state['occupation']
+        hash[state['state'].lower()] = [i.lower() for i in state['occupation']]
         var.append((state['state'],len(state['occupation'])))
         
     with open('Data-Science\\data2.json', 'w', encoding='utf-8') as f:
@@ -279,9 +279,27 @@ def build_dataset3():
     
     for i in range(len(data)):
         item = list(data[i].values())
-        hash[item[0]] = item[1:]
+        hash[item[0].lower()] = item[1:]
         
     with open('Data-Science\data3.json', 'w', encoding='utf-8') as f:
+        json.dump(hash, f, ensure_ascii=False, indent=4)
+        
+def build_dataset4():
+    data = json.load(open(
+        'Data-Science\states_occupation.json'
+        ,encoding="utf8"))
+    hash = {}
+    
+    for i in range(len(data)):
+        state = data[i]['state'].lower()
+        occup = {}
+    
+        for node in data[i]['occupation']:
+            occup[node['job'].lower()] = [node['income'],
+                                        node['employment']]   
+        hash[state] = occup
+        
+    with open('Data-Science\\data4.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
     
 def search_data():
@@ -362,17 +380,28 @@ if __name__ == "__main__":
     # build_dataset()
     # build_dataset2()
     # build_dataset3()
+    # build_dataset4()
     # build_attributes()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
     # search_data()
-    search_data2()
-    
-    
+    # search_data2()
+    pass
     
     """
     dataset json format and data distribute
+    
+    states_occupation
+    {
+        "state": {
+            "occupation": 
+            [
+                "income",
+                "employment"
+            ]
+        }
+    }
     
     states_occupations_no_income
     {
