@@ -1,5 +1,5 @@
 {
-    "infp-t":{
+    "infp":{
         "career":[
             "anthropologist",
             "archivist or curator",
@@ -53,7 +53,7 @@
             "female":5
         }
     },
-    "enfp-t":{
+    "enfp":{
         "career":[
             "actor",
             "animal trainer",
@@ -127,7 +127,7 @@
             "female":10
         }
     },    
-    "estj-a":{
+    "estj":{
         "career":[
             "accountant",
             "airline pilot",
@@ -196,7 +196,7 @@
             "female":6
         }
     },
-    "esfj-a":{
+    "esfj":{
         "career":[
             "advertising sales agent",
             "bookkeeper",
@@ -264,7 +264,7 @@
             "female":17
         }
     },
-    "esfp-t":{
+    "esfp":{
         "career":[
             [
                 "actor",
@@ -332,7 +332,7 @@
             "female":10
         }
     },
-    "enfj-t":{
+    "enfj":{
         "career":[
             "animal trainer",
             "artist",
@@ -399,7 +399,7 @@
             "female":3
         }
     },
-    "istj-t":{
+    "istj":{
         "career":[
             "accountant",
             "accountant or auditor",
@@ -533,7 +533,7 @@
             "female":7
         }
     },
-    "estp-t":{
+    "estp":{
         "career":[
             "air traffic controller",
             "airline pilot",
@@ -601,7 +601,7 @@
             "female":3
         }
     },
-    "intp-t":{
+    "intp":{
         "career":[
             "accountant or auditor",
             "actuary",
@@ -669,7 +669,7 @@
             "female":5
         }
     },
-    "entp-t":{
+    "entp":{
         "career":[
             "actor",
             "advertising manager",
@@ -737,7 +737,7 @@
             "female":2
         }
     },
-    "isfj-t":{
+    "isfj":{
         "career":[
             "accountant",
             "accounting clerk",
@@ -880,7 +880,7 @@
             "female":19
         }
     },
-    "entj-t":{
+    "entj":{
         "career":[
             "accountant or auditor",
             "actuary",
@@ -1042,7 +1042,7 @@
             "female":1
         }
     },    
-    "istp-t":{
+    "istp":{
         "career":[
             "air traffic controller",
             "airline pilot",
@@ -1115,7 +1115,7 @@
             "female":2
         }
     },    
-    "isfp-t":{
+    "isfp":{
         "career":[
             "air traffic controller",
             "animal trainer",

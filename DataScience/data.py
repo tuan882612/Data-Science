@@ -1,5 +1,6 @@
 from datasets import load_dataset
-import pandas as pd, numpy as np
+import pandas as pd
+import numpy as np
 import random
 import json
 
@@ -147,7 +148,7 @@ def build_us_attributes():
         data = list(df[i-6:i])
         state = data[1].lower()
         type = data[4].lower()
-        hash[state] = type+'-t'
+        hash[state] = type
        
     personality_types = {}
     
@@ -161,7 +162,7 @@ def build_us_attributes():
             
     with open('us_attributes.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
-
+    
 def build_career_attr():
     df = pd.read_csv("Data-Science\DataScience\Data Sets\load.csv")
     arr = [
@@ -220,10 +221,10 @@ def build_attributes():
                 ihash[num] = col
                 
         if extro > intro:
-            hash[names[i].lower()] = ehash[max(ehash.keys())].lower()
+            hash[names[i].lower()] = ehash[max(ehash.keys())].lower()[:4]
 
         else:
-            hash[names[i].lower()] = ihash[max(ihash.keys())].lower()
+            hash[names[i].lower()] = ihash[max(ihash.keys())].lower()[:4]
             
     with open('attributes2.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
@@ -374,7 +375,10 @@ def search_data2():
         
         if i == occuppation and i in meta:
             print("found")
-
+def test():
+    hash = set()
+    hash.add("state")
+    print(hash)
             
 if __name__ == "__main__":
     # build_dataset()
@@ -387,6 +391,7 @@ if __name__ == "__main__":
     # build_locations()
     # search_data()
     # search_data2()
+    # test()
     pass
     
     """
@@ -437,7 +442,7 @@ if __name__ == "__main__":
         ]
     }
     
-    location
+    location1
     {
         "state":"country"
     }
