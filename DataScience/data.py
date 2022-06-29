@@ -4,8 +4,6 @@ import numpy as np
 import random
 import json
 
-from requests import get
-
 def get_metaData(data):
     print(data['table']['column_header'])
 
@@ -157,6 +155,33 @@ def build_big5_key():
         print(hash)
     # with open('./big5_key.json', 'w', encoding='utf-8') as f:
     #     json.dump(hash, f, ensure_ascii=False, indent=4)
+
+def build_big5_final_dataset():
+    data = json.load(open('data_sample.json',encoding="utf8"))
+    trait = json.load(open('big5_key.json',encoding="utf8"))
+    country = json.load(open('country_key.json',encoding="utf8"))
+    
+    headers = ['gender', 'age', 'marstatus', 'country', 'state']
+    arr = []
+    
+    for node in data:
+        hash = {}
+        temp = []
+        
+        for key in node:
+            if key not in headers and key in trait:
+                temp.append(trait[key])
+        
+        for i in headers:
+            if i in node:
+                hash[i] = node[i]
+            
+        hash['trait'] = temp
+        hash['country'] = country[hash['country'].upper()]
+        arr.append(hash)
+        
+    with open('big5_sample_final.json', 'w', encoding='utf-8') as f:
+        json.dump(arr, f, ensure_ascii=False, indent=4)
         
 def build_big5_dataset():
     df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
@@ -474,11 +499,12 @@ if __name__ == "__main__":
     # build_dataset4()
     # build_attributes()
     # build_big5_dataset()
+    # build_big5_final_dataset()
     # build_big5_key()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
-    parse_raw_big5()
+    # parse_raw_big5()
     # search_data()
     # search_data2()
     # test()
@@ -486,6 +512,36 @@ if __name__ == "__main__":
     
     """
     dataset json format and data distribute
+    
+    big5_key
+    {
+        "q_{ number }":"trait"
+    }
+    
+    format_v2 and format2_v2
+    [
+        {
+            "gender":,
+            "age":,
+            "marstatus":,
+            "country":,
+            "state":,
+            "q_{ number }":
+        }
+    ]
+    
+    big5_final_dataset
+    [
+        {
+            "gender":,
+            "age":,
+            "marstatus":,
+            "country":,
+            "state":,
+            "trait": [
+            ]
+        }
+    ]
     
     states_occupation
     {
