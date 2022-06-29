@@ -1,0 +1,366 @@
+index,item,IPIP100,BFAS,HEXACO,QB6,MPQ,IPIPneo
+q_6,Accept people as they are.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_22,Act impulsively when something is bothering me.,NULL,NULL,H:C:PR,NULL,NULL,NULL
+q_23,Act like different people in different situations.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_39,Adjust easily.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_40,Admire a really clever scam.,NULL,NULL,H:H:F,NULL,NULL,NULL
+q_44,Always know what I am doing.,NULL,BFAS:C:I,NULL,NULL,MPQ:UV,NULL
+q_52,Am a person whose moods go up and down easily.,NULL,BFAS:N:V,NULL,NULL,NULL,NULL
+q_53,Am a physical coward.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_55,Am a very private person.,B5:E,NULL,NULL,QB6:X,NULL,NULL
+q_66,Am afraid of many things.,NULL,BFAS:N:W,NULL,QB6:ES,NULL,N1:ANX
+q_76,Am always prepared.,B5:C,NULL,NULL,NULL,MPQ:UV,C5:SD
+q_80,Am annoyed by others' mistakes.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_94,Am considered to be kind of eccentric.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_98,Am deeply moved by others' misfortunes.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_101,Am easily annoyed.,NULL,NULL,H:A:P,NULL,NULL,NULL
+q_105,Am easily discouraged.,NULL,BFAS:N:W,NULL,NULL,NULL,NULL
+q_107,Am easily distracted.,NULL,BFAS:C:I,NULL,NULL,NULL,NULL
+q_108,Am easily disturbed.,B5:ES,NULL,NULL,NULL,NULL,NULL
+q_124,Am exacting in my work.,B5:C,NULL,H:C:D,NULL,MPQ:CO,NULL
+q_126,Am filled with doubts about things.,NULL,BFAS:N:W,NULL,NULL,MPQ:SR,NULL
+q_128,Am full of ideas.,B5:O,NULL,H:O:C,NULL,NULL,NULL
+q_131,Am good at making impromptu speeches.,NULL,NULL,H:X:SB,NULL,MPQ:SP,NULL
+q_132,Am good at many things.,B5:O,NULL,NULL,NULL,NULL,NULL
+q_134,Am good at taking advice.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_139,Am hard to convince.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_140,Am hard to get to know.,B5:A,BFAS:E:E,H:X:S,NULL,MPQ:SC,E1:FR
+q_141,Am hard to reason with.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_142,Am hard to satisfy.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_145,Am inclined to forgive others.,NULL,NULL,H:A:FO,QB6:A,NULL,NULL
+q_146,Am indifferent to the feelings of others.,B5:A,BFAS:A:C,NULL,NULL,NULL,A3:AL
+q_150,Am interested in people.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_151,Am interested in science.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_152,Am just an ordinary person.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_154,Am likely to show off if I get the chance.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_156,Am mainly interested in money.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_157,Am more capable than most others.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_158,Am never at a loss for words.,NULL,NULL,H:X:E,NULL,NULL,NULL
+q_159,Am nice to people I should be angry at.,NULL,NULL,H:A:FO,NULL,NULL,NULL
+q_169,Am not bothered by disorder.,NULL,BFAS:C:O,H:C:O,NULL,NULL,C2:OR
+q_170,Am not bothered by messy people.,NULL,BFAS:C:O,NULL,NULL,NULL,C2:OR
+q_176,Am not easily annoyed.,NULL,BFAS:N:V,NULL,NULL,NULL,N2:ANG
+q_177,Am not easily bothered by things.,B5:ES,NULL,NULL,NULL,MPQ:SR,N1:ANX
+q_179,Am not easily disturbed by events.,NULL,NULL,H:E:A,NULL,NULL,N1:ANX
+q_184,Am not embarrassed easily.,NULL,BFAS:N:W,NULL,NULL,NULL,N4:SC
+q_194,Am not interested in abstract ideas.,B5:O,NULL,NULL,NULL,NULL,O5:IN
+q_195,Am not interested in other people's problems.,B5:A,BFAS:A:C,NULL,NULL,NULL,A6:SY
+q_200,Am not really interested in others.,B5:A,NULL,NULL,NULL,NULL,E1:FR
+q_217,Am on good terms with nearly everyone.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_225,Am out for my own personal gain.,NULL,BFAS:A:P,H:H:GA,NULL,NULL,NULL
+q_238,Am quick to correct others.,NULL,NULL,NULL,QB6:A,NULL,NULL
+q_239,Am quick to judge others.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_240,Am quick to understand things.,B5:O,BFAS:O:I,NULL,NULL,NULL,NULL
+q_241,Am quiet around strangers.,B5:E,NULL,NULL,NULL,NULL,NULL
+q_248,Am relaxed most of the time.,B5:ES,NULL,NULL,NULL,MPQ:SR,N1:ANX
+q_251,Am seldom bothered by the apparent suffering of strangers.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_253,Am sensitive to the needs of others.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_254,Am skilled in handling social situations.,B5:E,NULL,NULL,NULL,NULL,NULL
+q_260,Am the first to act.,NULL,BFAS:E:A,NULL,NULL,NULL,NULL
+q_262,Am the life of the party.,B5:E,NULL,H:X:E,NULL,NULL,NULL
+q_278,Am usually a patient person.,NULL,NULL,H:A:P,QB6:A,NULL,NULL
+q_279,Am usually active and full of energy.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_292,Am willing to take risks.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_316,Avoid difficult reading material.,B5:O,BFAS:O:I,H:O:I,NULL,NULL,O5:IN
+q_319,Avoid imposing my will on others.,NULL,BFAS:A:P,NULL,NULL,NULL,NULL
+q_321,Avoid mistakes.,NULL,NULL,H:C:PR,NULL,NULL,C6:CA
+q_322,Avoid philosophical discussions.,NULL,BFAS:O:I,NULL,NULL,NULL,O5:IN
+q_331,Become frustrated and angry with people when they don't live up to my expectations.,NULL,NULL,H:A:G,QB6:A,NULL,NULL
+q_332,Become overwhelmed by events.,NULL,BFAS:N:W,NULL,NULL,NULL,N6:VU
+q_334,Begin to panic when there is danger.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_348,Believe in the importance of art.,NULL,BFAS:O:O,H:O:A,QB6:O,MPQ:TR,O2:AI
+q_364,Believe that I am better than others.,NULL,BFAS:A:P,H:H:M,NULL,NULL,A5:MO
+q_401,Boast about my virtues.,NULL,NULL,H:H:M,NULL,NULL,A5:MO
+q_403,Bottle up my feelings.,B5:E,NULL,H:X:E,NULL,NULL,NULL
+q_413,Can be stirred up easily.,NULL,BFAS:N:V,NULL,NULL,NULL,NULL
+q_422,Can handle a lot of information.,B5:O,BFAS:O:I,NULL,NULL,NULL,O5:IN
+q_455,Can talk others into doing things.,NULL,BFAS:E:A,NULL,NULL,MPQ:SP,E3:AS
+q_460,Can't be bothered with other's needs.,NULL,BFAS:A:C,NULL,NULL,NULL,NULL
+q_463,Can't do without the company of others.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_477,Can't stand being contradicted.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_491,Carry out my plans.,NULL,BFAS:C:I,NULL,NULL,NULL,C5:SD
+q_492,Carry the conversation to a higher level.,B5:O,NULL,H:O:C,NULL,NULL,NULL
+q_493,Catch on to things quickly.,B5:O,NULL,NULL,NULL,NULL,NULL
+q_497,Change my mood a lot.,B5:ES,BFAS:N:V,NULL,NULL,NULL,NULL
+q_500,Cheat on people who have trusted me.,NULL,NULL,H:H:F,NULL,NULL,NULL
+q_501,Cheat to get ahead.,NULL,NULL,H:H:F,NULL,MPQ:AG,A2:MO
+q_516,Come up with something new.,NULL,NULL,H:O:C,NULL,NULL,NULL
+q_520,Complete tasks successfully.,NULL,NULL,H:C:D,NULL,NULL,C1:SE
+q_525,Consider myself an average person.,NULL,NULL,H:H:M,NULL,NULL,A5:MO
+q_530,Continue until everything is perfect.,B5:C,NULL,H:C:PE,NULL,MPQ:AC,NULL
+q_538,Criticize others' shortcomings.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_539,Cry during movies.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_549,Demand a lot from others.,NULL,NULL,NULL,QB6:ES,NULL,NULL
+q_554,Demand quality.,NULL,NULL,H:C:PE,NULL,NULL,C4:AS
+q_559,Detect mistakes.,NULL,NULL,H:C:PE,NULL,NULL,NULL
+q_571,Dislike imperfect work.,NULL,NULL,H:C:PE,NULL,NULL,NULL
+q_582,Dislike routine.,NULL,BFAS:C:O,NULL,NULL,NULL,NULL
+q_594,Distrust people.,NULL,NULL,H:A:FO,NULL,MPQ:AL,A1:TR
+q_602,Do just enough work to get by.,NULL,NULL,H:C:D,NULL,MPQ:AC,C4:AS
+q_608,Do not enjoy watching dance performances.,NULL,NULL,H:O:A,NULL,NULL,O2:AI
+q_609,Do not have a good imagination.,B5:O,NULL,H:O:C,NULL,NULL,O1:IM
+q_610,Do not like art.,NULL,NULL,H:O:A,NULL,MPQ:AB,O2:AI
+q_611,Do not like concerts.,NULL,NULL,H:O:A,NULL,NULL,O2:AI
+q_612,Do not like poetry.,NULL,BFAS:O:O,H:O:A,NULL,MPQ:AB,O2:AI
+q_619,Do things according to a plan.,B5:C,NULL,H:C:PR,NULL,NULL,C2:OR
+q_626,Do things in a half-way manner.,B5:C,NULL,NULL,NULL,NULL,NULL
+q_634,Do things that others find strange.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_636,Do things without thinking of the consequences.,NULL,NULL,H:C:PR,NULL,NULL,NULL
+q_637,Do too little work.,NULL,NULL,H:C:D,NULL,MPQ:AC,NULL
+q_651,Don't bother worrying about political and social problems.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_665,Don't finish the things that I start.,NULL,NULL,H:C:O,NULL,NULL,NULL
+q_668,Don't have a soft side.,NULL,BFAS:A:C,NULL,NULL,NULL,NULL
+q_670,Don't know much about history.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_673,Don't know why I do some of the things I do.,NULL,NULL,H:C:PR,NULL,NULL,N5:IM
+q_690,Don't like to draw attention to myself.,B5:E,NULL,H:X:E,NULL,MPQ:SP,E3:AS
+q_698,Don't mind being the center of attention.,B5:E,NULL,H:X:SB,NULL,NULL,NULL
+q_704,Don't pretend to be more than I am.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_706,Don't put my mind on the task at hand.,NULL,BFAS:C:I,NULL,NULL,NULL,NULL
+q_711,Don't strive for elegance in my appearance.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_712,Don't talk a lot.,B5:E,NULL,H:X:E,NULL,NULL,NULL
+q_716,Don't think that I'm better than other people.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_721,Don't understand people who get emotional.,NULL,NULL,H:E:S,NULL,NULL,O3:EM
+q_727,Don't worry about things that have already happened.,NULL,NULL,H:E:A,NULL,MPQ:SR,N1:ANX
+q_744,Enjoy being part of a group.,NULL,NULL,H:X:S,NULL,MPQ:SC,E2:GR
+q_747,Enjoy being thought of as a normal mainstream person.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_757,"Enjoy feeling ""close to the earth.""",NULL,NULL,H:O:A,NULL,NULL,NULL
+q_761,Enjoy intellectual games.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_776,Enjoy the beauty of nature.,NULL,BFAS:O:O,NULL,NULL,NULL,O2:AI
+q_804,Face danger confidently.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_811,Tend to feel very hopeless.,NULL,NULL,NULL,QB6:ES,NULL,NULL
+q_815,Feel at ease with people.,B5:E,NULL,NULL,NULL,NULL,NULL
+q_819,Feel comfortable around people.,B5:E,NULL,H:X:SB,NULL,NULL,E1:FR
+q_820,Feel comfortable with myself.,NULL,BFAS:N:W,NULL,NULL,MPQ:SR,N3:DE
+q_832,Feel healthy and vibrant most of the time.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_838,Feel little concern for others.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_844,Feel others' emotions.,B5:A,BFAS:A:C,H:E:S,NULL,NULL,O3:EM
+q_861,Feel that I have a lot of inner strength.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_871,Feel that most people can't be trusted.,NULL,NULL,H:A:FO,NULL,NULL,NULL
+q_890,Feel threatened easily.,B5:ES,BFAS:N:W,NULL,NULL,NULL,NULL
+q_898,Find fault with everything.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_901,Find it difficult to approach others.,B5:E,NULL,H:X:SB,NULL,NULL,N4:SC
+q_904,Find it difficult to get down to work.,B5:C,BFAS:C:I,NULL,NULL,NULL,C5:SD
+q_915,Find it hard to forgive others.,NULL,NULL,H:A:FO,NULL,NULL,NULL
+q_917,Find it necessary to please the people who have power.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_923,Find political discussions interesting.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_926,Find that it takes a lot to make me feel angry at someone.,NULL,NULL,H:A:P,NULL,NULL,NULL
+q_930,Finish what I start.,NULL,BFAS:C:I,NULL,NULL,NULL,NULL
+q_931,Follow a schedule.,B5:C,BFAS:C:O,NULL,NULL,NULL,NULL
+q_946,Formulate ideas clearly.,NULL,BFAS:O:I,NULL,NULL,NULL,NULL
+q_952,Get angry easily.,B5:ES,BFAS:N:V,H:A:P,QB6:A,NULL,N2:ANG
+q_958,Get back at people who insult me.,NULL,NULL,H:A:FO,QB6:A,NULL,NULL
+q_960,Get caught up in my problems.,B5:ES,NULL,NULL,NULL,NULL,N1:ANX
+q_962,Get chores done right away.,B5:C,NULL,H:C:O,NULL,NULL,C5:SD
+q_964,Get deeply immersed in music.,NULL,BFAS:O:O,H:O:A,NULL,NULL,NULL
+q_965,Get easily agitated.,NULL,BFAS:N:V,NULL,NULL,NULL,NULL
+q_966,Get even with others.,NULL,NULL,H:A:FO,NULL,NULL,NULL
+q_974,Get irritated easily.,B5:ES,NULL,H:A:P,NULL,NULL,N2:ANG
+q_979,Get overwhelmed by emotions.,B5:ES,NULL,NULL,NULL,NULL,N6:VU
+q_985,Get started quickly on doing a job.,NULL,NULL,H:C:D,NULL,NULL,NULL
+q_986,Get stressed out easily.,B5:ES,NULL,H:E:A,NULL,MPQ:SR,N1:ANX
+q_988,Get things done quickly.,NULL,BFAS:C:I,NULL,NULL,NULL,NULL
+q_994,Get upset by unpleasant thoughts that come into my mind.,NULL,NULL,H:E:A,NULL,NULL,NULL
+q_995,Get upset easily.,B5:ES,BFAS:N:V,H:A:P,NULL,NULL,N2:ANG
+q_997,Get upset if others change the way that I have arranged things.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_1020,Grumble about things.,B5:ES,NULL,NULL,NULL,NULL,NULL
+q_1024,Hang around doing nothing.,NULL,NULL,H:C:D,NULL,NULL,NULL
+q_1027,Hate being the center of attention.,NULL,NULL,H:X:SB,NULL,NULL,NULL
+q_1031,Hate to seem pushy.,NULL,BFAS:A:P,NULL,NULL,NULL,A4:CO
+q_1033,Hate waiting for anything.,NULL,NULL,NULL,QB6:A,NULL,NULL
+q_1041,Have a good word for everyone.,B5:A,NULL,H:A:G,NULL,NULL,A3:AL
+q_1043,Have a lot of fun.,NULL,BFAS:E:E,H:X:L,NULL,MPQ:WB,E6:CH
+q_1050,Have a rich vocabulary.,B5:O,BFAS:O:I,H:O:I,QB6:O,NULL,O5:IN
+q_1051,Have a sharp tongue.,NULL,NULL,H:A:G,NULL,MPQ:AG,A4:CO
+q_1053,Have a soft heart.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1054,Have a strong need for power.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1055,Have a strong personality.,NULL,BFAS:E:A,H:X:SB,NULL,NULL,NULL
+q_1058,Have a vivid imagination.,B5:O,NULL,H:O:C,NULL,MPQ:AB,O1:IM
+q_1063,Have an eye for detail.,NULL,NULL,H:C:PE,NULL,NULL,NULL
+q_1064,"Have an intense, boisterous laugh.",NULL,NULL,H:X:E,NULL,NULL,NULL
+q_1083,Have difficulty imagining things.,B5:O,NULL,H:O:C,NULL,NULL,O1:IM
+q_1088,Have difficulty understanding abstract ideas.,B5:O,BFAS:O:I,NULL,QB6:O,NULL,O5:IN
+q_1090,Have excellent ideas.,B5:O,NULL,H:O:C,NULL,NULL,NULL
+q_1099,Have frequent mood swings.,B5:ES,NULL,NULL,NULL,MPQ:SR,N3:DE
+q_1104,Have great stamina.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_1110,Have leadership abilities.,NULL,NULL,H:X:SB,NULL,NULL,NULL
+q_1114,Have little to say.,B5:E,NULL,H:X:SB,NULL,MPQ:SP,E3:AS
+q_1132,Have read the great literary classics.,NULL,NULL,H:O:A,NULL,NULL,NULL
+q_1146,Have trouble guessing how others will react.,NULL,NULL,H:O:C,NULL,NULL,NULL
+q_1150,Hold a grudge.,NULL,NULL,H:A:FO,NULL,MPQ:AG,A4:CO
+q_1151,Hold back my opinions.,NULL,BFAS:E:A,NULL,NULL,NULL,E3:AS
+q_1159,Immediately feel sad when hearing of an unhappy event.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_1162,Inquire about others' well-being.,B5:A,BFAS:A:C,NULL,NULL,NULL,NULL
+q_1163,Insult people.,B5:A,BFAS:A:P,NULL,NULL,NULL,A4:CO
+q_1173,Jump into things without thinking.,NULL,NULL,H:C:PR,NULL,MPQ:CO,C6:CA
+q_1180,Keep in the background.,B5:E,NULL,H:X:SB,NULL,MPQ:SP,E3:AS
+q_1185,Keep my emotions under control.,NULL,BFAS:N:V,NULL,NULL,NULL,NULL
+q_1196,Keep others at a distance.,NULL,BFAS:E:E,H:X:S,NULL,MPQ:SC,E1:FR
+q_1201,Keep things tidy.,NULL,BFAS:C:O,H:C:O,NULL,NULL,NULL
+q_1205,Know how to captivate people.,B5:E,BFAS:E:A,NULL,NULL,NULL,NULL
+q_1206,Know how to comfort others.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1232,Know that my ideas sometimes surprise people.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_1242,Lack the talent for influencing people.,NULL,BFAS:E:A,NULL,NULL,MPQ:SP,NULL
+q_1243,Laugh a lot.,NULL,BFAS:E:E,H:X:L,QB6:X,NULL,NULL
+q_1253,Learn things slowly.,NULL,BFAS:O:I,NULL,NULL,NULL,NULL
+q_1254,Leave a mess in my room.,B5:C,NULL,H:C:O,QB6:C,NULL,C2:OR
+q_1255,Leave my belongings around.,B5:C,BFAS:C:O,H:C:O,NULL,NULL,C2:OR
+q_1260,Let myself be influenced by others.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1276,Let people push me around to help them feel important.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_1290,Like order.,B5:C,BFAS:C:O,H:C:O,QB6:C,NULL,C2:OR
+q_1296,Like to attract attention.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_1300,Like to be thought of as a normal kind of person.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_1301,Like to be viewed as proper and conventional.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_1306,Like to do frightening things.,NULL,NULL,H:E:F,QB6:H,NULL,NULL
+q_1307,Like to do things for others.,NULL,BFAS:A:C,NULL,NULL,NULL,NULL
+q_1321,Like to plan ahead.,NULL,NULL,NULL,QB6:C,MPQ:CO,NULL
+q_1327,Like to solve complex problems.,NULL,BFAS:O:I,NULL,NULL,NULL,O5:IN
+q_1333,Like to tidy up.,B5:C,NULL,H:C:O,NULL,NULL,C2:OR
+q_1357,Lose my temper.,NULL,NULL,H:A:P,NULL,NULL,N2:ANG
+q_1359,Love a good fight.,NULL,BFAS:A:P,NULL,NULL,NULL,A4:CO
+q_1364,Love children.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1367,Love dangerous situations.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_1372,Love luxury.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1373,Love my enemies.,NULL,NULL,H:A:FO,NULL,NULL,NULL
+q_1374,Love order and regularity.,B5:C,NULL,NULL,NULL,NULL,C2:OR
+q_1379,Love to chat.,NULL,NULL,H:X:S,NULL,MPQ:SC,NULL
+q_1385,Love to help others.,B5:A,NULL,NULL,NULL,NULL,A3:AL
+q_1388,Love to read challenging material.,B5:O,NULL,H:O:I,NULL,NULL,O5:IN
+q_1389,Love to reflect on things.,NULL,BFAS:O:O,NULL,NULL,MPQ:AB,NULL
+q_1392,Love to think up new ways of doing things.,B5:O,NULL,H:O:C,NULL,NULL,NULL
+q_1393,Maintain high energy throughout the day.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_1395,Make a fool of myself.,NULL,NULL,H:C:PR,NULL,NULL,NULL
+q_1397,Make a mess of things.,B5:C,NULL,NULL,NULL,MPQ:CO,NULL
+q_1401,Make careless mistakes.,NULL,NULL,H:C:PR,NULL,NULL,NULL
+q_1410,Make friends easily.,B5:E,BFAS:E:E,H:X:S,NULL,MPQ:SC,E1:FR
+q_1419,Make people feel at ease.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1422,Make plans and stick to them.,B5:C,NULL,H:C:PR,NULL,MPQ:CO,NULL
+q_1424,Make rash decisions.,NULL,NULL,H:C:PR,NULL,MPQ:CO,C6:CA
+q_1429,Mess things up.,NULL,BFAS:C:I,NULL,NULL,NULL,NULL
+q_1441,Need a creative outlet.,NULL,BFAS:O:O,NULL,NULL,NULL,NULL
+q_1446,Need protection.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1447,Need reassurance.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1448,Need the approval of others.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1452,Neglect my duties.,B5:C,NULL,NULL,NULL,NULL,NULL
+q_1479,Often feel blue.,B5:ES,NULL,H:X:L,NULL,MPQ:WB,N3:DE
+q_1480,Often feel uncomfortable around others.,B5:E,NULL,NULL,NULL,NULL,E1:FR
+q_1483,Often forget to put things back in their proper place.,B5:C,NULL,H:C:O,NULL,NULL,C2:OR
+q_1490,Often need help.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1495,Often worry about things that turn out to be unimportant.,NULL,NULL,H:E:A,NULL,NULL,NULL
+q_1505,Panic easily.,B5:ES,NULL,H:E:A,QB6:ES,MPQ:SR,N6:VU
+q_1507,Pay attention to details.,B5:C,NULL,H:C:PE,NULL,MPQ:CO,NULL
+q_1511,Pay too little attention to details.,NULL,NULL,H:C:PE,QB6:C,NULL,NULL
+q_1517,Play a role in order to impress people.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_1521,Postpone decisions.,NULL,BFAS:C:I,NULL,NULL,NULL,C5:SD
+q_1536,Prefer to eat at expensive restaurants.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1537,Prefer to just let things happen.,NULL,NULL,H:C:PE,NULL,NULL,NULL
+q_1543,Pretend to be concerned for others.,NULL,NULL,H:H:S,NULL,NULL,A2:MO
+q_1550,Push myself very hard to succeed.,NULL,NULL,H:C:D,NULL,NULL,NULL
+q_1555,Put on a show to impress people.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_1556,Rarely put people under pressure.,NULL,BFAS:A:P,NULL,NULL,NULL,A2:MO
+q_1563,Quickly lose interest in the tasks I start.,NULL,NULL,H:C:D,NULL,NULL,NULL
+q_1571,Rarely complain.,NULL,NULL,H:A:G,NULL,MPQ:AG,N2:ANG
+q_1573,Rarely cry during sad movies.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_1575,Rarely enjoy being with people.,NULL,NULL,H:X:S,NULL,NULL,NULL
+q_1577,Rarely feel angry with people.,NULL,NULL,H:A:P,NULL,NULL,NULL
+q_1578,Rarely feel depressed.,NULL,BFAS:N:W,H:E:A,NULL,NULL,NULL
+q_1583,Rarely get caught up in the excitement.,NULL,BFAS:E:E,NULL,NULL,NULL,NULL
+q_1585,Rarely get irritated.,B5:ES,BFAS:N:V,H:A:P,NULL,MPQ:AG,N2:ANG
+q_1588,Rarely lose my composure.,NULL,BFAS:N:V,NULL,NULL,NULL,NULL
+q_1591,Rarely show my anger.,NULL,NULL,NULL,QB6:A,NULL,NULL
+q_1596,Rarely worry.,NULL,NULL,H:E:A,QB6:ES,NULL,NULL
+q_1601,React strongly to criticism.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_1609,Rebel against authority.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_1616,Remain calm under pressure.,NULL,NULL,H:E:A,NULL,NULL,N6:VU
+q_1624,Respect authority.,NULL,BFAS:A:P,NULL,NULL,NULL,NULL
+q_1633,Return extra change when a cashier makes a mistake.,NULL,NULL,H:H:F,NULL,NULL,NULL
+q_1635,Reveal little about myself.,NULL,BFAS:E:E,NULL,QB6:X,NULL,NULL
+q_1643,Say little.,NULL,NULL,H:X:E,NULL,NULL,NULL
+q_1648,See beauty in things that others might not notice.,NULL,BFAS:O:O,H:O:A,NULL,MPQ:AB,O2:AI
+q_1652,See myself as a good leader.,NULL,BFAS:E:A,NULL,NULL,MPQ:SP,NULL
+q_1653,See myself as an average person.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_1657,See that rules are observed.,NULL,BFAS:C:O,NULL,NULL,NULL,NULL
+q_1663,Seek conflict.,NULL,BFAS:A:P,NULL,NULL,NULL,NULL
+q_1667,Seek status.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1668,Seek support.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1675,Seldom daydream.,NULL,BFAS:O:O,NULL,NULL,NULL,O1:IM
+q_1676,Seldom experience sudden intuitive insights.,NULL,NULL,H:O:C,QB6:O,NULL,NULL
+q_1677,Seldom feel blue.,B5:ES,BFAS:N:W,NULL,NULL,MPQ:SR,N3:DE
+q_1679,Seldom feel weepy while reading the sad part of a story.,NULL,NULL,H:E:S,NULL,NULL,NULL
+q_1681,Seldom get emotional.,NULL,NULL,H:E:S,NULL,NULL,O3:EM
+q_1682,Seldom get lost in thought.,NULL,BFAS:O:O,NULL,NULL,MPQ:AB,O1:IM
+q_1683,Seldom get mad.,B5:ES,NULL,H:A:P,NULL,MPQ:AG,N2:ANG
+q_1685,Seldom joke around.,NULL,NULL,NULL,QB6:X,NULL,E6:CH
+q_1687,Seldom notice the emotional aspects of paintings and pictures.,NULL,BFAS:O:O,H:O:A,NULL,NULL,NULL
+q_1696,Shirk my duties.,B5:C,NULL,NULL,QB6:C,NULL,NULL
+q_1703,Show my feelings when I'm happy.,NULL,BFAS:E:E,NULL,QB6:X,NULL,NULL
+q_1705,Show my gratitude.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1706,Show my sadness.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1709,Smile a lot.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_1725,Speak ill of others.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_1730,Speak softly.,NULL,NULL,H:X:E,NULL,NULL,NULL
+q_1738,Spend time reflecting on things.,B5:O,NULL,NULL,NULL,NULL,O1:IM
+q_1742,Start conversations.,B5:E,NULL,NULL,NULL,NULL,NULL
+q_1747,Steal things.,NULL,NULL,H:H:F,QB6:H,NULL,NULL
+q_1752,Stick to the rules.,NULL,NULL,NULL,QB6:H,NULL,A2:MO
+q_1754,Stop when work becomes too difficult.,NULL,NULL,H:C:D,NULL,NULL,NULL
+q_1759,Suspect that my facial expressions give me away when I feel sad.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1761,Swim against the current.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_1762,Switch my loyalties when I feel like it.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_1763,Sympathize with others' feelings.,B5:A,BFAS:A:C,NULL,NULL,NULL,NULL
+q_1765,Take advantage of others.,NULL,BFAS:A:P,NULL,NULL,NULL,A2:MO
+q_1766,Take an interest in other people's lives.,NULL,BFAS:A:C,NULL,NULL,NULL,NULL
+q_1768,Take charge.,B5:E,BFAS:E:A,NULL,NULL,MPQ:SP,E3:AS
+q_1774,Take no time for others.,NULL,BFAS:A:C,NULL,NULL,NULL,A3:AL
+q_1775,Take offense easily.,B5:ES,NULL,NULL,NULL,NULL,NULL
+q_1780,Am willing to take risks.,NULL,NULL,NULL,QB6:H,NULL,NULL
+q_1787,Take things as they come.,NULL,NULL,H:A:G,NULL,NULL,NULL
+q_1792,Take time out for others.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1795,Talk a lot.,NULL,NULL,H:X:E,NULL,NULL,NULL
+q_1803,Talk to a lot of different people at parties.,B5:E,NULL,H:X:S,QB6:X,NULL,E2:GR
+q_1808,Tell other people what they want to hear so that they will do what I want them to do.,NULL,NULL,H:H:S,NULL,NULL,NULL
+q_1810,Tell people about it when I'm irritated.,NULL,NULL,H:X:E,NULL,NULL,NULL
+q_1832,Think of others first.,B5:A,NULL,NULL,NULL,NULL,NULL
+q_1834,Think quickly.,NULL,BFAS:O:I,NULL,NULL,NULL,NULL
+q_1848,Tire out quickly.,NULL,NULL,H:X:L,NULL,NULL,NULL
+q_1853,Tremble in dangerous situations.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_1861,Try to avoid complex people.,B5:O,NULL,H:O:U,NULL,NULL,NULL
+q_1867,Try to follow the rules.,NULL,NULL,H:H:F,NULL,NULL,C3:DU
+q_1869,Try to forgive and forget.,NULL,NULL,H:A:FO,NULL,MPQ:AG,NULL
+q_1871,Try to impress others.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1893,Use difficult words.,B5:O,NULL,NULL,NULL,NULL,NULL
+q_1894,Use flattery to get ahead.,NULL,NULL,H:H:S,NULL,NULL,A2:MO
+q_1896,Use others for my own ends.,NULL,NULL,NULL,QB6:H,NULL,A2:MO
+q_1904,Usually like to spend my free time with people.,NULL,NULL,H:X:S,NULL,NULL,NULL
+q_1913,Wait for others to lead the way.,B5:E,BFAS:E:A,NULL,NULL,NULL,E3:AS
+q_1915,Want every detail taken care of.,NULL,BFAS:C:O,H:C:PE,NULL,NULL,NULL
+q_1916,Want everything to add up perfectly.,NULL,NULL,H:C:PE,NULL,NULL,NULL
+q_1917,Want everything to be just right.,NULL,BFAS:C:O,H:C:O,NULL,NULL,C2:OR
+q_1924,Want to be liked.,NULL,NULL,H:E:D,NULL,NULL,NULL
+q_1943,Warm up quickly to others.,NULL,BFAS:E:E,NULL,NULL,MPQ:SC,E1:FR
+q_1949,Waste my time.,B5:C,BFAS:C:I,NULL,QB6:C,NULL,C5:SD
+q_1957,Often bothered by at least one in group interactions.,NULL,NULL,H:A:FL,NULL,NULL,NULL
+q_1964,Will not probe deeply into a subject.,B5:O,NULL,H:O:I,NULL,NULL,NULL
+q_1969,Wish to stay young forever.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_1979,Work hard.,NULL,NULL,H:C:D,NULL,MPQ:AC,C4:AS
+q_1989,Worry about things.,B5:ES,BFAS:N:W,H:E:A,NULL,MPQ:SR,N1:ANX
+q_1992,Would be afraid to give a speech in public.,NULL,NULL,H:X:SB,NULL,NULL,NULL
+q_1993,Would be good at rescuing people from a burning building.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_2001,Would fear walking in a high-crime part of a city.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_2003,Would feel very badly for a long time if I were to steal from someone.,NULL,NULL,H:H:F,NULL,NULL,NULL
+q_2005,Would hate to be considered odd or strange.,NULL,NULL,H:O:U,NULL,NULL,NULL
+q_2008,Would like to have more power than other people.,NULL,NULL,H:H:M,NULL,NULL,NULL
+q_2011,Would love to explore strange places.,NULL,NULL,H:O:I,NULL,NULL,NULL
+q_2016,Would never cheat on my taxes.,NULL,NULL,H:H:F,NULL,NULL,A2:MO
+q_2018,Would never go riding down a stretch of rapids in a canoe.,NULL,NULL,H:E:F,NULL,NULL,NULL
+q_2021,Would never take things that aren't mine.,NULL,NULL,H:H:F,QB6:H,MPQ:AG,NULL
+q_2024,Would not enjoy a highly social job,NULL,NULL,H:X:S,NULL,NULL,NULL
+q_2025,Would not enjoy being a famous celebrity.,NULL,NULL,H:H:GA,NULL,NULL,NULL
+q_2029,Would not regret my behavior if I were to take advantage of someone impulsively.,NULL,NULL,H:H:F,NULL,NULL,NULL
+q_2160,Am not a very enthusiastic person.,NULL,BFAS:E:E,NULL,NULL,NULL,NULL
+q_2161,Do not have an assertive personality.,NULL,BFAS:E:A,NULL,NULL,NULL,NULL
+q_2737,Am a goal-oriented person.,NULL,NULL,NULL,QB6:C,NULL,NULL
+q_2756,Am considered to be a wise person.,NULL,NULL,NULL,QB6:O,NULL,NULL
+q_2775,Am not all that curious about the world.,NULL,NULL,NULL,QB6:O,NULL,NULL
+q_2853,Cannot imagine lying or cheating.,NULL,NULL,NULL,QB6:H,NULL,NULL
+q_2891,Don't pride myself on being original.,NULL,NULL,NULL,QB6:O,NULL,NULL
+q_2900,Don't think it's important to socialize with others.,NULL,NULL,NULL,QB6:X,NULL,NULL

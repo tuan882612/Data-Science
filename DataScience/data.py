@@ -4,6 +4,8 @@ import numpy as np
 import random
 import json
 
+from requests import get
+
 def get_metaData(data):
     print(data['table']['column_header'])
 
@@ -89,6 +91,89 @@ def parse_birth_location(sample):
             
     return arr
 
+def parse_raw_big5():
+    df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
+    df1 = pd.read_csv(".\DataScience\Data Sets\\big5_data1.csv")
+
+    #df 17  df1 23
+    
+    parameters = ['gender', 'age', 'marstatus', 'country', 'state']
+
+    questions = list(df.columns[17:])
+    sample = df[parameters+questions][:].fillna('-')
+
+    questions1 = list(df1.columns[23:])
+    sample1 = df1[parameters+questions1][:].fillna('-')
+    
+    arr = []
+    
+    for i in range(len(sample)):
+        temp = dict(sample.iloc[i])
+        hash = {}
+        
+        if temp['country'] != '-' or temp['state'] != '-':
+            for key, val in temp.items():
+                key = key.lower()
+
+                if val != '-':
+                    if type(val) != str:
+                        val = int(val)
+                            
+                        if val >= 5 or key == 'age':
+                            hash[key] = val
+                    else:
+                        val = val.lower()
+                        hash[key] = val
+                
+            arr.append(hash)
+
+    # with open('./format_v2.json', 'w', encoding='utf-8') as f:
+    #     json.dump(arr, f, ensure_ascii=False, indent=4)
+    
+def get_error(data):
+    error = []
+
+    for key, val in data.items():
+        if val not in data:
+            error.append((key, val))
+            
+    if len(error) == 0: 
+        return None
+    return error
+    
+def build_big5_key():
+    df = pd.read_csv("Data-Science\DataScience\Data Sets\\big5_data.csv").fillna('-')
+    data = dict(zip(df['index'],df['item']))
+
+    df2 = pd.read_csv("Data-Science\DataScience\Data Sets\\big5_data1.csv").fillna('-')
+    ref = dict(zip(df2['text'],df2['label']))
+
+    if get_error(data) == 0:
+        hash = {}
+        
+        for key, val in data.items():
+            hash[key] = ref[val]
+
+        print(hash)
+    # with open('./big5_key.json', 'w', encoding='utf-8') as f:
+    #     json.dump(hash, f, ensure_ascii=False, indent=4)
+        
+def build_big5_dataset():
+    df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
+    df1 = pd.read_csv(".\DataScience\Data Sets\\big5_data1.csv")
+
+    #df 17  df1 23
+    parameters = ['gender', 'age', 'marstatus', 'country', 'state']
+
+    questions = list(df.columns[17:])
+    sample = df[parameters+questions][:].fillna('-')
+
+    questions1 = list(df1.columns[23:])
+    sample1 = df1[parameters+questions1][:].fillna('-')
+
+    final = parse_raw_big5(sample)
+    print(final)
+    
 def build_locations():
     data = json.load(open('Data-Science\data.json',encoding="utf8"))
     hash = {}
@@ -302,7 +387,8 @@ def build_dataset4():
         
     with open('Data-Science\\data4.json', 'w', encoding='utf-8') as f:
         json.dump(hash, f, ensure_ascii=False, indent=4)
-    
+        
+
 def search_data():
     data = json.load(open('Data-Science\data.json',encoding="utf8"))[:]
     
@@ -375,6 +461,7 @@ def search_data2():
         
         if i == occuppation and i in meta:
             print("found")
+            
 def test():
     hash = set()
     hash.add("state")
@@ -386,9 +473,12 @@ if __name__ == "__main__":
     # build_dataset3()
     # build_dataset4()
     # build_attributes()
+    # build_big5_dataset()
+    # build_big5_key()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
+    parse_raw_big5()
     # search_data()
     # search_data2()
     # test()
