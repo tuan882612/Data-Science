@@ -138,6 +138,29 @@ def get_error(data):
     if len(error) == 0: 
         return None
     return error
+
+def build_country_key1():
+    c1 = json.load(open('Data-Science\\format_v2.json',encoding="utf8"))
+    c2 = json.load(open('Data-Science\\format2_v2.json',encoding="utf8"))
+    ref = json.load(open('Data-Science\\temp.json',encoding="utf8"))
+
+    error = set()
+    
+    for i in c1:
+        for j in c2:
+            if i["country"] != j["country"]:
+                error.add(i["country"] )
+                
+    # for i in c2:
+    #     if i not in c1:
+    #         hash[i] = ref[i]
+    #     else:
+    #         hash[i] = c2[i]
+            
+    # print(hash)
+    
+    with open('Data-Science\error.json', 'w', encoding='utf-8') as f:
+        json.dump(error, f, ensure_ascii=False, indent=4)
     
 def build_big5_key():
     df = pd.read_csv("Data-Science\DataScience\Data Sets\\big5_data.csv").fillna('-')
@@ -157,9 +180,9 @@ def build_big5_key():
     #     json.dump(hash, f, ensure_ascii=False, indent=4)
 
 def build_big5_final_dataset():
-    data = json.load(open('data_sample.json',encoding="utf8"))
-    trait = json.load(open('big5_key.json',encoding="utf8"))
-    country = json.load(open('country_key.json',encoding="utf8"))
+    data = json.load(open('Data-Science\\format_v2.json',encoding="utf8"))
+    trait = json.load(open('Data-Science\\big5_key.json',encoding="utf8"))
+    country = json.load(open('Data-Science\country_key.json',encoding="utf8"))
     
     headers = ['gender', 'age', 'marstatus', 'country', 'state']
     arr = []
@@ -180,7 +203,7 @@ def build_big5_final_dataset():
         hash['country'] = country[hash['country'].upper()]
         arr.append(hash)
         
-    with open('big5_sample_final.json', 'w', encoding='utf-8') as f:
+    with open('Data-Science\\big5_final', 'w', encoding='utf-8') as f:
         json.dump(arr, f, ensure_ascii=False, indent=4)
         
 def build_big5_dataset():
@@ -488,10 +511,8 @@ def search_data2():
             print("found")
             
 def test():
-    hash = set()
-    hash.add("state")
-    print(hash)
-            
+    pass
+
 if __name__ == "__main__":
     # build_dataset()
     # build_dataset2()
@@ -501,6 +522,7 @@ if __name__ == "__main__":
     # build_big5_dataset()
     # build_big5_final_dataset()
     # build_big5_key()
+    build_country_key1()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
