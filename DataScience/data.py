@@ -88,45 +88,6 @@ def parse_birth_location(sample):
             arr.append(i)
             
     return arr
-
-def parse_raw_big5():
-    df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
-    df1 = pd.read_csv(".\DataScience\Data Sets\\big5_data1.csv")
-
-    #df 17  df1 23
-    
-    parameters = ['gender', 'age', 'marstatus', 'country', 'state']
-
-    questions = list(df.columns[17:])
-    sample = df[parameters+questions][:].fillna('-')
-
-    questions1 = list(df1.columns[23:])
-    sample1 = df1[parameters+questions1][:].fillna('-')
-    
-    arr = []
-    
-    for i in range(len(sample)):
-        temp = dict(sample.iloc[i])
-        hash = {}
-        
-        if temp['country'] != '-' or temp['state'] != '-':
-            for key, val in temp.items():
-                key = key.lower()
-
-                if val != '-':
-                    if type(val) != str:
-                        val = int(val)
-                            
-                        if val >= 5 or key == 'age':
-                            hash[key] = val
-                    else:
-                        val = val.lower()
-                        hash[key] = val
-                
-            arr.append(hash)
-
-    # with open('./format_v2.json', 'w', encoding='utf-8') as f:
-    #     json.dump(arr, f, ensure_ascii=False, indent=4)
     
 def get_error(data):
     error = []
@@ -178,16 +139,21 @@ def build_big5_key():
         print(hash)
     # with open('./big5_key.json', 'w', encoding='utf-8') as f:
     #     json.dump(hash, f, ensure_ascii=False, indent=4)
-
-def build_big5_final_dataset():
-    data = json.load(open('Data-Science\\format_v2.json',encoding="utf8"))
-    trait = json.load(open('Data-Science\\big5_key.json',encoding="utf8"))
-    country = json.load(open('Data-Science\country_key.json',encoding="utf8"))
     
-    headers = ['gender', 'age', 'marstatus', 'country', 'state']
+def build_big5_final_dataset():
+    data = json.load(open('Data-Science/format_v2.json',encoding="utf8"))
+    data1 = json.load(open('Data-Science/format2_v2.json',encoding="utf8"))
+    trait = json.load(open('Data-Science/big5_key.json',encoding="utf8"))
+    country = json.load(open('Data-Science/country_key.json',encoding="utf8"))
+    
+    headers = ['gender', 'age', 'marstatus', 'country', 'state']         
+    missing = {'sarawakborneo':'malaysia',
+                'sabahborneo':'malaysia',
+                'brunei':'malaysia'}
+
     arr = []
     
-    for node in data:
+    for node in data+data1:
         hash = {}
         temp = []
         
@@ -200,11 +166,58 @@ def build_big5_final_dataset():
                 hash[i] = node[i]
             
         hash['trait'] = temp
-        hash['country'] = country[hash['country'].upper()]
+        
+        if 'country' in hash:
+            hash['country'] = country[hash['country'].upper()]
+        else:
+            hash['country'] = missing[hash['state']]
+            
         arr.append(hash)
         
-    with open('Data-Science\\big5_final', 'w', encoding='utf-8') as f:
+    arr.sort(key = lambda x:x['age'])
+    print(f'Number of units in processed data is {len(arr)}.')
+    
+    with open('Data-Science/big5_dataset.json', 'w', encoding='utf-8') as f:
         json.dump(arr, f, ensure_ascii=False, indent=4)
+    
+def parse_raw_big5():
+    df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
+    df1 = pd.read_csv(".\DataScience\Data Sets\\big5_data1.csv")
+
+    #df 17  df1 23
+    
+    parameters = ['gender', 'age', 'marstatus', 'country', 'state']
+
+    questions = list(df.columns[17:])
+    sample = df[parameters+questions][:].fillna('-')
+
+    questions1 = list(df1.columns[23:])
+    sample1 = df1[parameters+questions1][:].fillna('-')
+    
+    arr = []
+    
+    for i in range(len(sample)):
+        temp = dict(sample.iloc[i])
+        hash = {}
+        
+        if temp['country'] != '-' or temp['state'] != '-':
+            for key, val in temp.items():
+                key = key.lower()
+
+                if val != '-':
+                    if type(val) != str:
+                        val = int(val)
+                            
+                        if val >= 5 or key == 'age':
+                            hash[key] = val
+                    else:
+                        val = val.lower()
+                        hash[key] = val
+                
+            arr.append(hash)
+
+    # with open('./format_v2.json', 'w', encoding='utf-8') as f:
+    #     json.dump(arr, f, ensure_ascii=False, indent=4)
         
 def build_big5_dataset():
     df = pd.read_csv(".\DataScience\Data Sets\\big5_data.csv.csv")
@@ -520,9 +533,9 @@ if __name__ == "__main__":
     # build_dataset4()
     # build_attributes()
     # build_big5_dataset()
-    # build_big5_final_dataset()
+    build_big5_final_dataset()
     # build_big5_key()
-    build_country_key1()
+    # build_country_key1()
     # build_us_attributes()
     # build_career_attr()
     # build_locations()
